@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Demo: Add points to a web map</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v2.3.0/mapbox-gl.js"></script>
+    <link
+      href="https://api.tiles.mapbox.com/mapbox-gl-js/v2.3.0/mapbox-gl.css"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+      mapboxgl.accessToken = 'pk.eyJ1IjoidGhlZHlpbmdkcmFnb24iLCJhIjoiY2szNWN0MGsyMDI2OTNtdDR6Y25sMmZscCJ9.WN9pN7qbAj4MQdD7VzjODw';
+      var map = new mapboxgl.Map({
+        container: 'map',
+        style: 'mapbox://styles/thedyingdragon/ckpm9xm5l4cd117p86qzvt0v8',
+        center: [-73.95801546411948, 40.718280012855935],
+        zoom: 14
+      });
+
+      map.on('click', function (e) {
+        var features = map.queryRenderedFeatures(e.point, {
+          layers: ['test', 'sunacmain']
+        });
+        if (!features.length) {
+          return;
+        }
+        var feature = features[0];
+
+        var popup = new mapboxgl.Popup({ offset: [0, -15] })
+          .setLngLat(feature.geometry.coordinates)
+          .setHTML(
+            '<h3>' + feature.properties.BUSINESSNAME + '</h3>' +
+            '<p>' + feature.properties.ADDRESS + '</p>' + 
+            '<p>' + feature.properties.PHONE + '</p>' + 
+            '<p>' + feature.properties.CATEGORY + '</p>'
+          )
+          .addTo(map);
+      });
+    </script>
+  </body>
+</html>
