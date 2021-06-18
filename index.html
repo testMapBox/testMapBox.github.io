@@ -33,24 +33,25 @@
         zoom: 14
       });
 
-      map.on('click', function (e) {
-        var features = map.queryRenderedFeatures(e.point, {
-          layers: ['test', 'sunacmain']
-        });
+      var popup = new mapboxgl.Popup({className: 'testing'});
+
+      map.on('mousemove', function(e) {
+        var features = map.queryRenderedFeatures(e.point, { layers: ['test', 'sunacmain'] });
         if (!features.length) {
+          popup.remove();
           return;
         }
         var feature = features[0];
 
-        var popup = new mapboxgl.Popup({ offset: [0, -15] })
-          .setLngLat(feature.geometry.coordinates)
+        popup.setLngLat(feature.geometry.coordinates)
           .setHTML(
-            '<h3>' + feature.properties.BUSINESSNAME + '</h3>' +
+            '<h3><a href="' + feature.properties.URL + '">' + feature.properties.BUSINESSNAME + '</a></h3>' + 
             '<p>' + feature.properties.ADDRESS + '</p>' + 
             '<p>' + feature.properties.PHONE + '</p>' + 
-            '<p>' + feature.properties.CATEGORY + '</p>'
+            '<p>' + feature.properties.DISTANCETOSUNAC + '</p>'
           )
           .addTo(map);
+        map.getCanvas().style.cursor = features.length ? 'pointer' : '';
       });
     </script>
   </body>
