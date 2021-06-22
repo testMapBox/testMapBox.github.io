@@ -45,10 +45,12 @@
 
         popup.setLngLat(feature.geometry.coordinates)
           .setHTML(
-            '<h3><a href="' + 'www.google.com' + '">' + feature.properties.BUSINESSNAME + '</a></h3>' + 
-            '<p>' + feature.properties.ADDRESS + '</p>' + 
+            '<h3>' + feature.properties.BUSINESSNAME + '</h3>' +  
+            '<p><img src="'+ feature.properties.IMAGE +'"/></p>' +
+            '<p>' + feature.properties.image + '</p>' + 
             '<p>' + feature.properties.PHONE + '</p>' + 
-            '<p>' + feature.properties.DISTANCETOSUNAC + '</p>'
+            '<p>' + feature.properties.CATEGORY + '</p>' +
+            '<p><a href="' + feature.properties.URL + '">' + feature.properties.URL + '</a>.</p>'
           )
           .addTo(map);
         map.getCanvas().style.cursor = features.length ? 'pointer' : '';
