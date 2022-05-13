@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>Demo</title>
+    <title>harlem-test</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v2.3.0/mapbox-gl.js"></script>
     <link
@@ -28,15 +28,15 @@
       mapboxgl.accessToken = 'pk.eyJ1IjoidGhlZHlpbmdkcmFnb24iLCJhIjoiY2szNWN0MGsyMDI2OTNtdDR6Y25sMmZscCJ9.WN9pN7qbAj4MQdD7VzjODw';
       var map = new mapboxgl.Map({
         container: 'map',
-        style: 'mapbox://styles/thedyingdragon/ckpm9xm5l4cd117p86qzvt0v8',
-        center: [-73.95801546411948, 40.718280012855935],
-        zoom: 14
+        style: 'mapbox://styles/thedyingdragon/cl3505zfw005o14tclp9r6gon',
+        center: [-73.927, 40.820],
+        zoom: 12
       });
 
       var popup = new mapboxgl.Popup({className: 'testing'});
 
       map.on('mousemove', function(e) {
-        var features = map.queryRenderedFeatures(e.point, { layers: ['test', 'sunacmain'] });
+        var features = map.queryRenderedFeatures(e.point, { layers: ['new1-bxney6'] });
         if (!features.length) {
           popup.remove();
           return;
@@ -45,12 +45,10 @@
 
         popup.setLngLat(feature.geometry.coordinates)
           .setHTML(
-            '<h3>' + feature.properties.BUSINESSNAME + '</h3>' +  
-            '<p><img src="'+ feature.properties.IMAGE +'"/></p>' +
-            '<p>' + feature.properties.image + '</p>' + 
-            '<p>' + feature.properties.PHONE + '</p>' + 
-            '<p>' + feature.properties.CATEGORY + '</p>' +
-            '<p><a href="' + feature.properties.URL + '">' + feature.properties.URL + '</a>.</p>'
+            '<h3>' + feature.properties.Name + '</h3>' +  
+            '<p>' + feature.properties.Phone + '</p>' + 
+            '<p>' + feature.properties.Category + '</p>' +
+            '<p>' + feature.properties.Address + '</p>
           )
           .addTo(map);
         map.getCanvas().style.cursor = features.length ? 'pointer' : '';
