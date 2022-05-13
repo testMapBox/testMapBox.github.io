@@ -20,6 +20,12 @@
         bottom: 0;
         width: 100%;
       }
+
+      .testing .mapboxgl-popup-content {
+        background-color: ghostwhite;
+        max-width: 500px;
+      }
+
     </style>
   </head>
   <body>
@@ -33,9 +39,30 @@
         zoom: 12
       });
 
-      var popup = new mapboxgl.Popup({className: 'testing'});
+      // map.on('click', function (e) {
+      //   var features = map.queryRenderedFeatures(e.point, {
+      //     layers: ['new1-bxney6']
+      //   });
+      //   if (!features.length) {
+      //     return;
+      //   }
+      //   var feature = features[0];
 
-      map.on('mousemove', function(e) {
+      //   var popup = new mapboxgl.Popup({ offset: [0, -15] })
+      //     .setLngLat(feature.geometry.coordinates)
+      //     .setHTML(
+      //       '<h3>' + feature.properties.Name + '</h3>' +
+      //       '<p>' + feature.properties.Address + '</p>' + 
+      //       '<p>' + feature.properties.Phone + '</p>' + 
+      //       '<p>' + feature.properties.Category + '</p>'
+      //     )
+      //     .addTo(map);
+      // });
+
+      var popup = new mapboxgl.Popup({className: 'testing'});
+      //var popup1 = new mapboxgl.Popup();
+
+      map.on('click', function(e) {
         var features = map.queryRenderedFeatures(e.point, { layers: ['new1-bxney6'] });
         if (!features.length) {
           popup.remove();
@@ -46,13 +73,14 @@
         popup.setLngLat(feature.geometry.coordinates)
           .setHTML(
             '<h3>' + feature.properties.Name + '</h3>' +  
+            '<p>' + feature.properties.Address + '</p>' + 
             '<p>' + feature.properties.Phone + '</p>' + 
-            '<p>' + feature.properties.Category + '</p>' +
-            '<p>' + feature.properties.Address + '</p>
+            '<p>' + feature.properties.Category + '</p>'
           )
           .addTo(map);
         map.getCanvas().style.cursor = features.length ? 'pointer' : '';
       });
+
     </script>
   </body>
 </html>
