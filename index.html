@@ -63,7 +63,7 @@
       //var popup1 = new mapboxgl.Popup();
 
       map.on('click', function(e) {
-        var features = map.queryRenderedFeatures(e.point, { layers: ['harlem-stores', 'harlem-schools', 'harlem-realestate'] });
+        var features = map.queryRenderedFeatures(e.point, { layers: ['harlem-stores', 'harlem-schools', 'harlem-realestate', 'harlem-small'] });
         if (!features.length) {
           popup.remove();
           return;
