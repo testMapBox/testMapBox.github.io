@@ -39,7 +39,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoidGhlZHlpbmdkcmFnb24iLCJhIjoiY2szNWN0MGsyMDI2O
             'source': 'schools',
             'paint': {
                 'circle-color': '#ff0000',
-                'circle-radius': 6,
+                'circle-radius': 3,
                 'circle-stroke-width': 2,
                 'circle-stroke-color': '#ffffff'
             }
@@ -51,7 +51,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoidGhlZHlpbmdkcmFnb24iLCJhIjoiY2szNWN0MGsyMDI2O
             'source': 'smallB',
             'paint': {
                 'circle-color': '#008000',
-                'circle-radius': 6,
+                'circle-radius': 3,
                 'circle-stroke-width': 2,
                 'circle-stroke-color': '#ffffff'
             }
@@ -63,7 +63,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoidGhlZHlpbmdkcmFnb24iLCJhIjoiY2szNWN0MGsyMDI2O
             'source': 'realE',
             'paint': {
                 'circle-color': '#000080',
-                'circle-radius': 6,
+                'circle-radius': 3,
                 'circle-stroke-width': 2,
                 'circle-stroke-color': '#ffffff'
             }
@@ -75,7 +75,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoidGhlZHlpbmdkcmFnb24iLCJhIjoiY2szNWN0MGsyMDI2O
             'source': 'deli',
             'paint': {
                 'circle-color': '#000000',
-                'circle-radius': 6,
+                'circle-radius': 3,
                 'circle-stroke-width': 2,
                 'circle-stroke-color': '#ffffff'
             }
