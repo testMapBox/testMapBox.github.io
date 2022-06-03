@@ -1,0 +1,645 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94741,
+                    40.7975955
+                ]
+            },
+            "properties": {
+                "name": "A B Sea Group Family Day Care",
+                "address": "22 E 112th St, Ste 605, Manhattan, NY 10029",
+                "phone": "+13472012717",
+                "category": "Preschools,Child Care & Day Care"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93681,
+                    40.80645
+                ]
+            },
+            "properties": {
+                "name": "Aargo Services",
+                "address": "112 E 128th St, New York, NY 10035",
+                "phone": "+12124279856",
+                "category": "Elementary Schools,Middle Schools & High Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9436795,
+                    40.7910002
+                ]
+            },
+            "properties": {
+                "name": "Amber Charter School",
+                "address": "220 E 106th St, New York, NY 10029",
+                "phone": "+12125349667",
+                "category": "Elementary Schools,Middle Schools & High Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.941949903965,
+                    40.8459200710058
+                ]
+            },
+            "properties": {
+                "name": "Bright Beginnings Daycare",
+                "address": "738 W 173rd St, New York, NY 10032",
+                "phone": "+16463724007",
+                "category": "Child Care & Day Care,Preschools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95374,
+                    40.80612
+                ]
+            },
+            "properties": {
+                "name": "City Seminary Of New York",
+                "address": "2204 Frederick Douglass Blvd, New York, NY 10026",
+                "phone": "+12127492717",
+                "category": "Religious Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9475586845702,
+                    40.817293532943
+                ]
+            },
+            "properties": {
+                "name": "Eagle Academy For Young Men of Harlem",
+                "address": "6 Edgecombe Ave, New York, NY 10030",
+                "phone": "+12126946051",
+                "category": "Middle Schools & High Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94902,
+                    40.82763
+                ]
+            },
+            "properties": {
+                "name": "Future Prints Harlem Child Care",
+                "address": "561 West 147 St, New York, NY 10031",
+                "phone": "+16466853438",
+                "category": "Preschools,Child Care & Day Care"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9487135277996,
+                    40.7977287221115
+                ]
+            },
+            "properties": {
+                "name": "Harlem Academy",
+                "address": "1330 5th Ave, New York, NY 10026",
+                "phone": "+12123482600",
+                "category": "Elementary Schools,Middle Schools & High Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9410095214844,
+                    40.8061981201172
+                ]
+            },
+            "properties": {
+                "name": "Harlem Children's Zone Promise Academy",
+                "address": "35 E 125th St, New York, NY 10035",
+                "phone": "+12125340700",
+                "category": "Elementary Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95317,
+                    40.7988
+                ]
+            },
+            "properties": {
+                "name": "Harlem Childrens Zone",
+                "address": "125 W 110th St, New York, NY 10026",
+                "phone": "+12122224960",
+                "category": "Preschools,Summer Camps"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.953075,
+                    40.804844
+                ]
+            },
+            "properties": {
+                "name": "Harlem Hebrew Language Academy Charter School",
+                "address": "147 St Nicholas Ave, New York, NY 10026",
+                "phone": "+12128664608",
+                "category": "Elementary Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.948558,
+                    40.803135
+                ]
+            },
+            "properties": {
+                "name": "Harlem Success",
+                "address": "34 W 118th, New York, NY 10026",
+                "phone": "+16462777170",
+                "category": "Elementary Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9440809190273,
+                    40.8063507825136
+                ]
+            },
+            "properties": {
+                "name": "Harlem Village Academies",
+                "address": "35 W 124th St, New York, NY 10027",
+                "phone": "+16464841720",
+                "category": "Middle Schools & High Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94898,
+                    40.8108099
+                ]
+            },
+            "properties": {
+                "name": "Harriet Tubman",
+                "address": "250 W 127th St, New York, NY 10027",
+                "phone": "+12128642400",
+                "category": "Elementary Schools,Middle Schools & High Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9360885620117,
+                    40.7960014343262
+                ]
+            },
+            "properties": {
+                "name": "Haynalem Family Day Care",
+                "address": "352 E 116th St, Apt 1, New York, NY 10029",
+                "phone": "+16469644607",
+                "category": "Child Care & Day Care,Preschools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9529037,
+                    40.7874794
+                ]
+            },
+            "properties": {
+                "name": "Imagine Early Learning Centers",
+                "address": "60 East 97th Street, New York, NY 10029",
+                "phone": "+12124102077",
+                "category": "Child Care & Day Care,Preschools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.948616,
+                    40.793673
+                ]
+            },
+            "properties": {
+                "name": "Jackie Robinson Education Complex",
+                "address": "1573 Madison Ave, New York, NY 10029",
+                "phone": "",
+                "category": "Middle Schools & High Schools,Elementary Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9507014,
+                    40.7876181
+                ]
+            },
+            "properties": {
+                "name": "Lexington Children's Center",
+                "address": "115 E 98th St, New York, NY 10029",
+                "phone": "+12124101060",
+                "category": "Specialty Schools,Preschools,Elementary Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.957405,
+                    40.810699
+                ]
+            },
+            "properties": {
+                "name": "Margaret Douglas",
+                "address": "123 Morningside Dr, New York, NY 10027",
+                "phone": "+12126905807",
+                "category": "Elementary Schools,Middle Schools & High Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94735,
+                    40.83655
+                ]
+            },
+            "properties": {
+                "name": "Metamorphosis Child Care II",
+                "address": "853 Riverside Dr, New York, NY 10032",
+                "phone": "+19172727000",
+                "category": "Child Care & Day Care,Preschools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95798,
+                    40.81147
+                ]
+            },
+            "properties": {
+                "name": "Morningside Playcare Immersion",
+                "address": "501 W 123rd St, New York, NY 10027",
+                "phone": "+12123160313",
+                "category": "Preschools,Child Care & Day Care"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9598137033612,
+                    40.8093248691539
+                ]
+            },
+            "properties": {
+                "name": "Mudd Hall",
+                "address": "500 W 120th St, New York, NY 10027",
+                "phone": "+12128545638",
+                "category": "Elementary Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.948109,
+                    40.823658
+                ]
+            },
+            "properties": {
+                "name": "Our Lady of Lourdes School",
+                "address": "468 W 143rd St, New York, NY 10031",
+                "phone": "+12129265820",
+                "category": "Private Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9424,
+                    40.83155
+                ]
+            },
+            "properties": {
+                "name": "P.S. 28 Wright Brothers School",
+                "address": "475 W 155th St, New York, NY 10032",
+                "phone": "+12126903014",
+                "category": "Elementary Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94706,
+                    40.82629
+                ]
+            },
+            "properties": {
+                "name": "PS 153-Adam Clayton Powell",
+                "address": "1750 Amsterdam Ave, New York, NY 10031",
+                "phone": "+12129278611",
+                "category": "Elementary Schools,Middle Schools & High Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.953697,
+                    40.800117
+                ]
+            },
+            "properties": {
+                "name": "Peartree Preschool",
+                "address": "132 W 112th St, New York, NY 10026",
+                "phone": "+12128664105",
+                "category": "Preschools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93754,
+                    40.80025
+                ]
+            },
+            "properties": {
+                "name": "Peque\u00c3\u00b1ines Daycare",
+                "address": "120th E st, Fl 1, New York, NY 10035",
+                "phone": "+19294329006",
+                "category": "Child Care & Day Care,Preschools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9427567,
+                    40.8059998
+                ]
+            },
+            "properties": {
+                "name": "Pono",
+                "address": "2002 5th Ave, Manhattan, NY 10027",
+                "phone": "+16464908517",
+                "category": "Preschools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95014,
+                    40.78616
+                ]
+            },
+            "properties": {
+                "name": "Preschool of America",
+                "address": "1501 Lexington Ave, New York, NY 10029",
+                "phone": "+12129873700",
+                "category": "Child Care & Day Care,Preschools,Summer Camps"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93976,
+                    40.79274
+                ]
+            },
+            "properties": {
+                "name": "St Ann The Personal School",
+                "address": "314 E 110th St, New York, NY 10029",
+                "phone": "+12127221295",
+                "category": "Elementary Schools,Middle Schools & High Schools,Religious Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9445817,
+                    40.8199001
+                ]
+            },
+            "properties": {
+                "name": "Success Academy Harlem 5",
+                "address": "301 W 140th St, Fl 3, New York, NY 10030",
+                "phone": "+16463802580",
+                "category": "Elementary Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.948967,
+                    40.797958
+                ]
+            },
+            "properties": {
+                "name": "Sunshine Learning Center",
+                "address": "1330 5th Ave, New York, NY 10026",
+                "phone": "+12124441177",
+                "category": "Child Care & Day Care,Preschools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.948226,
+                    40.789146
+                ]
+            },
+            "properties": {
+                "name": "Sunshine Learning Center at Lexington",
+                "address": "1595 Lexington Ave, New York, NY 10029",
+                "phone": "+12124442026",
+                "category": "Child Care & Day Care,Preschools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9346496015787,
+                    40.8051974326372
+                ]
+            },
+            "properties": {
+                "name": "The King's Academy",
+                "address": "2345 3rd Ave, New York, NY 10035",
+                "phone": "+12123487331",
+                "category": "Preschools,Elementary Schools,Middle Schools & High Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9607,
+                    40.81709
+                ]
+            },
+            "properties": {
+                "name": "The Red Balloon Early Childhood Learning Center",
+                "address": "560 Riverside Dr, New York, NY 10027",
+                "phone": "+12126639006",
+                "category": "Child Care & Day Care,Elementary Schools,Preschools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93962,
+                    40.79351
+                ]
+            },
+            "properties": {
+                "name": "The Susan Patricof Head Start Center",
+                "address": "302-306 East 111th St, Northside Center For Child Development, New York, NY 10029",
+                "phone": "+16463511300",
+                "category": "Preschools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9629866562809,
+                    40.8121171797324
+                ]
+            },
+            "properties": {
+                "name": "The Weekday School",
+                "address": "490 Riverside Dr, New York, NY 10027",
+                "phone": "+12128706767",
+                "category": "Preschools,Summer Camps"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9439681,
+                    40.8105519
+                ]
+            },
+            "properties": {
+                "name": "Uptown Harlem Gems",
+                "address": "381 Lenox Ave, New York, NY 10027",
+                "phone": "+16465395898",
+                "category": "Preschools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9451294,
+                    40.8102798
+                ]
+            },
+            "properties": {
+                "name": "West Harlem EarlyLearn NYC Preschool & Family Child Care Network",
+                "address": "121 W 128th St, Manhattan, NY 10027",
+                "phone": "+12126657586",
+                "category": "Preschools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.942618444562,
+                    40.8297651261091
+                ]
+            },
+            "properties": {
+                "name": "Young Unlimited Child Care",
+                "address": "449 W 153rd St, Manhattan, NY 10031",
+                "phone": "+16466676804",
+                "category": "Child Care & Day Care,Preschools"
+            }
+        }
+    ]
+}
