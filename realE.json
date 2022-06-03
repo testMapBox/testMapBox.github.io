@@ -1,0 +1,1989 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9556122087372,
+                    40.7877971265274
+                ]
+            },
+            "properties": {
+                "name": "1160 Fifth Avenue",
+                "address": "1160 5th Ave, New York, NY 10029",
+                "phone": "+12122621675",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.952774,
+                    40.791618
+                ]
+            },
+            "properties": {
+                "name": "1214 Fifth Ave",
+                "address": "1214 Fifth Ave, New York, NY 10029",
+                "phone": "+16469924137",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9435472,
+                    40.8354352
+                ]
+            },
+            "properties": {
+                "name": "159 Real Estate",
+                "address": "3826 Broadway, New York, NY 10032",
+                "phone": "+12129231800",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9433289,
+                    40.7986717
+                ]
+            },
+            "properties": {
+                "name": "1627 Park Ave",
+                "address": "1627 Park Ave, New York, NY 10029",
+                "phone": "",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96061,
+                    40.81456
+                ]
+            },
+            "properties": {
+                "name": "185 Claremont Ave",
+                "address": "185 Claremont Ave, Apt 5D, New York, NY 10027",
+                "phone": "+12126623160",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9366379,
+                    40.8012619
+                ]
+            },
+            "properties": {
+                "name": "212 East 122nd Street",
+                "address": "212 East 122nd St, New York, NY 10035",
+                "phone": "",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93748,
+                    40.80079
+                ]
+            },
+            "properties": {
+                "name": "2211 HAP Ten",
+                "address": "2211 Third Ave, New York, NY 10035",
+                "phone": "",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95643084493487,
+                    40.81999160507477
+                ]
+            },
+            "properties": {
+                "name": "3333 Broadway",
+                "address": "3333 Broadway, Manhattan, NY 10031",
+                "phone": "+16469695545",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94725,
+                    40.83015
+                ]
+            },
+            "properties": {
+                "name": "3660 Broadway Associates",
+                "address": "555 W 151st St, Ste 26, New York, NY 10031",
+                "phone": "",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.944465637207,
+                    40.8249969482422
+                ]
+            },
+            "properties": {
+                "name": "723 St Nicholas Realty",
+                "address": "723 St Nicholas Ave, Manhattan, NY 10031",
+                "phone": "+17186252039",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9423,
+                    40.81489
+                ]
+            },
+            "properties": {
+                "name": "Aimco",
+                "address": "131 W 135th St Frnt 2, New York, NY 10030",
+                "phone": "+12122346635",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9473595,
+                    40.809643
+                ]
+            },
+            "properties": {
+                "name": "Aizer Realty Group",
+                "address": "177 W 126th St, New York, NY 10027",
+                "phone": "+16462912011",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.948974609375,
+                    40.8255009799898
+                ]
+            },
+            "properties": {
+                "name": "Alberta",
+                "address": "620 W 143rd St Riverside Dr, Manhattan, NY 10031",
+                "phone": "+12129970606",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9434,
+                    40.83564
+                ]
+            },
+            "properties": {
+                "name": "American Plaza",
+                "address": "3834 Broadway, New York, NY 10032",
+                "phone": "+12125434110",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95423,
+                    40.803304
+                ]
+            },
+            "properties": {
+                "name": "Andrick Management",
+                "address": "223 W 115th St, Ste 1, New York, NY 10026",
+                "phone": "",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9551147,
+                    40.8050239
+                ]
+            },
+            "properties": {
+                "name": "Ariela Heilman - Halstead Property",
+                "address": "2169 Frederick Douglass Blvd, New York, NY 10026",
+                "phone": "+12123812581",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94279,
+                    40.7862
+                ]
+            },
+            "properties": {
+                "name": "Aspen Luxury Apartments",
+                "address": "1955 1st Ave, New York, NY 10029",
+                "phone": "+12128761955",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9430299,
+                    40.84478
+                ]
+            },
+            "properties": {
+                "name": "Bard-Haven Towers I II&III",
+                "address": "100 Haven Ave, New York, NY 10032",
+                "phone": "+12123054357",
+                "category": "University Housing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9368536,
+                    40.8155298
+                ]
+            },
+            "properties": {
+                "name": "Beacon Mews Apartments",
+                "address": "34 W 139th St, New York, NY 10037",
+                "phone": "",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.956901,
+                    40.802886
+                ]
+            },
+            "properties": {
+                "name": "Beth Gittleman - Bohemia Realty Group",
+                "address": "2101 Frederick Douglass Blvd, New York, NY 10026",
+                "phone": "+16464087785",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93795,
+                    40.83527
+                ]
+            },
+            "properties": {
+                "name": "Bmw Parkview",
+                "address": "421 W 162nd St, New York, NY 10032",
+                "phone": "+12127404806",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95506806649156,
+                    40.804079900497726
+                ]
+            },
+            "properties": {
+                "name": "Bohemia Realty Group",
+                "address": "256 West 116th St, Fl 2, New York, NY 10026",
+                "phone": "+12126636215",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9486371699232,
+                    40.8237648314599
+                ]
+            },
+            "properties": {
+                "name": "Bond New York Upper Manhattan",
+                "address": "1677 Amsterdam Av, New York, NY 10027",
+                "phone": "+16467191821",
+                "category": "Real Estate Agents,Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94245,
+                    40.83752
+                ]
+            },
+            "properties": {
+                "name": "Bop Apartment Services",
+                "address": "Manhattan, NY 10032",
+                "phone": "+16465923102",
+                "category": "Apartment Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.951141,
+                    40.82478
+                ]
+            },
+            "properties": {
+                "name": "Broadway Room Rental Service",
+                "address": "3488 W 142nd And 143th St Broadway, Manhattan, NY 10031",
+                "phone": "+17184074698",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.955,
+                    40.8052
+                ]
+            },
+            "properties": {
+                "name": "Brown Harris Stevens - Harlem",
+                "address": "2169 Frederick Douglass Blvd, New York, NY 10026",
+                "phone": "",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94086,
+                    40.80213
+                ]
+            },
+            "properties": {
+                "name": "C+C Apartment Management",
+                "address": "1735 Park Ave, Fl 3, New York, NY 10035",
+                "phone": "+12123483248",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.950761,
+                    40.786449
+                ]
+            },
+            "properties": {
+                "name": "Carnegie Hill Place",
+                "address": "1500 Lexington Ave, New York, NY 10029",
+                "phone": "+12123480500",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9402074739337,
+                    40.8363175646774
+                ]
+            },
+            "properties": {
+                "name": "Ce Realty Corp",
+                "address": "1045 Saint Nicholas Ave, New York, NY 10032",
+                "phone": "+12125689900",
+                "category": "Immigration Law,Real Estate Agents,Tax Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9429878,
+                    40.8435554
+                ]
+            },
+            "properties": {
+                "name": "Columbia University Medical Center-Facilities Management",
+                "address": "60 Haven Ave, New York, NY 10032",
+                "phone": "+12123054357",
+                "category": "University Housing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9518890380859,
+                    40.8086357116699
+                ]
+            },
+            "properties": {
+                "name": "Covington Realty Services",
+                "address": "270 W 123rd St, New York, NY 10027",
+                "phone": "+12126652955",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.948066,
+                    40.787483
+                ]
+            },
+            "properties": {
+                "name": "Dawnay Day Real Estate",
+                "address": "1790 3rd Ave, Fl 3, New York, NY 10029",
+                "phone": "+12122899200",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9551147,
+                    40.8050239
+                ]
+            },
+            "properties": {
+                "name": "DeAnna Rieber - Halstead Property",
+                "address": "2169 Frederick Douglass Blvd, New York, NY 10026",
+                "phone": "+16463271572",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.955,
+                    40.8052
+                ]
+            },
+            "properties": {
+                "name": "Deborah Miller - Brown Harris Stevens",
+                "address": "2169 Frederick Douglass Blvd, New York, NY 10026",
+                "phone": "+12123812580",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.951502,
+                    40.8258169
+                ]
+            },
+            "properties": {
+                "name": "Delta Room Rentals",
+                "address": "3515 Broadway Ave, Manhattan, NY 10031",
+                "phone": "+12128620030",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.956902,
+                    40.802887
+                ]
+            },
+            "properties": {
+                "name": "Don Burroughs - Bohemia Realty Group",
+                "address": "2101 Frederick Douglass Blvd, Manhattan, NY 10026",
+                "phone": "+19175252561",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9560547,
+                    40.8031998
+                ]
+            },
+            "properties": {
+                "name": "Douglas Elliman Real Estate - Harlem Gallery",
+                "address": "2112 Frederick Douglass Blvd, New York, NY 10026",
+                "phone": "+12128651100",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93809,
+                    40.82514
+                ]
+            },
+            "properties": {
+                "name": "Dunbar Apartments",
+                "address": "226 W 150th St, New York, NY 10039",
+                "phone": "+16469735540",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93553,
+                    40.79683
+                ]
+            },
+            "properties": {
+                "name": "East River Lofts",
+                "address": "340 E 117th St, New York, NY 10035",
+                "phone": "+19175039710",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9435241,
+                    40.8252063
+                ]
+            },
+            "properties": {
+                "name": "Edward Sisters realty Associates",
+                "address": "740 St Nicholas, New York, NY 10031",
+                "phone": "+12129267200",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.956893,
+                    40.802886
+                ]
+            },
+            "properties": {
+                "name": "Erik Sisco-Bohemia Realty Group",
+                "address": "2101 Frederick Douglass Blvd, New York, NY 10026",
+                "phone": "+19176835720",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.935845,
+                    40.822805
+                ]
+            },
+            "properties": {
+                "name": "Esplanade Gardens",
+                "address": "129 W 147th St, New York, NY 10039",
+                "phone": "+12124914255",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.943519,
+                    40.825172
+                ]
+            },
+            "properties": {
+                "name": "Esra Realty",
+                "address": "740 Saint Nicholas Ave, New York, NY 10031",
+                "phone": "+12129267200",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94486,
+                    40.80315
+                ]
+            },
+            "properties": {
+                "name": "Fifth On The Park Condo",
+                "address": "1490 5th Ave, New York, NY 10035",
+                "phone": "+12122894270",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9522138,
+                    40.8192483
+                ]
+            },
+            "properties": {
+                "name": "Foxworth Realty",
+                "address": "1524 Amsterdam Ave, New York, NY 10031",
+                "phone": "+12123684902",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9379045,
+                    40.8251874
+                ]
+            },
+            "properties": {
+                "name": "GFB Management",
+                "address": "226 West 150th St, New York, NY 10039",
+                "phone": "+16469735540",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.956893,
+                    40.802886
+                ]
+            },
+            "properties": {
+                "name": "Garlia Jones-Ly - Bohemia Realty Group",
+                "address": "2101 Frederick Douglass Blvd, New York, NY 10026",
+                "phone": "+15867472108",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94368,
+                    40.81603
+                ]
+            },
+            "properties": {
+                "name": "Greater Harlem Housing Development",
+                "address": "200 W 136th St, New York, NY 10030",
+                "phone": "+12128628299",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.942633,
+                    40.787599
+                ]
+            },
+            "properties": {
+                "name": "Hampton Court Luxury Apartments - Glenwood",
+                "address": "333 E 102nd St, New York, NY 10029",
+                "phone": "+12123697800",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94280145970271,
+                    40.81839827551861
+                ]
+            },
+            "properties": {
+                "name": "Handymen Wilson & Martinez",
+                "address": "New York, NY 10030",
+                "phone": "+19292002206",
+                "category": "Contractors,Property Management,Home Cleaning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9396820006728,
+                    40.805496031351
+                ]
+            },
+            "properties": {
+                "name": "Harlem 125 Apartments",
+                "address": "69 E 125th St, New York, NY 10035",
+                "phone": "",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9463658,
+                    40.807018
+                ]
+            },
+            "properties": {
+                "name": "Harlem Business Alliance",
+                "address": "275 Malcolm X Blvd, New York, NY 10027",
+                "phone": "+12126657010",
+                "category": "Shared Office Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9458069,
+                    40.8067041
+                ]
+            },
+            "properties": {
+                "name": "Harlem Lofts",
+                "address": "272 Malcolm X Blvd, New York, NY 10027",
+                "phone": "+12122808866",
+                "category": "Real Estate Agents,Real Estate Services,Commercial Real Estate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94884,
+                    40.80364
+                ]
+            },
+            "properties": {
+                "name": "Harlem Properties Team at Compass",
+                "address": "163 Lenox Ave, Manhattan, NY 10026",
+                "phone": "+12123691518",
+                "category": "Real Estate Services,Commercial Real Estate,Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.945847,
+                    40.806649
+                ]
+            },
+            "properties": {
+                "name": "Harlem Property Management",
+                "address": "270 Malcolm X Blvd, New York, NY 10027",
+                "phone": "+12122806823",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.956893,
+                    40.802886
+                ]
+            },
+            "properties": {
+                "name": "Heather Huff - Bohemia Realty Group",
+                "address": "2101 Frederick Douglass, New York, NY 10026",
+                "phone": "+19177806820",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.942626,
+                    40.811
+                ]
+            },
+            "properties": {
+                "name": "Imani Management",
+                "address": "408 Malcolm X Blvd, New York, NY 10027",
+                "phone": "+12125430448",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9618,
+                    40.8138999
+                ]
+            },
+            "properties": {
+                "name": "International House",
+                "address": "500 Riverside Dr, New York, NY 10027",
+                "phone": "+12123168400",
+                "category": "Community Service/Non-Profit,University Housing,Colleges & Universities"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95159,
+                    40.8123099
+                ]
+            },
+            "properties": {
+                "name": "J&M Realty Services",
+                "address": "343 St Nicholas Ave, Ste 1, New York, NY 10027",
+                "phone": "+12127210424",
+                "category": "Property Management,Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9411010742188,
+                    40.7986831665039
+                ]
+            },
+            "properties": {
+                "name": "Jakandy",
+                "address": "153 E 116th St, Apt 2F, New York, NY 10029",
+                "phone": "+12123698582",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94533,
+                    40.81376
+                ]
+            },
+            "properties": {
+                "name": "Jake Knopfler - UpTown Flats",
+                "address": "2248 7th Ave, New York, NY 10027",
+                "phone": "+18458260120",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.956892,
+                    40.802886
+                ]
+            },
+            "properties": {
+                "name": "John Ruocco - Bohemia Realty Group",
+                "address": "2101 Frederick Douglass Blvd, New York, NY 10026",
+                "phone": "+19179408909",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9522018432617,
+                    40.80322265625
+                ]
+            },
+            "properties": {
+                "name": "Julia Organizes",
+                "address": "New York, NY 10026",
+                "phone": "+12549138244",
+                "category": "Home Organization,Packing Services,Home Staging"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95558,
+                    40.80596
+                ]
+            },
+            "properties": {
+                "name": "K&R Realty Management",
+                "address": "316 West 118th St, Fl 4, New York, NY 10026",
+                "phone": "+12123605092",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94992,
+                    40.82476
+                ]
+            },
+            "properties": {
+                "name": "Kenneth Thornton - Town Residential",
+                "address": "New York, NY 10031",
+                "phone": "+13157278553",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.936,
+                    40.794682
+                ]
+            },
+            "properties": {
+                "name": "Kseniya Photography",
+                "address": "2222 1st Ave, New York, NY 10029",
+                "phone": "",
+                "category": "Session Photography,Event Photography,Real Estate Photography"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9391784667969,
+                    40.8270797729492
+                ]
+            },
+            "properties": {
+                "name": "Ledvech Group",
+                "address": "New York, NY 10039",
+                "phone": "+12122039685",
+                "category": "Real Estate Services,Commercial Real Estate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9412103,
+                    40.81284734955985
+                ]
+            },
+            "properties": {
+                "name": "Lenox Terrace",
+                "address": "470 Lenox Ave, New York, NY 10037",
+                "phone": "+12128628900",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.940963,
+                    40.812713
+                ]
+            },
+            "properties": {
+                "name": "Lenox Terrace Development",
+                "address": "470 Malcolm X Blvd, New York, NY 10037",
+                "phone": "+12124914807",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.941183151065,
+                    40.813264287393
+                ]
+            },
+            "properties": {
+                "name": "Lenox Terrace Leasing",
+                "address": "484 Malcolm X Blvd, New York, NY 10037",
+                "phone": "+12128628900",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9500885009766,
+                    40.824878692627
+                ]
+            },
+            "properties": {
+                "name": "Life By Design",
+                "address": "New York, NY 10031",
+                "phone": "+19176280660",
+                "category": "Home Staging,Interior Design,Home Organization"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94951,
+                    40.81397
+                ]
+            },
+            "properties": {
+                "name": "Lionel Hampton Houses",
+                "address": "410 Saint Nicholas Ave, New York, NY 10027",
+                "phone": "+12123684204",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.956901,
+                    40.802886
+                ]
+            },
+            "properties": {
+                "name": "Lynnsey Garegnani - Bohemia Realty Group",
+                "address": "2101 Frederick Douglass Blvd, New York, NY 10026",
+                "phone": "+19705849295",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.953018,
+                    40.788311
+                ]
+            },
+            "properties": {
+                "name": "MSMC Residential Realty",
+                "address": "1413 Madison Ave, New York, NY 10029",
+                "phone": "+12128602510",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93736,
+                    40.80544
+                ]
+            },
+            "properties": {
+                "name": "Manhattan North Management Company",
+                "address": "107 E 126th St, Apt 9U, New York, NY 10035",
+                "phone": "+12129960200",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.937637,
+                    40.800601
+                ]
+            },
+            "properties": {
+                "name": "Manhattan Real Estate Appraisals Uptown",
+                "address": "2205 3rd Ave, New York, NY 10035",
+                "phone": "+12125002089",
+                "category": "Real Estate Services,Appraisal Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.938291,
+                    40.797533
+                ]
+            },
+            "properties": {
+                "name": "Mauro Brothers Real Estate",
+                "address": "239 E 116th St, Fl 2, New York, NY 10029",
+                "phone": "+12125344500",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9562204616744,
+                    40.8031370727966
+                ]
+            },
+            "properties": {
+                "name": "Mckinley Jones III - Douglas Elliman Real Estate",
+                "address": "2112 Fredrick Douglass Blvd, New York, NY 10026",
+                "phone": "+12125317747",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9424292,
+                    40.7861142
+                ]
+            },
+            "properties": {
+                "name": "Metro North Riverview Apts",
+                "address": "1960 1st Ave, New York, NY 10029",
+                "phone": "+12123480900",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.956901550293,
+                    40.8028869628906
+                ]
+            },
+            "properties": {
+                "name": "Michaela Morton - Bohemia Realty Group",
+                "address": "2101 Frederick Douglass Blvd, Manhattan, NY 10026",
+                "phone": "+13365771379",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94164,
+                    40.80646
+                ]
+            },
+            "properties": {
+                "name": "Micki Garcia Realty",
+                "address": "11 E 125th St, New York, NY 10035",
+                "phone": "+12126943893",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9503972,
+                    40.7863802
+                ]
+            },
+            "properties": {
+                "name": "Monterey at Lex",
+                "address": "1501 Lexington Ave, New York, NY 10029",
+                "phone": "+12122569895",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94381,
+                    40.83508
+                ]
+            },
+            "properties": {
+                "name": "Montilla's 159 Real Estate",
+                "address": "3810 Broadway, Manhattan, NY 10032",
+                "phone": "+12129231800",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94313,
+                    40.81545
+                ]
+            },
+            "properties": {
+                "name": "Myers Smith & Granady",
+                "address": "2307 Adam Clayton Powell, New York, NY 10030",
+                "phone": "+12126907000",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95095,
+                    40.82647
+                ]
+            },
+            "properties": {
+                "name": "NYC Rooms For Rent",
+                "address": "606 W 145th St, New York, NY 10031",
+                "phone": "+12123682685",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.955162,
+                    40.804143
+                ]
+            },
+            "properties": {
+                "name": "New Holland Residences",
+                "address": "256 West 116th St, Fl 3, New York, NY 10026",
+                "phone": "+16465567440",
+                "category": "Property Management,Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.954449,
+                    40.819212
+                ]
+            },
+            "properties": {
+                "name": "Norris James",
+                "address": "525 W 134th St, New York, NY 10031",
+                "phone": "+16466249373",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.941095,
+                    40.815645
+                ]
+            },
+            "properties": {
+                "name": "Orion Investment Group",
+                "address": "118 W 137th St, New York, NY 10030",
+                "phone": "+16463959125",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.942278,
+                    40.817833
+                ]
+            },
+            "properties": {
+                "name": "Perry Associates",
+                "address": "2374 Adam Clayton Powell Jr Blvd, New York, NY 10030",
+                "phone": "+12126905600",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93768,
+                    40.8419
+                ]
+            },
+            "properties": {
+                "name": "Perseus Management",
+                "address": "551 W 170th St, Manhattan, NY 10032",
+                "phone": "",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.935029,
+                    40.795993
+                ]
+            },
+            "properties": {
+                "name": "Pisacano Realty Group",
+                "address": "403 E 116th St, New York, NY 10029",
+                "phone": "+12124278595",
+                "category": "Real Estate Services,Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9407043457031,
+                    40.8226356506348
+                ]
+            },
+            "properties": {
+                "name": "Prestige Management",
+                "address": "239 W 145th St, New York, NY 10039",
+                "phone": "+12126940855",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9569,
+                    40.802885
+                ]
+            },
+            "properties": {
+                "name": "Raphael Fetta - Bohemia Realty Group",
+                "address": "2101 Frederick Douglass Blvd, Manhattan, NY 10026",
+                "phone": "+19175192648",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94572,
+                    40.81188
+                ]
+            },
+            "properties": {
+                "name": "Rapid Realty Harlem",
+                "address": "172 W 130th St, New York, NY 10027",
+                "phone": "+16463604951",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.949546,
+                    40.806606
+                ]
+            },
+            "properties": {
+                "name": "Raw Space",
+                "address": "2031 Adam Clayton Powell Junior Blvd, New York, NY 10027",
+                "phone": "+12126942887",
+                "category": "Art Space Rentals"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94189,
+                    40.78962
+                ]
+            },
+            "properties": {
+                "name": "Renaissance East Condo",
+                "address": "319 E 105th St, New York, NY 10029",
+                "phone": "+12122892412",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9425719,
+                    40.836726
+                ]
+            },
+            "properties": {
+                "name": "Rent Rooms Latino Americano",
+                "address": "3866 Broadway Ave, Manhattan, NY 10032",
+                "phone": "+16465599622",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9424379,
+                    40.78635
+                ]
+            },
+            "properties": {
+                "name": "River Crossing",
+                "address": "1954 1st Ave, New York, NY 10029",
+                "phone": "+12128384747",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.948506,
+                    40.836736
+                ]
+            },
+            "properties": {
+                "name": "River Terrace",
+                "address": "157-10 Riverside Dr W, New York, NY 10032",
+                "phone": "+12129284100",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.935585,
+                    40.813825
+                ]
+            },
+            "properties": {
+                "name": "Riverton Square",
+                "address": "2156 Madison Ave, Manhattan, NY 10037",
+                "phone": "+16466007599",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93733,
+                    40.81659
+                ]
+            },
+            "properties": {
+                "name": "Savoy Park Apartments",
+                "address": "45 W 139th St, New York, NY 10037",
+                "phone": "+18557286945",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9602139,
+                    40.8137
+                ]
+            },
+            "properties": {
+                "name": "Sovereign Associates",
+                "address": "3135 Broadway, Front A, New York, NY 10027",
+                "phone": "+16465599001",
+                "category": "Real Estate Agents,Commercial Real Estate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9529037475586,
+                    40.8115692138672
+                ]
+            },
+            "properties": {
+                "name": "Stafford International Realty Ltd",
+                "address": "New York, NY 10027",
+                "phone": "+12129963213",
+                "category": "Real Estate Agents,Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9344482,
+                    40.8024788
+                ]
+            },
+            "properties": {
+                "name": "Tapestry",
+                "address": "245 E 124th St, Manhattan, NY 10035",
+                "phone": "+12124106505",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.950885,
+                    40.8119639
+                ]
+            },
+            "properties": {
+                "name": "The Balton",
+                "address": "311 W 127th St, Manhattan, NY 10027",
+                "phone": "+18443797264",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9425926,
+                    40.8072117
+                ]
+            },
+            "properties": {
+                "name": "The Bizzarro Agency",
+                "address": "8 West 126th St, New York, NY 10027",
+                "phone": "+19179792259",
+                "category": "Real Estate Agents,Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95592,
+                    40.80313
+                ]
+            },
+            "properties": {
+                "name": "The Brian Phillips Team - Douglas Elliman Real Estate",
+                "address": "2112 Frederick Douglass Blvd, New York, NY 10026",
+                "phone": "+12125317726",
+                "category": "Real Estate Services,Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94493201621398,
+                    40.82958918658679
+                ]
+            },
+            "properties": {
+                "name": "The Harlem Collective",
+                "address": "1850 Amsterdam Ave, New York, NY 10031",
+                "phone": "+19174733839",
+                "category": "Shared Office Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93386,
+                    40.79758
+                ]
+            },
+            "properties": {
+                "name": "The Maestro Group",
+                "address": "2312 First Ave, New York, NY 10035",
+                "phone": "+19176572627",
+                "category": "Commercial Real Estate,Apartments,Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94855,
+                    40.83048
+                ]
+            },
+            "properties": {
+                "name": "The Rivercliff",
+                "address": "628 W 151st St, Manhattan, NY 10031",
+                "phone": "+12122621675",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.932922,
+                    40.798042
+                ]
+            },
+            "properties": {
+                "name": "The Stamford",
+                "address": "414 E 120th St, New York, NY 10035",
+                "phone": "",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95097,
+                    40.81463
+                ]
+            },
+            "properties": {
+                "name": "The Towers At CCNY",
+                "address": "401 W 130th St, New York, NY 10027",
+                "phone": "+19175078600",
+                "category": "University Housing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93777,
+                    40.80132
+                ]
+            },
+            "properties": {
+                "name": "Torresco Realty LLC",
+                "address": "New York, NY 10035",
+                "phone": "+12126960224",
+                "category": "Commercial Real Estate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9529037475586,
+                    40.8115692138672
+                ]
+            },
+            "properties": {
+                "name": "Traders Haven Design",
+                "address": "New York, NY 10027",
+                "phone": "+16142603858",
+                "category": "Home Staging,Interior Design"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94694,
+                    40.81019
+                ]
+            },
+            "properties": {
+                "name": "Trion Real Estate Management",
+                "address": "165 W 127th St, Ste 101, New York, NY 10027",
+                "phone": "+12122451980",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94103,
+                    40.81762
+                ]
+            },
+            "properties": {
+                "name": "Tryax Realty",
+                "address": "153 W 139th St, New York, NY 10030",
+                "phone": "+12126941915",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9319658,
+                    40.7964662
+                ]
+            },
+            "properties": {
+                "name": "Urban Green Builders",
+                "address": "340 Pleasant Ave, New York, NY 10035",
+                "phone": "+12124106336",
+                "category": "Real Estate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.948066,
+                    40.787483
+                ]
+            },
+            "properties": {
+                "name": "Vertical City Realty",
+                "address": "1790 3rd Ave, New York, NY 10029",
+                "phone": "+12122899600",
+                "category": "Real Estate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9421781,
+                    40.8071074
+                ]
+            },
+            "properties": {
+                "name": "WeWork Harlem",
+                "address": "8 West 126th St, New York, NY 10027",
+                "phone": "+18555939675",
+                "category": "Shared Office Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9569,
+                    40.802885
+                ]
+            },
+            "properties": {
+                "name": "Wendy Wood - Bohemia Realty Group",
+                "address": "2101 Frederick Douglas Blvd, New York, NY 10026",
+                "phone": "+15038805734",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9456589,
+                    40.8242267
+                ]
+            },
+            "properties": {
+                "name": "Willie Kathryn Suggs",
+                "address": "412 W 145th St, New York, NY 10031",
+                "phone": "+19172021692",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93895,
+                    40.84163
+                ]
+            },
+            "properties": {
+                "name": "Woodrow Court Apts",
+                "address": "565 W 169th St, New York, NY 10032",
+                "phone": "+12129234520",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9452383,
+                    40.8222941
+                ]
+            },
+            "properties": {
+                "name": "ZPM Management",
+                "address": "656 St Nicholas Ave, New York, NY 10030",
+                "phone": "+13474926925",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94297,
+                    40.79903
+                ]
+            },
+            "properties": {
+                "name": "finders.nyc",
+                "address": "102 E 116th St, New York, NY 10029",
+                "phone": "+17182890040",
+                "category": "Apartment Agents"
+            }
+        }
+    ]
+}

@@ -1,0 +1,3173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.957643,
+                    40.8118
+                ]
+            },
+            "properties": {
+                "name": "#1 Columbia Deli",
+                "address": "1290 Amsterdam Ave, New York, NY 10027",
+                "phone": "+12129321290",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.941727,
+                    40.82254
+                ]
+            },
+            "properties": {
+                "name": "145th St Finest Gourmet Deli",
+                "address": "2726 Frederick Douglass Blvd, Manhattan, NY 10030",
+                "phone": "+12123685880",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.940749,
+                    40.824983
+                ]
+            },
+            "properties": {
+                "name": "148 Deli Grocery",
+                "address": "2787 Frederick Douglass Blvd, New York, NY 10039",
+                "phone": "+12123684917",
+                "category": "Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9380268,
+                    40.8431495
+                ]
+            },
+            "properties": {
+                "name": "172 Presbyterian Deli",
+                "address": "1230 St Nicholas Ave, New York, NY 10030",
+                "phone": "+12126851230",
+                "category": "Breakfast & Brunch,Burgers,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94334,
+                    40.78992
+                ]
+            },
+            "properties": {
+                "name": "2037 Meat & Grocery",
+                "address": "2037 2nd Ave, New York, NY 10029",
+                "phone": "+12124267926",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.942131,
+                    40.807113
+                ]
+            },
+            "properties": {
+                "name": "2040 Deli",
+                "address": "2040 5th Ave, New York, NY 10035",
+                "phone": "+12128312538",
+                "category": "Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93955,
+                    40.79428
+                ]
+            },
+            "properties": {
+                "name": "2176 Grocery & Deli",
+                "address": "2176 2nd Ave, New York, NY 10029",
+                "phone": "+12123486193",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.944226,
+                    40.807044
+                ]
+            },
+            "properties": {
+                "name": "292 American Deli",
+                "address": "52 W 125th ST, Ste A, New York, NY 10027",
+                "phone": "+16466093712",
+                "category": "Breakfast & Brunch,Delis,Coffee & Tea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9368272,
+                    40.8299845
+                ]
+            },
+            "properties": {
+                "name": "2927 8 Av Corporation",
+                "address": "2927 Frederick Douglass B, New York, NY 10039",
+                "phone": "+12123681300",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94021,
+                    40.83632
+                ]
+            },
+            "properties": {
+                "name": "3 Star Deli Grocery",
+                "address": "1045 St Nicholas Ave, New York, NY 10032",
+                "phone": "+16466492054",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94511,
+                    40.80783
+                ]
+            },
+            "properties": {
+                "name": "304 Harlem Gourmet Deli",
+                "address": "304 Malcolm X Blvd, New York, NY 10027",
+                "phone": "+12128603277",
+                "category": "Delis,Head Shops,Tobacco Shops"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94793,
+                    40.8251
+                ]
+            },
+            "properties": {
+                "name": "4 Brothers Food Market & Deli",
+                "address": "1712 Amsterdam Ave, New York, NY 10031",
+                "phone": "+19293093915",
+                "category": "Mexican,Delis,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.935226,
+                    40.814769
+                ]
+            },
+            "properties": {
+                "name": "5 Avenue Gourmet Deli",
+                "address": "2289 5th Ave, New York, NY 10037",
+                "phone": "+12128627207",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94425,
+                    40.83392
+                ]
+            },
+            "properties": {
+                "name": "553 La Mina Super Market",
+                "address": "553 W 157th St, New York, NY 10032",
+                "phone": "+12129238868",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9426,
+                    40.80627
+                ]
+            },
+            "properties": {
+                "name": "5th Ave. Deli",
+                "address": "2 W 125th St, Manhattan, NY 10027",
+                "phone": "",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9376865,
+                    40.796777
+                ]
+            },
+            "properties": {
+                "name": "7-Eleven",
+                "address": "2256 2nd Ave, New York, NY 10029",
+                "phone": "+12122895186",
+                "category": "Convenience Stores,Coffee & Tea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9434894919395,
+                    40.7994662225246
+                ]
+            },
+            "properties": {
+                "name": "95 Park Deli",
+                "address": "95 E 116th St, Manhattan, NY 10029",
+                "phone": "",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9385099,
+                    40.84263
+                ]
+            },
+            "properties": {
+                "name": "99 Cents USA",
+                "address": "1210 Saint Nicholas Ave, New York, NY 10032",
+                "phone": "+12127815661",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93104640744507,
+                    40.79538
+                ]
+            },
+            "properties": {
+                "name": "ALDI",
+                "address": "517 E 117th St, New York, NY 10035",
+                "phone": "+18559552534",
+                "category": "Grocery,Fruits & Veggies,Organic Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9545750617981,
+                    40.8043523255068
+                ]
+            },
+            "properties": {
+                "name": "Adja Khady Food Distr Fatuh",
+                "address": "251 West 116th St, New York, NY 10026",
+                "phone": "+12129330374",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9527185,
+                    40.8073655
+                ]
+            },
+            "properties": {
+                "name": "Adnader Inc. Grocery",
+                "address": "218 St Nicholas Blvd, New York, NY 10027",
+                "phone": "",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.939591,
+                    40.821644
+                ]
+            },
+            "properties": {
+                "name": "Alexander\u00e2\u20ac\u2122s Top Deli and Grill",
+                "address": "2496 Adam Clayton Powell Jr Blvd, New York, NY 10030",
+                "phone": "+19173883808",
+                "category": "Delis,Juice Bars & Smoothies,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9464007,
+                    40.8111697
+                ]
+            },
+            "properties": {
+                "name": "Alzyadi Deli and Grocery",
+                "address": "2173 Adam Clayton Powell Ave, New York, NY 10027",
+                "phone": "",
+                "category": "Delis,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9412308,
+                    40.7927704
+                ]
+            },
+            "properties": {
+                "name": "Anabelle Deli & Grocery",
+                "address": "2121 2nd Ave, New York, NY 10029",
+                "phone": "+12129878314",
+                "category": "Delis,Grocery,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9500885009766,
+                    40.824878692627
+                ]
+            },
+            "properties": {
+                "name": "Anwar Deli",
+                "address": "Broadway, at 137th and Broadway, SW corner, New York, NY 10031",
+                "phone": "+12122811900",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9451,
+                    40.82402
+                ]
+            },
+            "properties": {
+                "name": "Apollo 2 Deli",
+                "address": "396 W 145th St, New York, NY 10031",
+                "phone": "+16468613452",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95882,
+                    40.80957
+                ]
+            },
+            "properties": {
+                "name": "Apple Tree Supermarket",
+                "address": "1225 Amsterdam Ave, New York, NY 10027",
+                "phone": "+12128658840",
+                "category": "Grocery,Delis,Breakfast & Brunch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9518921822309,
+                    40.8090913295746
+                ]
+            },
+            "properties": {
+                "name": "Associated",
+                "address": "2296 Frederick Douglass Blvd, New York, NY 10027",
+                "phone": "+12126633392",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94063,
+                    40.81996
+                ]
+            },
+            "properties": {
+                "name": "Associated Fresh Market",
+                "address": "2444 7th Ave, NEW YORK, NY 10030",
+                "phone": "+12122810060",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9419874548912,
+                    40.812361612916
+                ]
+            },
+            "properties": {
+                "name": "Associated Supermarket",
+                "address": "448 Malcolm X Blvd, New York, NY 10037",
+                "phone": "+12122811201",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94745,
+                    40.81496
+                ]
+            },
+            "properties": {
+                "name": "Azal's Deli",
+                "address": "2480 Frederick Douglass Blvd, New York, NY 10027",
+                "phone": "+12122342727",
+                "category": "Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9347554405819,
+                    40.7959399
+                ]
+            },
+            "properties": {
+                "name": "Azalea",
+                "address": "409 East 116 St, New York, NY 10029",
+                "phone": "+16464498368",
+                "category": "Coffee & Tea,Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94514,
+                    40.79149
+                ]
+            },
+            "properties": {
+                "name": "BM Deli & Grocery",
+                "address": "1916 3rd Ave, New York, NY 10029",
+                "phone": "+12128313008",
+                "category": "Grocery,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.960159,
+                    40.813785
+                ]
+            },
+            "properties": {
+                "name": "Bahamas Deli & Grocery",
+                "address": "3137 Broadway, New York, NY 10027",
+                "phone": "+12122228001",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.938163,
+                    40.840556
+                ]
+            },
+            "properties": {
+                "name": "Best Deli",
+                "address": "57 Audubon Ave, New York, NY 10032",
+                "phone": "",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9467222243547,
+                    40.7892993486679
+                ]
+            },
+            "properties": {
+                "name": "Big Apple Grocery Store",
+                "address": "1850 3rd Ave, New York, NY 10029",
+                "phone": "",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93854,
+                    40.7922
+                ]
+            },
+            "properties": {
+                "name": "Blue Sky Deli",
+                "address": "2135 1st Ave 110th St, New York, NY 10029",
+                "phone": "+16466827488",
+                "category": "Delis,Grocery,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9610562,
+                    40.8114318
+                ]
+            },
+            "properties": {
+                "name": "Broadway Au Lait",
+                "address": "3070 Broadway, New York, NY 10027",
+                "phone": "+12128658429",
+                "category": "Delis,Coffee & Tea,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9482,
+                    40.82906
+                ]
+            },
+            "properties": {
+                "name": "Broadway Finest Deli",
+                "address": "3620 Broadway, New York, NY 10031",
+                "phone": "+12122816567",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.945083,
+                    40.833084
+                ]
+            },
+            "properties": {
+                "name": "Broadway Gourmet",
+                "address": "3750 Broadway, New York, NY 10032",
+                "phone": "+19174727258",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9493899,
+                    40.82743
+                ]
+            },
+            "properties": {
+                "name": "Broadway Wholesome Food & Beer",
+                "address": "3578 Broadway, New York, NY 10031",
+                "phone": "+12123682222",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9462263,
+                    40.7983322
+                ]
+            },
+            "properties": {
+                "name": "C-Town Supermarket",
+                "address": "1718 Madison Ave, New York, NY 10029",
+                "phone": "+12125344467",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94642147259422,
+                    40.78949478700856
+                ]
+            },
+            "properties": {
+                "name": "COD Gourmet Deli",
+                "address": "1862 3rd Ave, New York, NY 10029",
+                "phone": "+12128311519",
+                "category": "Delis,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93940742913935,
+                    40.8350471
+                ]
+            },
+            "properties": {
+                "name": "CTown Supermarkets",
+                "address": "1016 St Nicholas Ave, New York, NY 10032",
+                "phone": "+12127952877",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9492,
+                    40.8021
+                ]
+            },
+            "properties": {
+                "name": "CVS Pharmacy",
+                "address": "130 Malcolm X Blvd, New York, NY 10026",
+                "phone": "+12123482199",
+                "category": "Drugstores,Convenience Stores,Pharmacy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9524212,
+                    40.7922919
+                ]
+            },
+            "properties": {
+                "name": "Cafe on Fifth",
+                "address": "1216 5th Ave, New York, NY 10029",
+                "phone": "+12128227259",
+                "category": "Cafes,Breakfast & Brunch,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93291,
+                    40.7956999
+                ]
+            },
+            "properties": {
+                "name": "Carolina Grocery",
+                "address": "315 Pleasant Ave, New York, NY 10035",
+                "phone": "+12129961980",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9389632642269,
+                    40.8365204951311
+                ]
+            },
+            "properties": {
+                "name": "Catrina Deli Restaurant",
+                "address": "2083 Amsterdam Ave, New York, NY 10032",
+                "phone": "",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94996637096256,
+                    40.79735557668759
+                ]
+            },
+            "properties": {
+                "name": "Central Park Organic Deli & Grocery",
+                "address": "9 W 110th St, New York, NY 10026",
+                "phone": "+16469644126",
+                "category": "Delis,Bakeries,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.948612,
+                    40.788862
+                ]
+            },
+            "properties": {
+                "name": "Cherry Gourmet Deli",
+                "address": "1579 Lexington Ave, New York, NY 10029",
+                "phone": "",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9442902,
+                    40.7874489
+                ]
+            },
+            "properties": {
+                "name": "Cherry Valley Marketplace",
+                "address": "1968 2nd Ave, New York, NY 10029",
+                "phone": "+12123692974",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95378,
+                    40.82033
+                ]
+            },
+            "properties": {
+                "name": "Chinelos II",
+                "address": "530 W 136th St, New York, NY 10031",
+                "phone": "+12126906077",
+                "category": "Mexican,Grocery,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9503832,
+                    40.8214475
+                ]
+            },
+            "properties": {
+                "name": "City Campus Deli",
+                "address": "139TH St And Amsterdam, New York, NY 10031",
+                "phone": "",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94188,
+                    40.79891
+                ]
+            },
+            "properties": {
+                "name": "City Fresh Market",
+                "address": "125 E 116th St, New York, NY 10029",
+                "phone": "+16465903050",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95599,
+                    40.81405
+                ]
+            },
+            "properties": {
+                "name": "Columbia Deli & Grill",
+                "address": "1348 Amsterdam Ave, New York, NY 10027",
+                "phone": "+16464906383",
+                "category": "Delis,Convenience Stores,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94221,
+                    40.83817
+                ]
+            },
+            "properties": {
+                "name": "Columbia Gourmet Deli",
+                "address": "3905 Broadway, New York, NY 10032",
+                "phone": "+12129233905",
+                "category": "Delis,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.953187,
+                    40.821929
+                ]
+            },
+            "properties": {
+                "name": "Compare Foods",
+                "address": "538 W 138th St, Manhattan, NY 10031",
+                "phone": "+12122340128",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9423871288361,
+                    40.786103
+                ]
+            },
+            "properties": {
+                "name": "Dave's Gourmet",
+                "address": "1944 1st Ave, New York, NY 10029",
+                "phone": "+12122899400",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.944184,
+                    40.823688
+                ]
+            },
+            "properties": {
+                "name": "David's Gourmet Deli",
+                "address": "344 W 145th St, New York, NY 10039",
+                "phone": "+16465901385",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9524841,
+                    40.8187943
+                ]
+            },
+            "properties": {
+                "name": "Diamond Touch Deli",
+                "address": "1514 Amsterdam Ave, New York, NY 10031",
+                "phone": "+19172612213",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93858,
+                    40.79765
+                ]
+            },
+            "properties": {
+                "name": "Don Panchito Deli Grocery",
+                "address": "231 E 116th St, New York, NY 10029",
+                "phone": "+12128289097",
+                "category": "Latin American,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9581163,
+                    40.8150493
+                ]
+            },
+            "properties": {
+                "name": "Duane Reade",
+                "address": "568 W 125th St, New York, NY 10027",
+                "phone": "+12128653894",
+                "category": "Drugstores,Cosmetics & Beauty Supply,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.943336,
+                    40.82542
+                ]
+            },
+            "properties": {
+                "name": "Dubais Food",
+                "address": "748 St Nicholas Ave, New York, NY 10031",
+                "phone": "+12122342140",
+                "category": "Grocery,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94642,
+                    40.78949
+                ]
+            },
+            "properties": {
+                "name": "Eastside Goumet Deli Incorporated",
+                "address": "1862 3rd Ave, New York, NY 10029",
+                "phone": "+12128311519",
+                "category": "Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9404242,
+                    40.798114
+                ]
+            },
+            "properties": {
+                "name": "Eddie's NY Deli & Pizza",
+                "address": "184 E 116th St, New York, NY 10029",
+                "phone": "+19176393594",
+                "category": "Delis,Pizza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93857,
+                    40.79718
+                ]
+            },
+            "properties": {
+                "name": "El Pueblo Mejicano",
+                "address": "238 E 116th St, New York, NY 10029",
+                "phone": "+12124103133",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9529618139708,
+                    40.8127423111668
+                ]
+            },
+            "properties": {
+                "name": "Eleganza Gourmet Deli",
+                "address": "1 Convent Ave, New York, NY 10027",
+                "phone": "+12126665599",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9472573250532,
+                    40.7883492064698
+                ]
+            },
+            "properties": {
+                "name": "Emerson Gourmet Deli",
+                "address": "1816 3rd Ave, New York, NY 10029",
+                "phone": "",
+                "category": "Delis,Breakfast & Brunch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9471918786646,
+                    40.7966021494584
+                ]
+            },
+            "properties": {
+                "name": "Empire State Deli Grocery",
+                "address": "1665 Madison Ave, New York, NY 10029",
+                "phone": "+16466785684",
+                "category": "Convenience Stores,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94279,
+                    40.8222
+                ]
+            },
+            "properties": {
+                "name": "Evergreen Organic Food & Deli",
+                "address": "2709 Frederick Douglass Blvd, New York, NY 10030",
+                "phone": "+12126901300",
+                "category": "Organic Stores,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95134,
+                    40.81373
+                ]
+            },
+            "properties": {
+                "name": "Family Community Deli",
+                "address": "41 Saint Nicholas Ter, New York, NY 10027",
+                "phone": "+12128655900",
+                "category": "Delis,Cafeteria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9390707,
+                    40.7910315
+                ]
+            },
+            "properties": {
+                "name": "Family First Deli",
+                "address": "2105 1st Ave, New York, NY 10029",
+                "phone": "+12124104444",
+                "category": "Delis,Halal,Wraps"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94405,
+                    40.8193399
+                ]
+            },
+            "properties": {
+                "name": "Family Grocery #2",
+                "address": "2620 Frederick Douglass B, New York, NY 10030",
+                "phone": "+12124915332",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9393023,
+                    40.7904097
+                ]
+            },
+            "properties": {
+                "name": "Farm Country",
+                "address": "2076 1st Ave, New York, NY 10029",
+                "phone": "+12124105200",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94853,
+                    40.808066
+                ]
+            },
+            "properties": {
+                "name": "Farmers Gourmet Deli",
+                "address": "172 W 124th St, New York, NY 10027",
+                "phone": "",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94786,
+                    40.83042
+                ]
+            },
+            "properties": {
+                "name": "Fedel Gourmet Deli",
+                "address": "3661 Broadway, New York, NY 10031",
+                "phone": "+12122811296",
+                "category": "Delis,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94352,
+                    40.81002
+                ]
+            },
+            "properties": {
+                "name": "Felix gourmet deli",
+                "address": "370 Lenox Av, New York, NY 10027",
+                "phone": "+19172612991",
+                "category": "Delis,Salad,Burgers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9390859752893,
+                    40.8214100450277
+                ]
+            },
+            "properties": {
+                "name": "Fine Fare",
+                "address": "2497 7th Ave, New York, NY 10030",
+                "phone": "+12122818880",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9391937255859,
+                    40.8130989074707
+                ]
+            },
+            "properties": {
+                "name": "Fine Fare Supermarket",
+                "address": "24 W 135th St, New York, NY 10037",
+                "phone": "+12123680090",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9376589799143,
+                    40.8295397149184
+                ]
+            },
+            "properties": {
+                "name": "Fine Fare Supermarkets",
+                "address": "2927 Frederick Douglass Blvd, New York, NY 10039",
+                "phone": "",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9525982737541,
+                    40.8215139806271
+                ]
+            },
+            "properties": {
+                "name": "Food Universe",
+                "address": "538 W 138th St, New York, NY 10031",
+                "phone": "+12122340128",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9437671005726,
+                    40.8359791338444
+                ]
+            },
+            "properties": {
+                "name": "Foodtown",
+                "address": "600 W 160th St, New York, NY 10032",
+                "phone": "+12129231203",
+                "category": "Grocery,Delis,Kosher"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.937475,
+                    40.800794
+                ]
+            },
+            "properties": {
+                "name": "Foodtown of East Harlem",
+                "address": "2211 3rd Ave, New York, NY 10035",
+                "phone": "+19176393800",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9557571411133,
+                    40.8132743835449
+                ]
+            },
+            "properties": {
+                "name": "Four Star Deli",
+                "address": "467 W 125th St, New York, NY 10027",
+                "phone": "+16469645328",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.950351297955,
+                    40.8269832454735
+                ]
+            },
+            "properties": {
+                "name": "Fruits & Vegetable Pelaez",
+                "address": "3557 Broadway, New York, NY 10031",
+                "phone": "+13478053762",
+                "category": "Fruits & Veggies,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9447,
+                    40.83386
+                ]
+            },
+            "properties": {
+                "name": "Galaxy Gourmet Deli",
+                "address": "3778 Broadway, New York, NY 10032",
+                "phone": "+12122341222",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.940528,
+                    40.8302455
+                ]
+            },
+            "properties": {
+                "name": "Global Gas Station",
+                "address": "89 Saint Nicholas Pl, New York, NY 10032",
+                "phone": "",
+                "category": "Gas Stations,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94834,
+                    40.79034
+                ]
+            },
+            "properties": {
+                "name": "Gold Deli",
+                "address": "126 103rd St, New York, NY 10029",
+                "phone": "+12122893100",
+                "category": "Delis,Spanish"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.954466,
+                    40.82139
+                ]
+            },
+            "properties": {
+                "name": "Golden Deli",
+                "address": "3377 Broadway, New York, NY 10031",
+                "phone": "+19735200187",
+                "category": "Mediterranean,Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9382677155381,
+                    40.811975859101
+                ]
+            },
+            "properties": {
+                "name": "Golden Deli Grocery",
+                "address": "2210 5th Ave, New York, NY 10035",
+                "phone": "",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9379351,
+                    40.8126022
+                ]
+            },
+            "properties": {
+                "name": "Golden Gate Delicatessen",
+                "address": "2210 5th Ave, New York, NY 10037",
+                "phone": "+12122831421",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93752,
+                    40.79342
+                ]
+            },
+            "properties": {
+                "name": "Gotham 1st Ave Gourmet Deli",
+                "address": "2165 1st Ave, New York, NY 10029",
+                "phone": "+16468075340",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95721,
+                    40.81567
+                ]
+            },
+            "properties": {
+                "name": "Gourmet Deli",
+                "address": "550 W 126th St, New York, NY 10027",
+                "phone": "+12122222028",
+                "category": "Delis,American (Traditional)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94884,
+                    40.80873
+                ]
+            },
+            "properties": {
+                "name": "Gourmet Revolution",
+                "address": "2090 7th Ave, New York, NY 10027",
+                "phone": "",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9411675,
+                    40.8384627
+                ]
+            },
+            "properties": {
+                "name": "Grab N Go Deli",
+                "address": "3920 Broadway, Ste 5, New York, NY 10032",
+                "phone": "+12125680730",
+                "category": "Delis,Salad,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93754,
+                    40.82829
+                ]
+            },
+            "properties": {
+                "name": "Hardware Houseware Variety",
+                "address": "272 W 154th St, New York, NY 10039",
+                "phone": "+12122832541",
+                "category": "Hardware Stores,Party Supplies,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9462078137985,
+                    40.8166351526392
+                ]
+            },
+            "properties": {
+                "name": "Harlem Empire Deli",
+                "address": "2542 Frederick Douglass Blvd, New York, NY 10030",
+                "phone": "+12122348754",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9490179,
+                    40.8084541
+                ]
+            },
+            "properties": {
+                "name": "Harlem Gourmet Deli",
+                "address": "2082 7th Ave, New York, NY 10027",
+                "phone": "+12122802283",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94511,
+                    40.80783
+                ]
+            },
+            "properties": {
+                "name": "Harlem Smoke Shop",
+                "address": "304 Harlem 125th Lenox Ave, New York, NY 10027",
+                "phone": "+12128603277",
+                "category": "Tobacco Shops,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93844,
+                    40.79216
+                ]
+            },
+            "properties": {
+                "name": "Harlem Taste Hajji\u00e2\u20ac\u2122s",
+                "address": "2135 1st Ave, New York, NY 10029",
+                "phone": "+16466827488",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.933907,
+                    40.798534
+                ]
+            },
+            "properties": {
+                "name": "Health Food Gourmet Deli",
+                "address": "2337 1st Ave, New York, NY 10035",
+                "phone": "+12124231035",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94471,
+                    40.800509
+                ]
+            },
+            "properties": {
+                "name": "Healthy Choice",
+                "address": "1780 Madison Ave, New York, NY 10035",
+                "phone": "+16469284848",
+                "category": "Delis,Vegetarian,Juice Bars & Smoothies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9489782974124,
+                    40.78618055688095
+                ]
+            },
+            "properties": {
+                "name": "Heavenly Market IV",
+                "address": "1760 3rd Ave, New York, NY 10029",
+                "phone": "+12126000162",
+                "category": "Delis,Convenience Stores,Halal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94908,
+                    40.82291
+                ]
+            },
+            "properties": {
+                "name": "Heights Food Deli",
+                "address": "1649 Amsterdam Ave, New York, NY 10031",
+                "phone": "+12122812225",
+                "category": "Delis,Juice Bars & Smoothies,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94201,
+                    40.83753
+                ]
+            },
+            "properties": {
+                "name": "Heights Liberty Grocery & Deli",
+                "address": "3894 Broadway, New York, NY 10032",
+                "phone": "+12129230087",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9423751803566,
+                    40.8443408
+                ]
+            },
+            "properties": {
+                "name": "Hilltop Perk Deli",
+                "address": "83 Haven Ave, New York, NY 10032",
+                "phone": "+16466494616",
+                "category": "Coffee & Tea,Breakfast & Brunch,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.947235,
+                    40.790458
+                ]
+            },
+            "properties": {
+                "name": "Ideal Food Basket",
+                "address": "1635 Lexington Ave, New York, NY 10029",
+                "phone": "+12124106733",
+                "category": "Grocery,Organic Stores,Food Delivery Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9618,
+                    40.81389
+                ]
+            },
+            "properties": {
+                "name": "International House Dining Hall",
+                "address": "500 Riverside Dr, Manhattan, NY 10027",
+                "phone": "+12123166300",
+                "category": "Juice Bars & Smoothies,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93344,
+                    40.7984
+                ]
+            },
+            "properties": {
+                "name": "J & D Deli Grocery",
+                "address": "2336 1st Ave, New York, NY 10035",
+                "phone": "+12123481348",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9491388946772,
+                    40.7878425260983
+                ]
+            },
+            "properties": {
+                "name": "J and J Food Market",
+                "address": "153 E 99th St, New York, NY 10029",
+                "phone": "",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.953552,
+                    40.788551
+                ]
+            },
+            "properties": {
+                "name": "Just Another Deli",
+                "address": "1414 Madison Ave, New York, NY 10029",
+                "phone": "+12128311754",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94408,
+                    40.82359
+                ]
+            },
+            "properties": {
+                "name": "K & S Deli Grocery",
+                "address": "340 W 145th St, New York, NY 10039",
+                "phone": "",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.950253,
+                    40.823184
+                ]
+            },
+            "properties": {
+                "name": "Katerine Deli Grocery",
+                "address": "505 W 141st St, New York, NY 10031",
+                "phone": "+12123689715",
+                "category": "Grocery,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93847,
+                    40.8169532
+                ]
+            },
+            "properties": {
+                "name": "Key Food",
+                "address": "592 Lenox Ave, New York, NY 10037",
+                "phone": "+12129265470",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.949726,
+                    40.82671
+                ]
+            },
+            "properties": {
+                "name": "Keyfood",
+                "address": "3550 Broadway, NewYork, NY 10031",
+                "phone": "+12129266756",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9435634,
+                    40.8100084
+                ]
+            },
+            "properties": {
+                "name": "King Gourmet Deli",
+                "address": "370 Malcolm X Blvd, New York, NY 10027",
+                "phone": "+12124273475",
+                "category": "Delis,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9463657,
+                    40.8112184
+                ]
+            },
+            "properties": {
+                "name": "Kitkat Deli & Grocery",
+                "address": "2175 Adam Clayton Powell, New York, NY 10027",
+                "phone": "+12123164165",
+                "category": "Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.937751,
+                    40.824135
+                ]
+            },
+            "properties": {
+                "name": "L A 2570 Deli Grocery Corp",
+                "address": "2570 Adam Clayton Powell Jr Blvd, New York, NY 10039",
+                "phone": "+19173882585",
+                "category": "Delis,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.937181184834,
+                    40.7978459840994
+                ]
+            },
+            "properties": {
+                "name": "La Bodeguita",
+                "address": "Second Ave Btwn 118 & 119th Sts, New York, NY 10035",
+                "phone": "+16463516225",
+                "category": "Convenience Stores,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9399419,
+                    40.794283
+                ]
+            },
+            "properties": {
+                "name": "La Costenita Grocery",
+                "address": "2175 2nd Ave, New York, NY 10029",
+                "phone": "+12124265691",
+                "category": "Grocery,Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9391860961914,
+                    40.797908782959
+                ]
+            },
+            "properties": {
+                "name": "La Lomita Del Barrio Grocery",
+                "address": "209 E 116th St, New York, NY 10029",
+                "phone": "+12122898138",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.943773367403,
+                    40.7985683666046
+                ]
+            },
+            "properties": {
+                "name": "La Marqueta",
+                "address": "1590 Park Ave, New York, NY 10029",
+                "phone": "+12126185740",
+                "category": "Grocery,International Grocery,Patisserie/Cake Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94588,
+                    40.81605
+                ]
+            },
+            "properties": {
+                "name": "La Mega Deli Food Center",
+                "address": "268 W 135th St, New York, NY 10030",
+                "phone": "+12129262349",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.953666,
+                    40.787612
+                ]
+            },
+            "properties": {
+                "name": "Lane Farm's Market",
+                "address": "1391 Madison Ave, New York, NY 10029",
+                "phone": "+12128315014",
+                "category": "Convenience Stores,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9478763,
+                    40.8138574
+                ]
+            },
+            "properties": {
+                "name": "Leonel Mini Market",
+                "address": "273 W 131st St, New York, NY 10027",
+                "phone": "+12126906146",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94441,
+                    40.79457
+                ]
+            },
+            "properties": {
+                "name": "Lexpress Coffee-Shop Mini Mart",
+                "address": "1773 Lexington Ave, New York, NY 10029",
+                "phone": "+12125346320",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95455,
+                    40.80581
+                ]
+            },
+            "properties": {
+                "name": "Lidl",
+                "address": "2187 Frederick Douglass Blvd, Harlem, NY 10026",
+                "phone": "+18447475435",
+                "category": "Grocery,Bakeries,Pet Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9388199,
+                    40.8106003
+                ]
+            },
+            "properties": {
+                "name": "Lincoln Deli Grocery",
+                "address": "2159 5th Ave, New York, NY 10037",
+                "phone": "+12126902747",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95055,
+                    40.82585
+                ]
+            },
+            "properties": {
+                "name": "Majestic Deli",
+                "address": "3520 Broadway, New York, NY 10031",
+                "phone": "+12129262222",
+                "category": "Delis,Sandwiches,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9434901,
+                    40.8108762
+                ]
+            },
+            "properties": {
+                "name": "Malcolm Food Market",
+                "address": "393 Malcolm X Blvd, New York, NY 10027",
+                "phone": "",
+                "category": "Delis,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9381301030517,
+                    40.8405635012749
+                ]
+            },
+            "properties": {
+                "name": "Manhattan Best Deli & Grill",
+                "address": "57 Audubon Ave, New York, NY 10032",
+                "phone": "+16467670108",
+                "category": "Delis,American (Traditional)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9546562,
+                    40.8202188
+                ]
+            },
+            "properties": {
+                "name": "Manhattan Fish Market",
+                "address": "3344 Broadway, New York, NY 10031",
+                "phone": "+12128628425",
+                "category": "Grocery,Seafood Markets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9415243,
+                    40.8230843
+                ]
+            },
+            "properties": {
+                "name": "Moe's 1 Gourmet Deli",
+                "address": "2738 Frederick Douglass Blvd, New York, NY 10039",
+                "phone": "+12122810302",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.948977,
+                    40.807652
+                ]
+            },
+            "properties": {
+                "name": "Momma Zee\u00e2\u20ac\u2122s Food To Plez Deli",
+                "address": "2061 Adam Clayton Powell Jr Blvd, New York, NY 10027",
+                "phone": "+16465245899",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95909,
+                    40.80166
+                ]
+            },
+            "properties": {
+                "name": "Morningside Deli",
+                "address": "256 Manhattan Ave, New York, NY 10026",
+                "phone": "",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94519326093317,
+                    40.78626341016371
+                ]
+            },
+            "properties": {
+                "name": "Mr  Moes Deli",
+                "address": "2001 Third Ave, New York, NY 10029",
+                "phone": "+19173882379",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94793,
+                    40.8251
+                ]
+            },
+            "properties": {
+                "name": "Mr Sandwich Deli",
+                "address": "1712 Amsterdam Ave, New York, NY 10031",
+                "phone": "+12122344688",
+                "category": "Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.945342,
+                    40.786319
+                ]
+            },
+            "properties": {
+                "name": "Mr.Moes Gourmet Deli",
+                "address": "1924 2nd Ave, New York, NY 10029",
+                "phone": "+16463295822",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94132508495704,
+                    40.83368093205567
+                ]
+            },
+            "properties": {
+                "name": "NY1 Gourmet Deli",
+                "address": "1981 Amstrdam Ave, New York, NY 10032",
+                "phone": "+12122345609",
+                "category": "Delis,Halal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9475632,
+                    40.796524
+                ]
+            },
+            "properties": {
+                "name": "NYC Fresh Market",
+                "address": "1660 Madison Ave, New York, NY 10029",
+                "phone": "+12129964600",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9547249302268,
+                    40.820145562021686
+                ]
+            },
+            "properties": {
+                "name": "NYC Organic Deli",
+                "address": "3340 Broadway, New York, NY 10031",
+                "phone": "",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95391,
+                    40.8221
+                ]
+            },
+            "properties": {
+                "name": "Nadal\u00e2\u20ac\u2122s Deli & Organic",
+                "address": "3399 Broadway, New York, NY 10031",
+                "phone": "+16469228883",
+                "category": "Juice Bars & Smoothies,Ice Cream & Frozen Yogurt,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9385099,
+                    40.79971
+                ]
+            },
+            "properties": {
+                "name": "Natural Food Deli",
+                "address": "2181 3rd Ave, New York, NY 10035",
+                "phone": "+12128288088",
+                "category": "Grocery,Food Delivery Services,Coffee & Tea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9473667428963,
+                    40.8302518030637
+                ]
+            },
+            "properties": {
+                "name": "New Deli",
+                "address": "3660 Broadway, New York, NY 10031",
+                "phone": "+19172620764",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9410934,
+                    40.805378
+                ]
+            },
+            "properties": {
+                "name": "New York Grill and Deli",
+                "address": "1938 Madison Ave, New York, NY 10035",
+                "phone": "+12128313014",
+                "category": "Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9403656,
+                    40.8063967
+                ]
+            },
+            "properties": {
+                "name": "Oasis Gourmet Deli",
+                "address": "1966 Madison Ave, New York, NY 10035",
+                "phone": "+16465911337",
+                "category": "Delis,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9472,
+                    40.78465
+                ]
+            },
+            "properties": {
+                "name": "Olive Oasis Deli and Grill",
+                "address": "1869B 2nd Ave, New York, NY 10029",
+                "phone": "+16467070973",
+                "category": "Delis,Breakfast & Brunch,Chicken Wings"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96106,
+                    40.81123
+                ]
+            },
+            "properties": {
+                "name": "Olive Tree Deli",
+                "address": "3060 Broadway, New York, NY 10027",
+                "phone": "+12127494200",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9526978507638,
+                    40.8110125977078
+                ]
+            },
+            "properties": {
+                "name": "Omega Deli & Grill",
+                "address": "353 W 125th St, New York, NY 10027",
+                "phone": "+12123163354",
+                "category": "Delis,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.934753,
+                    40.801673
+                ]
+            },
+            "properties": {
+                "name": "Palma",
+                "address": "2401 2nd Ave, New York, NY 10035",
+                "phone": "+12128760461",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.949242,
+                    40.828785
+                ]
+            },
+            "properties": {
+                "name": "Papasito Food Markets",
+                "address": "3605 Broadway, Manhattan, NY 10031",
+                "phone": "+12122345619",
+                "category": "Grocery,Latin American,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95789,
+                    40.80152
+                ]
+            },
+            "properties": {
+                "name": "Park View Market",
+                "address": "2051 Fredrick Douglass Blvd, New York, NY 10026",
+                "phone": "+12122220400",
+                "category": "Juice Bars & Smoothies,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.943077,
+                    40.810379
+                ]
+            },
+            "properties": {
+                "name": "Pioneer",
+                "address": "380 Lenox Ave, New York, NY 10027",
+                "phone": "+12124274615",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9377250865054,
+                    40.8231202950011
+                ]
+            },
+            "properties": {
+                "name": "Pioneer Supermarket",
+                "address": "2497 Adam Clayton Powell Jr Blvd, New York, NY 10030",
+                "phone": "+12124915510",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.938115817791,
+                    40.8379616534959
+                ]
+            },
+            "properties": {
+                "name": "Presbyterian Deli",
+                "address": "2119 Amsterdam Ave, New York, NY 10032",
+                "phone": "+12125432119",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94181,
+                    40.8429
+                ]
+            },
+            "properties": {
+                "name": "Prestige Cafe and Deli",
+                "address": "228 Fort Washington Ave, New York, NY 10032",
+                "phone": "+16463949850",
+                "category": "Cafes,Delis,Burgers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93831,
+                    40.805066
+                ]
+            },
+            "properties": {
+                "name": "Q & N Foods",
+                "address": "107 E 125th St, New York, NY 10035",
+                "phone": "+12128602021",
+                "category": "Delis,Breakfast & Brunch,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95355,
+                    40.78855
+                ]
+            },
+            "properties": {
+                "name": "Q Marqet",
+                "address": "1414 Madison Ave, New York, NY 10029",
+                "phone": "",
+                "category": "Convenience Stores,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9356421758666,
+                    40.8322203645009
+                ]
+            },
+            "properties": {
+                "name": "Rangle Food Center",
+                "address": "159-08 Harlem River Dr, New York, NY 10039",
+                "phone": "",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9410141,
+                    40.7928523
+                ]
+            },
+            "properties": {
+                "name": "Raspberry Deli Grocery",
+                "address": "2127 2nd Ave, New York, NY 10029",
+                "phone": "+12128602615",
+                "category": "Delis,Grocery,Breakfast & Brunch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9578728,
+                    40.815521906
+                ]
+            },
+            "properties": {
+                "name": "Red Olive Deli",
+                "address": "567 W 125th St, New York, NY 10027",
+                "phone": "+16465900850",
+                "category": "Food Delivery Services,Sandwiches,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9441146850586,
+                    40.8075256347656
+                ]
+            },
+            "properties": {
+                "name": "Remache Store",
+                "address": "55 W 125th St, New York, NY 10027",
+                "phone": "+12126784675",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94478,
+                    40.81923
+                ]
+            },
+            "properties": {
+                "name": "Rimar Gourmet Deli",
+                "address": "2611 Frederick Douglass Blvd, New York, NY 10030",
+                "phone": "+12129262800",
+                "category": "Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95462,
+                    40.80512
+                ]
+            },
+            "properties": {
+                "name": "Rite Aid",
+                "address": "2170 Frederick Douglass Blvd, Manhattan, NY 10026",
+                "phone": "+12126663013",
+                "category": "Drugstores,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95428925826936,
+                    40.82296035988831
+                ]
+            },
+            "properties": {
+                "name": "Riverside Mini Market",
+                "address": "608 W 139st, New York, NY 10031",
+                "phone": "",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94759,
+                    40.79017
+                ]
+            },
+            "properties": {
+                "name": "S & H Grocery",
+                "address": "148 E 103rd St, New York, NY 10029",
+                "phone": "+12127229127",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95269,
+                    40.8238
+                ]
+            },
+            "properties": {
+                "name": "Sam Gourmet Deli",
+                "address": "3459 Broadway, New York, NY 10031",
+                "phone": "+12123004889",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95363,
+                    40.82253
+                ]
+            },
+            "properties": {
+                "name": "Santiago Deli",
+                "address": "3415 Broadway, New York, NY 10031",
+                "phone": "+12124910668",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94685,
+                    40.830799
+                ]
+            },
+            "properties": {
+                "name": "Santiago Deli Grocery",
+                "address": "3680 W 152 Broadway, New York, NY 10031",
+                "phone": "+12128626455",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94636,
+                    40.800265
+                ]
+            },
+            "properties": {
+                "name": "Savory Deli",
+                "address": "1411 5th Ave, New York, NY 10029",
+                "phone": "+19172620362",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9481833333333,
+                    40.8095593573417
+                ]
+            },
+            "properties": {
+                "name": "Shop Fair",
+                "address": "2108 7th Ave, New York, NY 10027",
+                "phone": "+19172615684",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9429943,
+                    40.8370366
+                ]
+            },
+            "properties": {
+                "name": "Shop Fair Supermarket of Broadway",
+                "address": "3871 Broadway, New York, NY 10032",
+                "phone": "+12127404422",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9485341,
+                    40.8294613
+                ]
+            },
+            "properties": {
+                "name": "Silver Saddle Grocery",
+                "address": "3635 Broadway, New York, NY 10031",
+                "phone": "+12122819904",
+                "category": "Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.943109,
+                    40.8361
+                ]
+            },
+            "properties": {
+                "name": "Silvermoon Deli",
+                "address": "3840 Broadway, New York, NY 10032",
+                "phone": "+16465906330",
+                "category": "Grocery,Coffee & Tea,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.939414,
+                    40.807846
+                ]
+            },
+            "properties": {
+                "name": "Smar Deli Grocery and Pizza",
+                "address": "2020 Madison Ave, New York, NY 10035",
+                "phone": "+12123485760",
+                "category": "Delis,Pizza,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9470901489258,
+                    40.7903099060059
+                ]
+            },
+            "properties": {
+                "name": "Smashiess",
+                "address": "153 E 103rd St, New York, NY 10029",
+                "phone": "+12123605049",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9518338441849,
+                    40.8130964442213
+                ]
+            },
+            "properties": {
+                "name": "St Nicholas Express Deli",
+                "address": "25 St Nicholas Ter, New York, NY 10027",
+                "phone": "+12128652500",
+                "category": "Delis,Grocery,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95312,
+                    40.81035
+                ]
+            },
+            "properties": {
+                "name": "St Nicholas Gourmet Deli",
+                "address": "285 Saint Nicholas Ave, New York, NY 10027",
+                "phone": "+12128663354",
+                "category": "Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9524023,
+                    40.8029368
+                ]
+            },
+            "properties": {
+                "name": "Star Deli",
+                "address": "1917 Adam Clayton Powell, New York, NY 10026",
+                "phone": "+12128659490",
+                "category": "Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.959275,
+                    40.8089829
+                ]
+            },
+            "properties": {
+                "name": "SubsConscious",
+                "address": "1213 Amsterdam Ave, New York, NY 10027",
+                "phone": "+12128642720",
+                "category": "Delis,Sandwiches,Salad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94934,
+                    40.82579
+                ]
+            },
+            "properties": {
+                "name": "Sugar Hill Gourmet Deli",
+                "address": "528 145th St, New York, NY 10031",
+                "phone": "+12122812300",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95201,
+                    40.81954
+                ]
+            },
+            "properties": {
+                "name": "Suhail Deli",
+                "address": "1536 Amsterdam Ave, New York, NY 10031",
+                "phone": "",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9423666521907,
+                    40.8227855215011
+                ]
+            },
+            "properties": {
+                "name": "Super Foodtown of Bradhurst",
+                "address": "300 West 145th St, New York, NY 10039",
+                "phone": "+12122813158",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.952537,
+                    40.82423
+                ]
+            },
+            "properties": {
+                "name": "Super Value Meat Market",
+                "address": "3461 Broadway, New York, NY 10031",
+                "phone": "+12129260666",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9390395039113,
+                    40.8417636163985
+                ]
+            },
+            "properties": {
+                "name": "Tasty Deli",
+                "address": "4020 Broadway, New York, NY 10032",
+                "phone": "+12129230700",
+                "category": "Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94564,
+                    40.79968
+                ]
+            },
+            "properties": {
+                "name": "The New King Deli Grocery",
+                "address": "23 E 115th St Frnt 1, New York, NY 10029",
+                "phone": "+12123484089",
+                "category": "Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94526,
+                    40.80201
+                ]
+            },
+            "properties": {
+                "name": "The Prince Deli Grocery",
+                "address": "1461 5th Ave, New York, NY 10035",
+                "phone": "+18009253660",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9597391062018,
+                    40.8142581488559
+                ]
+            },
+            "properties": {
+                "name": "Thrifty Deli Supermarket",
+                "address": "3149 Broadway, New York, NY 10027",
+                "phone": "+12128650321",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94031,
+                    40.81435
+                ]
+            },
+            "properties": {
+                "name": "Towers Cafe",
+                "address": "506 Lenox Ave, New York, NY 10037",
+                "phone": "",
+                "category": "American (New),Delis,Greek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9414477,
+                    40.8237142
+                ]
+            },
+            "properties": {
+                "name": "True Blue Deli Grocery",
+                "address": "2741 Frederick Douglass Blvd, New York, NY 10039",
+                "phone": "+12122816100",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94904,
+                    40.8229
+                ]
+            },
+            "properties": {
+                "name": "U&N Deli",
+                "address": "1641 Amsterdam Ave, New York, NY 10031",
+                "phone": "+12122812225",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9399992,
+                    40.8413136
+                ]
+            },
+            "properties": {
+                "name": "University Deli",
+                "address": "603 W 168th St, New York, NY 10032",
+                "phone": "+12125683838",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9611139945442,
+                    40.8088120644284
+                ]
+            },
+            "properties": {
+                "name": "Uris Deli",
+                "address": "411 W 116th St, New York, NY 10027",
+                "phone": "+12128545341",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9550233,
+                    40.8205874
+                ]
+            },
+            "properties": {
+                "name": "Wally's Deli",
+                "address": "3345 Broadway, New York, NY 10031",
+                "phone": "+12122347557",
+                "category": "Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.946138,
+                    40.807597
+                ]
+            },
+            "properties": {
+                "name": "Whole Foods Market",
+                "address": "100 W 125th St, New York, NY 10027",
+                "phone": "+12126781940",
+                "category": "Health Markets,Grocery,Organic Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9558617,
+                    40.8136087
+                ]
+            },
+            "properties": {
+                "name": "Yuca Mexican Products",
+                "address": "1349 Amsterdam Ave, New York, NY 10027",
+                "phone": "+12122808585",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94868,
+                    40.8142
+                ]
+            },
+            "properties": {
+                "name": "Yummy Foods Deli",
+                "address": "2445 Frederick Douglass Blvd, New York, NY 10027",
+                "phone": "",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94815,
+                    40.79572
+                ]
+            },
+            "properties": {
+                "name": "Zaid Gourmet",
+                "address": "1634 Madison Ave, New York, NY 10029",
+                "phone": "+16469280216",
+                "category": "Delis,Burgers"
+            }
+        }
+    ]
+}
