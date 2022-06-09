@@ -2774,22 +2774,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.99052,
-                    40.69347
-                ]
-            },
-            "properties": {
-                "name": "Eleven Names",
-                "address": "New York, NY 11211",
-                "phone": "+19295336771",
-                "category": "Jewelry,Jewelry Repair"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -73.9263689,
                     40.703641
                 ]
