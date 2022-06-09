@@ -2198,22 +2198,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.9295501708984,
-                    40.7950973510742
-                ]
-            },
-            "properties": {
-                "name": "East Harlem's Expert Exterminators",
-                "address": "New York, NY 10035",
-                "phone": "+13477574018",
-                "category": "Pest Control"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -73.94897,
                     40.79797
                 ]
