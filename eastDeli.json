@@ -1,0 +1,4613 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95813,
+                    40.70862
+                ]
+            },
+            "properties": {
+                "name": "293 Broadway Deli",
+                "address": "293 Broadway, Brooklyn, NY 11211",
+                "phone": "+17187823245",
+                "category": "Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.944545,
+                    40.6984
+                ]
+            },
+            "properties": {
+                "name": "3 Guys Deli & Grill",
+                "address": "773 Park Ave, Brooklyn NY, NY 11206",
+                "phone": "+13479576741",
+                "category": "American (Traditional),Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.944695,
+                    40.7153
+                ]
+            },
+            "properties": {
+                "name": "359 Deli & Grocery",
+                "address": "359 Graham Ave, Brooklyn, NY 11211",
+                "phone": "+17183888762",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9535369873047,
+                    40.711109161377
+                ]
+            },
+            "properties": {
+                "name": "407 Keap Organic Deli",
+                "address": "407 Keap St, Williamsburg, NY 11211",
+                "phone": "+13479874329",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8925032262776,
+                    40.7276733350357
+                ]
+            },
+            "properties": {
+                "name": "5 And 1 Key Food Store",
+                "address": "6964 Grand Ave, Maspeth, NY 11378",
+                "phone": "+17188993403",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9586099,
+                    40.70853
+                ]
+            },
+            "properties": {
+                "name": "AFC Deli and Fried Chicken",
+                "address": "282 Broadway, Brooklyn, NY 11211",
+                "phone": "+17189537980",
+                "category": "Donuts,Delis,Bagels"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92727,
+                    40.70359
+                ]
+            },
+            "properties": {
+                "name": "Abracadabra Magic Deli",
+                "address": "190 Knickerbocker Ave, Brooklyn, NY 11237",
+                "phone": "+13474138644",
+                "category": "Delis,Turkish"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94931,
+                    40.72416
+                ]
+            },
+            "properties": {
+                "name": "Adam's Delicatessen",
+                "address": "112 Nassau Ave, # A, Brooklyn, NY 11222",
+                "phone": "+17183897477",
+                "category": "Delis,Sandwiches,Desserts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9627754917222,
+                    40.7119705565168
+                ]
+            },
+            "properties": {
+                "name": "Aden Food Market",
+                "address": "351 Bedford Ave, Brooklyn, NY 11211",
+                "phone": "+17183884868",
+                "category": "Grocery,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9596438483126,
+                    40.7113914105925
+                ]
+            },
+            "properties": {
+                "name": "Aden Gourmet Deli",
+                "address": "244 Roebling St, Williamsburg, NY 11211",
+                "phone": "+17182215393",
+                "category": "Breakfast & Brunch,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.922248,
+                    40.699019
+                ]
+            },
+            "properties": {
+                "name": "Adonis Grocery",
+                "address": "209 Wilson Ave, Brooklyn, NY 11237",
+                "phone": "",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.961,
+                    40.7093
+                ]
+            },
+            "properties": {
+                "name": "American Choice Gourmet Deli",
+                "address": "218 Broadway, Brooklyn, NY 11211",
+                "phone": "+19179091085",
+                "category": "Delis,Juice Bars & Smoothies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9181442931294,
+                    40.7176512979278
+                ]
+            },
+            "properties": {
+                "name": "Angelo's Deli",
+                "address": "5000 Grand Ave, Queens, NY 11378",
+                "phone": "+17183864423",
+                "category": "Spanish,Delis,Breakfast & Brunch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.951523,
+                    40.711167
+                ]
+            },
+            "properties": {
+                "name": "Angie's Deli & Grocery",
+                "address": "493 Grand St, Brooklyn, NY 11211",
+                "phone": "+17183842909",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9165969,
+                    40.704583
+                ]
+            },
+            "properties": {
+                "name": "Anna's Best Gourmet Deli",
+                "address": "Saint Nicholas Ave, Brooklyn, NY 11237",
+                "phone": "",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.912328,
+                    40.699973
+                ]
+            },
+            "properties": {
+                "name": "Armando's Grocery & Bakery",
+                "address": "272 Wyckoff Ave, Brooklyn, NY 11237",
+                "phone": "+17184977979",
+                "category": "Bakeries,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95162,
+                    40.715
+                ]
+            },
+            "properties": {
+                "name": "Art Gourmet Deli",
+                "address": "484 Union Ave, Brooklyn, NY 11211",
+                "phone": "",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9359396,
+                    40.7132458
+                ]
+            },
+            "properties": {
+                "name": "Asian Bok Choi",
+                "address": "969 Grand St, Brooklyn, NY 11211",
+                "phone": "+17183871009",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92543,
+                    40.70312
+                ]
+            },
+            "properties": {
+                "name": "Associated Supermarket",
+                "address": "229 Knickerbocker Ave, Brooklyn, NY 11237",
+                "phone": "+17184565298",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96629,
+                    40.7102999
+                ]
+            },
+            "properties": {
+                "name": "Awesome Deli",
+                "address": "60 Broadway, Brooklyn, NY 11211",
+                "phone": "+17183842806",
+                "category": "Delis,Juice Bars & Smoothies,Burgers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9417,
+                    40.70761
+                ]
+            },
+            "properties": {
+                "name": "Azure",
+                "address": "187 Montrose Ave, Brooklyn, NY 11206",
+                "phone": "+17185997887",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.957814,
+                    40.73011
+                ]
+            },
+            "properties": {
+                "name": "Azure Gourmet",
+                "address": "113 Franklin St, Brooklyn, NY 11222",
+                "phone": "",
+                "category": "Delis,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9597299,
+                    40.70536
+                ]
+            },
+            "properties": {
+                "name": "B & B Food Market",
+                "address": "78 Lee Ave, Brooklyn, NY 11211",
+                "phone": "+17183843935",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.942685,
+                    40.693245
+                ]
+            },
+            "properties": {
+                "name": "B & C Grocery",
+                "address": "305 Throop Ave, Brooklyn, NY 11206",
+                "phone": "+17189190241",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95282,
+                    40.72757
+                ]
+            },
+            "properties": {
+                "name": "Baker's Dozen",
+                "address": "788 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "+17183492222",
+                "category": "Bagels,Breakfast & Brunch,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.957168,
+                    40.718649
+                ]
+            },
+            "properties": {
+                "name": "Bedford Deli and Grocery",
+                "address": "160 Bedford Ave, Brooklyn, NY 11211",
+                "phone": "+17185991200",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.957161,
+                    40.718636
+                ]
+            },
+            "properties": {
+                "name": "Bedford Gourmet Food",
+                "address": "160 Bedford Ave, Brooklyn, NY 11211",
+                "phone": "+17183024800",
+                "category": "Delis,Specialty Food,Juice Bars & Smoothies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9085714891553,
+                    40.6958615223812
+                ]
+            },
+            "properties": {
+                "name": "Bengi's Deli & Grocery",
+                "address": "451 Irving Ave, Bushwick, NY 11237",
+                "phone": "",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95247,
+                    40.73046
+                ]
+            },
+            "properties": {
+                "name": "Bettys deli grocery",
+                "address": "179 Greenpoint Ave, Fl 1, Brooklyn, NY 11222",
+                "phone": "+13477213717",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94106599999999,
+                    40.707764
+                ]
+            },
+            "properties": {
+                "name": "Beyond Natural Market",
+                "address": "199 Montrose Ave, Brooklyn, NY 11206",
+                "phone": "+17188211387",
+                "category": "Grocery,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8986831903458,
+                    40.7239901982025
+                ]
+            },
+            "properties": {
+                "name": "Biedronka",
+                "address": "6552 Grand Ave, Maspeth, New York, NY 11378",
+                "phone": "",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9357298,
+                    40.6970752
+                ]
+            },
+            "properties": {
+                "name": "Big Boy Deli",
+                "address": "928 Broadway, Brooklyn, NY 11206",
+                "phone": "+17185742959",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.950264,
+                    40.718402
+                ]
+            },
+            "properties": {
+                "name": "Blue Star Deli Organic",
+                "address": "715 Lorimer St, Brooklyn, NY 11211",
+                "phone": "+17185990872",
+                "category": "Delis,Juice Bars & Smoothies,Organic Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9443359375,
+                    40.7206993103027
+                ]
+            },
+            "properties": {
+                "name": "Bolla Market",
+                "address": "497 Meeker Ave, Brooklyn, NY 11222",
+                "phone": "+17183892729",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.941757,
+                    40.712092
+                ]
+            },
+            "properties": {
+                "name": "Bravo Supermarkets",
+                "address": "785 Grand St, Brooklyn, NY 11211",
+                "phone": "+13478896279",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96681,
+                    40.70995
+                ]
+            },
+            "properties": {
+                "name": "Bridge Deli & Grocery",
+                "address": "427 Wythe Ave, Brooklyn, NY 11211",
+                "phone": "+17183020943",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95384,
+                    40.70715
+                ]
+            },
+            "properties": {
+                "name": "Broadway Mini Market",
+                "address": "403 Broadway, Brooklyn, NY 11211",
+                "phone": "+17185997144",
+                "category": "Grocery,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.940129,
+                    40.699891
+                ]
+            },
+            "properties": {
+                "name": "Broadway Organic Deli and Grill",
+                "address": "799 Broadway, Brooklyn, NY 11206",
+                "phone": "+13475336103",
+                "category": "Middle Eastern,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.962035,
+                    40.713143
+                ]
+            },
+            "properties": {
+                "name": "Brooklyn Gourmet Deli",
+                "address": "313 Bedford Ave, Brooklyn, NY 11211",
+                "phone": "+17184868261",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94292547865896,
+                    40.714803255496804
+                ]
+            },
+            "properties": {
+                "name": "Brooklyn Harvest Market",
+                "address": "781 Metropolitan Ave, Brooklyn, NY 11211",
+                "phone": "+17182188500",
+                "category": "Grocery,Bakeries,Seafood Markets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9501785,
+                    40.7064009
+                ]
+            },
+            "properties": {
+                "name": "Brooklyn Harvest Market of Union Avenue",
+                "address": "204 Union Ave, Brooklyn, NY 11211",
+                "phone": "+17184863300",
+                "category": "Grocery,Seafood Markets,Meat Shops"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93343,
+                    40.70531
+                ]
+            },
+            "properties": {
+                "name": "Brooklyn Natural",
+                "address": "49 Bogart St, Brooklyn, NY 11206",
+                "phone": "+17183810650",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.945621,
+                    40.725221
+                ]
+            },
+            "properties": {
+                "name": "Brooklyn Standard",
+                "address": "188 Nassau Ave, Brooklyn, NY 11222",
+                "phone": "+17184722150",
+                "category": "Delis,Coffee & Tea,Juice Bars & Smoothies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.941938,
+                    40.725953
+                ]
+            },
+            "properties": {
+                "name": "Buckley's Self-Service Market",
+                "address": "251 Nassau Ave, Brooklyn, NY 11222",
+                "phone": "+17183830838",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.928237,
+                    40.704147
+                ]
+            },
+            "properties": {
+                "name": "Buena Vista Deli & Grocery",
+                "address": "152 Knickerbocker Ave, Brooklyn, NY 11237",
+                "phone": "+17184565776",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.91789,
+                    40.69897
+                ]
+            },
+            "properties": {
+                "name": "Bushwick Deli",
+                "address": "1449 Myrtle Ave, Brooklyn, NY 11237",
+                "phone": "+17183864560",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.928406,
+                    40.705094
+                ]
+            },
+            "properties": {
+                "name": "Bushwick Food Cooperative",
+                "address": "2 Porter Ave, Brooklyn, NY 11237",
+                "phone": "+13474501087",
+                "category": "Farmers Market,Grocery,Do-It-Yourself Food"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.91252,
+                    40.69783
+                ]
+            },
+            "properties": {
+                "name": "Bushwick Gourmet Deli",
+                "address": "350 Irving Ave, Bushwick, NY 11237",
+                "phone": "+13477709951",
+                "category": "Grocery,Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.936898,
+                    40.70231
+                ]
+            },
+            "properties": {
+                "name": "Bushwick Grocery",
+                "address": "443 Bushwick Ave, Brooklyn, NY 11206",
+                "phone": "+17184976162",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.945732,
+                    40.725639
+                ]
+            },
+            "properties": {
+                "name": "Busy Bee Food Exchange",
+                "address": "185 Nassau Ave, Brooklyn, NY 11222",
+                "phone": "+17183892188",
+                "category": "Grocery,Specialty Food"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9440015676779,
+                    40.714125963915784
+                ]
+            },
+            "properties": {
+                "name": "CTown Supermarkets",
+                "address": "330 Graham Ave, Brooklyn, NY 11211",
+                "phone": "+17183888968",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.892805,
+                    40.727344
+                ]
+            },
+            "properties": {
+                "name": "CVS Pharmacy",
+                "address": "69 80 Grand Ave, Maspeth, NY 11378",
+                "phone": "+17184242846",
+                "category": "Drugstores,Pharmacy,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9488606,
+                    40.7120245
+                ]
+            },
+            "properties": {
+                "name": "Campbell & Co",
+                "address": "502 Lorimer St, Brooklyn, NY 11211",
+                "phone": "+17183872267",
+                "category": "Cheese Shops,Grocery,Coffee & Tea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.966961838305,
+                    40.706852737800304
+                ]
+            },
+            "properties": {
+                "name": "Central Market",
+                "address": "50-54 Division Ave, Brooklyn, NY 11211",
+                "phone": "+17183875411",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.925003,
+                    40.700603
+                ]
+            },
+            "properties": {
+                "name": "Cibao Grocery",
+                "address": "147 Wilson Ave, Brooklyn, NY 11237",
+                "phone": "+17184178864",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92543,
+                    40.70312
+                ]
+            },
+            "properties": {
+                "name": "City Fresh Market",
+                "address": "229 Knickerbocker Ave, Brooklyn, NY 11237",
+                "phone": "+17184564707",
+                "category": "Fruits & Veggies,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9478531,
+                    40.7038803
+                ]
+            },
+            "properties": {
+                "name": "Coconut Kosher Supermarket",
+                "address": "574 Broadway, New York, NY 11206",
+                "phone": "+17189632268",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95534,
+                    40.71421
+                ]
+            },
+            "properties": {
+                "name": "Convenience Store",
+                "address": "78 Havemeyer St, Brooklyn, NY 11211",
+                "phone": "+17183022391",
+                "category": "Delis,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9501647949219,
+                    40.7289352416992
+                ]
+            },
+            "properties": {
+                "name": "Corner Bakery Cafe",
+                "address": "230 Calyer St, Brooklyn, NY 11222",
+                "phone": "+13477254383",
+                "category": "Delis,Bakeries"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9661484,
+                    40.7073517
+                ]
+            },
+            "properties": {
+                "name": "D&G Deli Grocery",
+                "address": "71 Division Ave, Brooklyn, NY 11211",
+                "phone": "+17184868156",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.948402,
+                    40.726345
+                ]
+            },
+            "properties": {
+                "name": "Daniel's European Market",
+                "address": "152 Norman Ave, Brooklyn, NY 11222",
+                "phone": "+17183895793",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.957603,
+                    40.717587
+                ]
+            },
+            "properties": {
+                "name": "Deli-Mart",
+                "address": "185 Bedford Ave, New York, NY 11211",
+                "phone": "+17183878521",
+                "category": "Grocery,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.953536,
+                    40.711109
+                ]
+            },
+            "properties": {
+                "name": "Divino Nino Grocery Store",
+                "address": "407 Keap St, Brooklyn, NY 11211",
+                "phone": "",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9307199,
+                    40.7037
+                ]
+            },
+            "properties": {
+                "name": "Dominguez Grocery & Deli",
+                "address": "1004 Flushing Ave, Brooklyn, NY 11237",
+                "phone": "+17186281060",
+                "category": "Delis,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.944899,
+                    40.723231
+                ]
+            },
+            "properties": {
+                "name": "Driggs Finest Deli",
+                "address": "162 Driggs Ave, Brooklyn, NY 11222",
+                "phone": "+17183831740",
+                "category": "Delis,Caterers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.956724,
+                    40.70827
+                ]
+            },
+            "properties": {
+                "name": "Duals Natural",
+                "address": "321 Broadway, Brooklyn, NY 11211",
+                "phone": "+12129796045",
+                "category": "Herbs & Spices,Grocery,Coffee & Tea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9522814,
+                    40.6948171
+                ]
+            },
+            "properties": {
+                "name": "Duane Reade",
+                "address": "756 Myrtle Ave, Brooklyn, NY 11206",
+                "phone": "+17182374526",
+                "category": "Drugstores,Cosmetics & Beauty Supply,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9391555786133,
+                    40.7054252624512
+                ]
+            },
+            "properties": {
+                "name": "Eagle Grocery & Deli",
+                "address": "317 Bushwick Ave, Brooklyn, NY 11206",
+                "phone": "",
+                "category": "Delis,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95517692449624,
+                    40.7347741
+                ]
+            },
+            "properties": {
+                "name": "Eastern District",
+                "address": "1053 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "+17183491432",
+                "category": "Cheese Shops,Sandwiches,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94773,
+                    40.71504
+                ]
+            },
+            "properties": {
+                "name": "Edith\u00e2\u20ac\u2122s Eatery & Grocery",
+                "address": "312 Leonard St, Brooklyn, NY 11211",
+                "phone": "+17183166056",
+                "category": "Delis,Salad,Middle Eastern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.951008,
+                    40.727448
+                ]
+            },
+            "properties": {
+                "name": "Edy's Grocer",
+                "address": "136 Meserole Ave, New York, NY 11222",
+                "phone": "",
+                "category": "Grocery,Delis,Cafes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.924476,
+                    40.702011
+                ]
+            },
+            "properties": {
+                "name": "El Mercadito",
+                "address": "274 Knickerbocker Ave, Brooklyn, NY 11237",
+                "phone": "+17186284816",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.927933,
+                    40.700813
+                ]
+            },
+            "properties": {
+                "name": "Eric's Deli",
+                "address": "125 Central Ave, Brooklyn, NY 11237",
+                "phone": "",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.950600028038,
+                    40.7068072434682
+                ]
+            },
+            "properties": {
+                "name": "Express Deli & Grocery",
+                "address": "213 Union Ave, Brooklyn, NY 11206",
+                "phone": "",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9276502556955,
+                    40.7018751301865
+                ]
+            },
+            "properties": {
+                "name": "FHF Deli & Grocery",
+                "address": "83 Wilson Ave, Bushwick, NY 11237",
+                "phone": "+17184971861",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8952637,
+                    40.7272987
+                ]
+            },
+            "properties": {
+                "name": "Fast Break",
+                "address": "55-49 69th St, New York, NY 11378",
+                "phone": "",
+                "category": "Grocery,Convenience Stores,Coffee & Tea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.954483,
+                    40.707485
+                ]
+            },
+            "properties": {
+                "name": "Fine Fare Supermarket",
+                "address": "385 Broadway, Brooklyn, NY 11211",
+                "phone": "+17183841643",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92386,
+                    40.69978
+                ]
+            },
+            "properties": {
+                "name": "Fire House Deli and Grill",
+                "address": "177 Wilson Ave, Brooklyn, NY 11237",
+                "phone": "",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.940916,
+                    40.698715
+                ]
+            },
+            "properties": {
+                "name": "Food & Deli by Neil",
+                "address": "31 Marcus Garvey Blvd, Brooklyn, NY 11206",
+                "phone": "+17183845839",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.909405,
+                    40.6980692
+                ]
+            },
+            "properties": {
+                "name": "Food Bazaar Supermarket",
+                "address": "454 Wyckoff Ave, Brooklyn, NY 11237",
+                "phone": "+17183818338",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9331767,
+                    40.7049098
+                ]
+            },
+            "properties": {
+                "name": "Food Story Natural Market",
+                "address": "40 Bogart St, Brooklyn, NY 11206",
+                "phone": "+17183816800",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95957,
+                    40.71533
+                ]
+            },
+            "properties": {
+                "name": "Foodtown - Williamsburg",
+                "address": "159 N 3rd St, Brooklyn, NY 11211",
+                "phone": "+17183025533",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.91972,
+                    40.72911
+                ]
+            },
+            "properties": {
+                "name": "Forty-Eighth Street Restaurant Deli",
+                "address": "5502 48th St, Maspeth, NY 11378",
+                "phone": "+17189371313",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9192004482783,
+                    40.7041657739335
+                ]
+            },
+            "properties": {
+                "name": "Four Seasons Grill Deli",
+                "address": "98 Wyckoff Ave, Bushwick, NY 11237",
+                "phone": "+17183667161",
+                "category": "American (Traditional),Delis,American (New)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9550310373306,
+                    40.7354376177704
+                ]
+            },
+            "properties": {
+                "name": "Franchesca Mini Market",
+                "address": "1074 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8916799,
+                    40.73073
+                ]
+            },
+            "properties": {
+                "name": "Frank's Deli & Sons",
+                "address": "5318 72nd Pl, Maspeth, NY 11378",
+                "phone": "+17186395068",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9509979,
+                    40.723826
+                ]
+            },
+            "properties": {
+                "name": "Frankel's Delicatessen",
+                "address": "631 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "+17183892302",
+                "category": "Delis,Bagels,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95783,
+                    40.732851
+                ]
+            },
+            "properties": {
+                "name": "Franklin Corner Cafe",
+                "address": "210 Franklin St, Brooklyn, NY 11222",
+                "phone": "+17183894575",
+                "category": "Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9479231834412,
+                    40.7225266077096
+                ]
+            },
+            "properties": {
+                "name": "Freddy's Food Market",
+                "address": "257 Driggs Ave, New York, NY 11222",
+                "phone": "+17183025200",
+                "category": "Grocery,Organic Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95496,
+                    40.73248
+                ]
+            },
+            "properties": {
+                "name": "Fresh Stop",
+                "address": "975 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9239992201328,
+                    40.704368295124
+                ]
+            },
+            "properties": {
+                "name": "Garden Deli & Grill",
+                "address": "185 Starr St, Brooklyn, NY 11237",
+                "phone": "+17184843999",
+                "category": "Delis,Breakfast & Brunch,American (Traditional)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95061,
+                    40.72372
+                ]
+            },
+            "properties": {
+                "name": "Garden Store",
+                "address": "626 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "+17186096490",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94326,
+                    40.69394
+                ]
+            },
+            "properties": {
+                "name": "Gawad deli",
+                "address": "207 Hart St, Brooklyn, NY 11206",
+                "phone": "+13474619858",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94046,
+                    40.72035
+                ]
+            },
+            "properties": {
+                "name": "George's Homestyle Catering",
+                "address": "110 Kingsland Ave, Brooklyn, NY 11222",
+                "phone": "+17183876349",
+                "category": "Caterers,Grocery,Meat Shops"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.89477,
+                    40.72656
+                ]
+            },
+            "properties": {
+                "name": "Glendale Bake Shop",
+                "address": "6925 Grand Ave, Maspeth, NY 11378",
+                "phone": "+17184572006",
+                "category": "Bakeries,Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.953155,
+                    40.72837
+                ]
+            },
+            "properties": {
+                "name": "God Bless Deli",
+                "address": "818 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "+17183491828",
+                "category": "Convenience Stores,Delis,Halal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9554920520544,
+                    40.736641
+                ]
+            },
+            "properties": {
+                "name": "God Bless Deli 2",
+                "address": "1115 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "+17186091313",
+                "category": "Convenience Stores,Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9611326,
+                    40.7077128
+                ]
+            },
+            "properties": {
+                "name": "Gottlieb's Restaurant",
+                "address": "352 Roebling St, Brooklyn, NY 11211",
+                "phone": "+17183846612",
+                "category": "Kosher,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9185562133789,
+                    40.7039985656738
+                ]
+            },
+            "properties": {
+                "name": "Gourmet Deli",
+                "address": "114 Wyckoff Ave, New York, NY 11237",
+                "phone": "",
+                "category": "Gelato,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9501588,
+                    40.7241765
+                ]
+            },
+            "properties": {
+                "name": "Gourmet Deli Delight",
+                "address": "101 Nassau Ave, Brooklyn, NY 11222",
+                "phone": "+17183498888",
+                "category": "Grocery,Convenience Stores,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94289,
+                    40.70643
+                ]
+            },
+            "properties": {
+                "name": "Graham Avenue Stop One Deli Incorporated",
+                "address": "146 Graham Ave, Brooklyn, NY 11206",
+                "phone": "+17183883028",
+                "category": "Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9435870572925,
+                    40.7076258825353
+                ]
+            },
+            "properties": {
+                "name": "Graham Super Grocery",
+                "address": "200 Graham Ave, Brooklyn, NY 11206",
+                "phone": "+17183842253",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.949,
+                    40.7110399
+                ]
+            },
+            "properties": {
+                "name": "Grand Express Deli",
+                "address": "572 Grand St, Brooklyn, NY 11211",
+                "phone": "+17183877640",
+                "category": "Convenience Stores,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9413041184744,
+                    40.7120182919181
+                ]
+            },
+            "properties": {
+                "name": "Grand Freedom Market",
+                "address": "805 Grand St, Brooklyn, NY 11211",
+                "phone": "",
+                "category": "Delis,Juice Bars & Smoothies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.947433,
+                    40.711521
+                ]
+            },
+            "properties": {
+                "name": "Grand Gourmet Deli",
+                "address": "619 Grand St, Brooklyn, NY 11211",
+                "phone": "",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.893326,
+                    40.726768
+                ]
+            },
+            "properties": {
+                "name": "Grand Mars Bagel & Deli",
+                "address": "6962 Grand Ave, Maspeth, NY 11378",
+                "phone": "+17186516600",
+                "category": "Grocery,Bagels,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.941084,
+                    40.711794
+                ]
+            },
+            "properties": {
+                "name": "Grand Street Deli and Grocery",
+                "address": "810 Grand St, Brooklyn, NY 11211",
+                "phone": "",
+                "category": "Convenience Stores,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.924070969224,
+                    40.7019954174757
+                ]
+            },
+            "properties": {
+                "name": "Great Land Deli",
+                "address": "290 Knickerbocker Ave, New York, NY 11237",
+                "phone": "",
+                "category": "American (Traditional),Convenience Stores,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.908051,
+                    40.697624
+                ]
+            },
+            "properties": {
+                "name": "Green Basket & More",
+                "address": "852 Wyckoff Ave, Brooklyn, NY 11237",
+                "phone": "+13474257590",
+                "category": "Organic Stores,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9407,
+                    40.70124
+                ]
+            },
+            "properties": {
+                "name": "Green Corner Fish & Farmers Market",
+                "address": "801 Flushing Ave, Brooklyn, NY 11206",
+                "phone": "+17187823888",
+                "category": "Grocery,Fruits & Veggies,Seafood Markets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9505234,
+                    40.7237282
+                ]
+            },
+            "properties": {
+                "name": "Green Garden Deli",
+                "address": "626 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "+17183890989",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.955693,
+                    40.699861
+                ]
+            },
+            "properties": {
+                "name": "Green Leaf Market",
+                "address": "184 Wallabout St, Williamsburg, NY 11206",
+                "phone": "+19178483551",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.957996,
+                    40.7038117
+                ]
+            },
+            "properties": {
+                "name": "Greenfelds Foods",
+                "address": "128 Lee Ave, Brooklyn, NY 11211",
+                "phone": "+17188559368",
+                "category": "Meat Shops,Delis,Kosher"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9584193,
+                    40.7336014
+                ]
+            },
+            "properties": {
+                "name": "Greenpoint Convenience",
+                "address": "197 Franklin St, Brooklyn, NY 11222",
+                "phone": "+13476892270",
+                "category": "Tobacco Shops,Convenience Stores,Organic Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9546,
+                    40.7303
+                ]
+            },
+            "properties": {
+                "name": "Greenpoint Deli Market",
+                "address": "903 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "+17183492522",
+                "category": "Grocery,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9545,
+                    40.73366
+                ]
+            },
+            "properties": {
+                "name": "Greenpoint Grocery",
+                "address": "1018 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "+17183831984",
+                "category": "Grocery,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9587070047855,
+                    40.7044641162683
+                ]
+            },
+            "properties": {
+                "name": "Grill On Lee",
+                "address": "108 Lee Ave, New York, NY 11211",
+                "phone": "+17189632700",
+                "category": "Kosher,Chinese,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.901191,
+                    40.715881
+                ]
+            },
+            "properties": {
+                "name": "Grosik Polish Delicatessen",
+                "address": "60-45 Fresh Pond Rd, Maspeth, NY 11378",
+                "phone": "+13474070674",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95103,
+                    40.7139499
+                ]
+            },
+            "properties": {
+                "name": "Hana Food",
+                "address": "534 Metropolitan Ave, Brooklyn, NY 11211",
+                "phone": "+17182187747",
+                "category": "Delis,Grocery,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92264,
+                    40.70615
+                ]
+            },
+            "properties": {
+                "name": "Hana Natural",
+                "address": "24 Wyckoff Ave, Brooklyn, NY 11237",
+                "phone": "+17184177747",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.940566,
+                    40.717219
+                ]
+            },
+            "properties": {
+                "name": "Harvest Deli",
+                "address": "31A Kingsland Ave, Brooklyn, NY 11211",
+                "phone": "+17183831740",
+                "category": "Breakfast & Brunch,Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9219971,
+                    40.7011719
+                ]
+            },
+            "properties": {
+                "name": "Hi Mango Natural Market",
+                "address": "341 Knickerbocker Ave, Bushwick, NY 11237",
+                "phone": "+17183669111",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9475860595703,
+                    40.71435546875
+                ]
+            },
+            "properties": {
+                "name": "Horizon Organic & Natural",
+                "address": "296 Leonard St, New York, NY 11211",
+                "phone": "+17182189062",
+                "category": "Grocery,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8914108276367,
+                    40.7285232543945
+                ]
+            },
+            "properties": {
+                "name": "How Convenient",
+                "address": "7205 Grand Ave, Flushing, NY 11378",
+                "phone": "",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9533465,
+                    40.7249309
+                ]
+            },
+            "properties": {
+                "name": "I & I Deli",
+                "address": "59 Norman Ave, Brooklyn, NY 11222",
+                "phone": "+17183832311",
+                "category": "Breakfast & Brunch,Delis,Organic Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8951088,
+                    40.7258764
+                ]
+            },
+            "properties": {
+                "name": "Iavarone Bros Quality Foods",
+                "address": "6900 Grand Ave, Maspeth, NY 11378",
+                "phone": "+17186393623",
+                "category": "Grocery,Specialty Food,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92538,
+                    40.70505
+                ]
+            },
+            "properties": {
+                "name": "Infante Grocery",
+                "address": "342 Jefferson St, Brooklyn, NY 11237",
+                "phone": "+17183865578",
+                "category": "Grocery,Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9081909507513,
+                    40.6953978597214
+                ]
+            },
+            "properties": {
+                "name": "Inoa Deli Grocery",
+                "address": "480 Irving Ave, Brooklyn, NY 11237",
+                "phone": "+17184170250",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94511,
+                    40.69561
+                ]
+            },
+            "properties": {
+                "name": "J & D Superette",
+                "address": "920 Myrtle Ave, Brooklyn, NY 11206",
+                "phone": "+17184527922",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.954803,
+                    40.732178
+                ]
+            },
+            "properties": {
+                "name": "J&J  Gourmet Grocery & Candy",
+                "address": "969 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94864,
+                    40.71036
+                ]
+            },
+            "properties": {
+                "name": "JC Deli & Grill",
+                "address": "442 Lorimer St, Ste A, Brooklyn, NY 11206",
+                "phone": "",
+                "category": "Breakfast & Brunch,Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9515394382586,
+                    40.7177334931885
+                ]
+            },
+            "properties": {
+                "name": "JR Union Market",
+                "address": "568 Union Ave, Unit M, Brooklyn, NY 11211",
+                "phone": "+17183879696",
+                "category": "Delis,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95135,
+                    40.725
+                ]
+            },
+            "properties": {
+                "name": "JSS Fruit & Vegetable",
+                "address": "678 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "+17183833674",
+                "category": "Fruits & Veggies,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.912881,
+                    40.715074
+                ]
+            },
+            "properties": {
+                "name": "Jay Deli Grocery",
+                "address": "5416 Flushing Ave, Ste 1, Maspeth, NY 11378",
+                "phone": "+17183862645",
+                "category": "Delis,Mexican,Breakfast & Brunch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9087887480855,
+                    40.6959850635324
+                ]
+            },
+            "properties": {
+                "name": "Jeanny Deli Grocery",
+                "address": "449 Irving Ave, Bushwick, NY 11237",
+                "phone": "",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.956565,
+                    40.71725
+                ]
+            },
+            "properties": {
+                "name": "Joe's Busy Corner",
+                "address": "552 Driggs Ave, Brooklyn, NY 11211",
+                "phone": "+17183886372",
+                "category": "Grocery,Sandwiches,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9436,
+                    40.70815
+                ]
+            },
+            "properties": {
+                "name": "Johan Food",
+                "address": "145 Meserole St, Brooklyn, NY 11206",
+                "phone": "+17183886254",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.940841,
+                    40.725746
+                ]
+            },
+            "properties": {
+                "name": "John's Deli & Grocery",
+                "address": "260 Nassau Ave, Brooklyn, NY 11222",
+                "phone": "+17183890313",
+                "category": "Grocery,Delis,Beer, Wine & Spirits"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.941428,
+                    40.696087
+                ]
+            },
+            "properties": {
+                "name": "Junior's Food Outlets",
+                "address": "994 /1014 Myrtle Ave, Brooklyn, NY 11206",
+                "phone": "+17184173770",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94755,
+                    40.72474
+                ]
+            },
+            "properties": {
+                "name": "K&M Gourmet Deli & Grocery",
+                "address": "146A Nassau Ave, Brooklyn, NY 11222",
+                "phone": "+19293878197",
+                "category": "Delis,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.920433,
+                    40.704593
+                ]
+            },
+            "properties": {
+                "name": "Key Food",
+                "address": "72-80 Wyckoff Ave, Bushwick, NY 11237",
+                "phone": "+17184178010",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8930339,
+                    40.7271468
+                ]
+            },
+            "properties": {
+                "name": "Key Food Store",
+                "address": "6980 Grand Ave, Maspeth, NY 11378",
+                "phone": "+17188996050",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.960815,
+                    40.714698
+                ]
+            },
+            "properties": {
+                "name": "Khim's Millenium Market",
+                "address": "265 Bedford Ave, Brooklyn, NY 11211",
+                "phone": "+17182187540",
+                "category": "Grocery,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9542931150726,
+                    40.719182890909934
+                ]
+            },
+            "properties": {
+                "name": "Khim's Millenium Market VI",
+                "address": "460 Driggs Ave, Brooklyn, NY 11211",
+                "phone": "+17189633041",
+                "category": "Grocery,Health Markets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9131403,
+                    40.7023389
+                ]
+            },
+            "properties": {
+                "name": "Kiara Deli Grocery",
+                "address": "262 Saint Nicholas Ave, Brooklyn, NY 11237",
+                "phone": "+17184979544",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.91364,
+                    40.6991
+                ]
+            },
+            "properties": {
+                "name": "Kikiriki Live Poultry",
+                "address": "334 Linden St, Brooklyn, NY 11237",
+                "phone": "+17183865373",
+                "category": "Butcher,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95195,
+                    40.73063
+                ]
+            },
+            "properties": {
+                "name": "Kimchee Market",
+                "address": "191 Greenpoint Ave, Greenpoint, NY 11222",
+                "phone": "+17183895544",
+                "category": "Korean,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.921691,
+                    40.700424
+                ]
+            },
+            "properties": {
+                "name": "Knickerbocker Deli & Grocery",
+                "address": "362 Knickerbocker Ave, Brooklyn, NY 11237",
+                "phone": "+17184439092",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9303358,
+                    40.7053418
+                ]
+            },
+            "properties": {
+                "name": "Knickerbocker Market",
+                "address": "96 Knickerbocker Ave, Ste 111, Brooklyn, NY 11237",
+                "phone": "+17187817346",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94671,
+                    40.72493
+                ]
+            },
+            "properties": {
+                "name": "Krajan Polskie Deli",
+                "address": "160 Nassau Ave, Brooklyn, NY 11222",
+                "phone": "+17183894289",
+                "category": "Delis,Polish,Meat Shops"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.900199,
+                    40.723671
+                ]
+            },
+            "properties": {
+                "name": "Kubus Deli",
+                "address": "6527 Grand Ave, Maspeth, NY 11378",
+                "phone": "+17183266028",
+                "category": "Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.958259,
+                    40.708354
+                ]
+            },
+            "properties": {
+                "name": "L & B Grocery & Deli",
+                "address": "296 Broadway, Brooklyn, NY 11211",
+                "phone": "+17183871973",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93194,
+                    40.7055
+                ]
+            },
+            "properties": {
+                "name": "L Mo's Market",
+                "address": "51 Morgan Ave, Brooklyn, NY 11206",
+                "phone": "+17183862380",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94015,
+                    40.70783
+                ]
+            },
+            "properties": {
+                "name": "L Stop gourmet deli",
+                "address": "223 Montrose Ave, Brooklyn, NY 11206",
+                "phone": "+13478896608",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.954527,
+                    40.709476
+                ]
+            },
+            "properties": {
+                "name": "La Bamba Deli Grocery",
+                "address": "357 Keap St, Brooklyn, NY 11211",
+                "phone": "+17183847521",
+                "category": "Grocery,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9216995239258,
+                    40.7055625915527
+                ]
+            },
+            "properties": {
+                "name": "La Guadalupita Deli",
+                "address": "50 Wyckoff Ave, Brooklyn, NY 11237",
+                "phone": "",
+                "category": "Convenience Stores,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9180297851562,
+                    40.7056655883789
+                ]
+            },
+            "properties": {
+                "name": "La Rosa Deli & Grocery",
+                "address": "119 St Nicholas Ave, Brooklyn, NY 11237",
+                "phone": "",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92506,
+                    40.7025
+                ]
+            },
+            "properties": {
+                "name": "La Tapatia Deli Grocery",
+                "address": "254 Knickerbocker Ave, Brooklyn, NY 11237",
+                "phone": "+17183864555",
+                "category": "Delis,Mexican"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92271,
+                    40.70142
+                ]
+            },
+            "properties": {
+                "name": "La Villa Produce & Deli",
+                "address": "323 Knickerbocker Ave, Brooklyn, NY 11237",
+                "phone": "+17183662026",
+                "category": "Grocery,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.938873,
+                    40.714782
+                ]
+            },
+            "properties": {
+                "name": "Late Night Deli",
+                "address": "905 Metropolitan Ave, Brooklyn, NY 11211",
+                "phone": "+17183883366",
+                "category": "Convenience Stores,Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.944709777832,
+                    40.7151031494141
+                ]
+            },
+            "properties": {
+                "name": "Late Night Stars Deli",
+                "address": "357 Graham Ave, Brooklyn, NY 11211",
+                "phone": "+17185991525",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.948603,
+                    40.692975
+                ]
+            },
+            "properties": {
+                "name": "Lincoln Market",
+                "address": "633 Marcy Ave, Brooklyn, NY 11206",
+                "phone": "+17187823500",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95171,
+                    40.72561
+                ]
+            },
+            "properties": {
+                "name": "Lite Bites",
+                "address": "700 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "+17183832820",
+                "category": "Delis,Diners,American (New)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.89273,
+                    40.72181
+                ]
+            },
+            "properties": {
+                "name": "Lnd Grocery",
+                "address": "59-59 69th St, Maspeth, NY 11378",
+                "phone": "+17184294563",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94785,
+                    40.70388
+                ]
+            },
+            "properties": {
+                "name": "Lorimer Express Deli Grocery",
+                "address": "574 Broadway, Brooklyn, NY 11206",
+                "phone": "+17183024150",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9484,
+                    40.70893
+                ]
+            },
+            "properties": {
+                "name": "Los Compadres Grocery",
+                "address": "400 Lorimer St, Brooklyn, NY 11206",
+                "phone": "+17184867809",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.91658,
+                    40.699169
+                ]
+            },
+            "properties": {
+                "name": "Los Florencios",
+                "address": "1479 Myrtle Ave, Bushwick, NY 11237",
+                "phone": "+17183660399",
+                "category": "Grocery,Bakeries,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9064764244759,
+                    40.6943796505891
+                ]
+            },
+            "properties": {
+                "name": "Los Limones Deli",
+                "address": "1330 Halsey St, Brooklyn, NY 11237",
+                "phone": "+17183866143",
+                "category": "Delis,Grocery,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.91635,
+                    40.70265
+                ]
+            },
+            "properties": {
+                "name": "Los Milagros Deli Grocery",
+                "address": "197 Wyccoff Ave, Brooklyn, NY 11237",
+                "phone": "+17186766310",
+                "category": "Grocery,Delis,Juice Bars & Smoothies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92901,
+                    40.70056
+                ]
+            },
+            "properties": {
+                "name": "Los Primos Grocery",
+                "address": "105 Central Ave, Brooklyn, NY 11206",
+                "phone": "+17183662523",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9564,
+                    40.72599
+                ]
+            },
+            "properties": {
+                "name": "Lucky's Real Tomatoes",
+                "address": "29 Meserole Ave, Brooklyn, NY 11222",
+                "phone": "+17183832580",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9522018432617,
+                    40.7257118225098
+                ]
+            },
+            "properties": {
+                "name": "M & S Mini Mart",
+                "address": "711 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "+17183891600",
+                "category": "Grocery,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.961266,
+                    40.708134
+                ]
+            },
+            "properties": {
+                "name": "M.R.Grocery",
+                "address": "340 Robeling, Brooklyn, NY 11211",
+                "phone": "",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94987,
+                    40.7242
+                ]
+            },
+            "properties": {
+                "name": "Maison Jar",
+                "address": "566 Leonard St, Brooklyn, NY 11222",
+                "phone": "",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9264450073242,
+                    40.7036972045898
+                ]
+            },
+            "properties": {
+                "name": "Mally's Deli & Grocery",
+                "address": "199 Knickerbocker Ave, Brooklyn, NY 11237",
+                "phone": "+13474069964",
+                "category": "Grocery,Delis,Mexican"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95055,
+                    40.72376
+                ]
+            },
+            "properties": {
+                "name": "Manhattan Ave Deli",
+                "address": "82 Nassau Ave, Brooklyn, NY 11222",
+                "phone": "+17183491055",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.951203,
+                    40.725036
+                ]
+            },
+            "properties": {
+                "name": "Manhattan Fruit",
+                "address": "678 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "+17183833674",
+                "category": "Fruits & Veggies,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94289,
+                    40.70643
+                ]
+            },
+            "properties": {
+                "name": "Manny's Gourmet Deli and Grocery",
+                "address": "146 Graham Ave, Brooklyn, NY 11206",
+                "phone": "+17183872080",
+                "category": "Breakfast & Brunch,Salad,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.901108,
+                    40.7226842
+                ]
+            },
+            "properties": {
+                "name": "Maria's Deli",
+                "address": "6404 Flushing Ave, Maspeth, NY 11378",
+                "phone": "+17183268766",
+                "category": "Delis,Sandwiches,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9468994140625,
+                    40.7140464782715
+                ]
+            },
+            "properties": {
+                "name": "Mario and Sons Meat Market",
+                "address": "662 Metropolitan Ave, Brooklyn, NY 11211",
+                "phone": "+17184869317",
+                "category": "Grocery,Meat Shops"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9403593540192,
+                    40.7259131445681
+                ]
+            },
+            "properties": {
+                "name": "Mario's Deli",
+                "address": "262 Nassau Ave, New York, NY 11222",
+                "phone": "+17183493066",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95459,
+                    40.73082
+                ]
+            },
+            "properties": {
+                "name": "Market On Kent",
+                "address": "158 Kent St, New York, NY 11222",
+                "phone": "",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96505,
+                    40.71063
+                ]
+            },
+            "properties": {
+                "name": "Marlow & Daughters",
+                "address": "95 Broadway, Brooklyn, NY 11211",
+                "phone": "+17183885700",
+                "category": "Meat Shops,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8921868801117,
+                    40.7279132750698
+                ]
+            },
+            "properties": {
+                "name": "Maspeth Grill & Deli",
+                "address": "7101 Grand Ave, New York, NY 11378",
+                "phone": "+17186062081",
+                "category": "Grocery,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8944429531693,
+                    40.7263179014398
+                ]
+            },
+            "properties": {
+                "name": "Maspeth Mini Mart",
+                "address": "69-28 Grand Ave, Maspeth, NY 11378",
+                "phone": "+17183975633",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.908662,
+                    40.7259251
+                ]
+            },
+            "properties": {
+                "name": "Maurice Ave Deli",
+                "address": "5904 55th Dr, Flushing, NY 11378",
+                "phone": "+17183264096",
+                "category": "Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.952194,
+                    40.723548
+                ]
+            },
+            "properties": {
+                "name": "McCarren Natural",
+                "address": "57 Nassau Ave, Brooklyn, NY 11222",
+                "phone": "+17183881919",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.957847,
+                    40.711483
+                ]
+            },
+            "properties": {
+                "name": "Melo's Grocery Store",
+                "address": "160 Havemeyer St, Brooklyn, NY 11211",
+                "phone": "+17183884535",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9138464,
+                    40.6994087
+                ]
+            },
+            "properties": {
+                "name": "Merinda's Deli & Grill",
+                "address": "1543 Myrtle Ave, Brooklyn, NY 11237",
+                "phone": "+17185766880",
+                "category": "Delis,Burgers,American (Traditional)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9395676,
+                    40.7082672
+                ]
+            },
+            "properties": {
+                "name": "Meserole's United Deli",
+                "address": "232 Meserole St, East Williamsburg, NY 11206",
+                "phone": "+17183668957",
+                "category": "Grocery,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94383,
+                    40.72303
+                ]
+            },
+            "properties": {
+                "name": "Met Foodmarkets",
+                "address": "131 Driggs Ave, Brooklyn, NY 11222",
+                "phone": "+17183896429",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92095,
+                    40.69864
+                ]
+            },
+            "properties": {
+                "name": "Met Fresh Bushwick",
+                "address": "1381 Myrtle Ave, Brooklyn, NY 11237",
+                "phone": "+17189752955",
+                "category": "Specialty Food,Grocery,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94625,
+                    40.714561
+                ]
+            },
+            "properties": {
+                "name": "Metro Deli and Grill",
+                "address": "685 Metropolitan Ave, Brooklyn, NY 11211",
+                "phone": "+17183841180",
+                "category": "Delis,Grocery,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.955238237977,
+                    40.7142202556133
+                ]
+            },
+            "properties": {
+                "name": "Metro Deli and Grocery",
+                "address": "78 Havemeyer St, Williamsburg, NY 11211",
+                "phone": "",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.955017,
+                    40.707683
+                ]
+            },
+            "properties": {
+                "name": "Mexico 2000 Grocery",
+                "address": "367 Broadway, Brooklyn, NY 11211",
+                "phone": "+17187823797",
+                "category": "Convenience Stores,Mexican"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.936333,
+                    40.702324
+                ]
+            },
+            "properties": {
+                "name": "Mi Barrio Tortilleria Corporation",
+                "address": "913 Flushing Ave, New York, NY 11206",
+                "phone": "+17184562221",
+                "category": "Grocery,Imported Food"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94099,
+                    40.7235
+                ]
+            },
+            "properties": {
+                "name": "Miguel Nunez Kingsland Mini Market",
+                "address": "194 Kingsland Ave, Brooklyn, NY 11222",
+                "phone": "+17183831853",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.951004,
+                    40.7092978
+                ]
+            },
+            "properties": {
+                "name": "Mocha Gourmet Deli",
+                "address": "301 Union Ave, Brooklyn, NY 11211",
+                "phone": "+17182187700",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.954258,
+                    40.729931
+                ]
+            },
+            "properties": {
+                "name": "Mom & Pop's Organic Market",
+                "address": "889 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "+17183897912",
+                "category": "Grocery,Organic Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92003,
+                    40.70211
+                ]
+            },
+            "properties": {
+                "name": "Mr Grocery",
+                "address": "164 Irving Ave, Brooklyn, NY 11237",
+                "phone": "",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9347926387388,
+                    40.696916359286
+                ]
+            },
+            "properties": {
+                "name": "Mr Kiwi's",
+                "address": "957 Broadway, Brooklyn, NY 11206",
+                "phone": "+17184532640",
+                "category": "Grocery,Juice Bars & Smoothies,Fruits & Veggies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9201388508081,
+                    40.6996184944394
+                ]
+            },
+            "properties": {
+                "name": "Mr Lemon",
+                "address": "410 Knickerbocker Ave, Brooklyn, NY 11237",
+                "phone": "",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9539541255509,
+                    40.729931912809
+                ]
+            },
+            "properties": {
+                "name": "Mr. Berry",
+                "address": "892 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "+13475991162",
+                "category": "Grocery,Organic Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9588165283203,
+                    40.7091751098633
+                ]
+            },
+            "properties": {
+                "name": "Mr. Pi\u00c3\u00b1a",
+                "address": "221 Havemeyer St, Brooklyn, NY 11211",
+                "phone": "+13476899001",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9417,
+                    40.70761
+                ]
+            },
+            "properties": {
+                "name": "My Deli & Grill 2",
+                "address": "187 Montrose Ave, New York, NY 11206",
+                "phone": "",
+                "category": "Delis,Falafel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8981637,
+                    40.7241331
+                ]
+            },
+            "properties": {
+                "name": "Myrna Deli",
+                "address": "66-10 Grand Ave, Maspeth, NY 11378",
+                "phone": "+17186514926",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95621,
+                    40.7167699
+                ]
+            },
+            "properties": {
+                "name": "N7",
+                "address": "218 N 7th St, Brooklyn, NY 11211",
+                "phone": "+17183889800",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95755,
+                    40.71786
+                ]
+            },
+            "properties": {
+                "name": "N7 Deli & Grill",
+                "address": "183 Bedford Ave, Brooklyn, NY 11211",
+                "phone": "+19293878203",
+                "category": "Delis,American (Traditional)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9459329843521,
+                    40.7254890746247
+                ]
+            },
+            "properties": {
+                "name": "Nassau Finest Deli",
+                "address": "183 Nassau Ave, Greenpoint, NY 11222",
+                "phone": "",
+                "category": "Delis,Salad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95377,
+                    40.72846
+                ]
+            },
+            "properties": {
+                "name": "Nathans Farm",
+                "address": "829 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "+17183890657",
+                "category": "Fruits & Veggies,Juice Bars & Smoothies,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.923703,
+                    40.707988
+                ]
+            },
+            "properties": {
+                "name": "Nealtican Deli Grocery Corp",
+                "address": "1225 Flushing Ave, Brooklyn, NY 11237",
+                "phone": "+17184174305",
+                "category": "Delis,Mexican"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97067,
+                    40.69305
+                ]
+            },
+            "properties": {
+                "name": "New Saba Deli",
+                "address": "382 Myrtle Ave, Brooklyn, NY 11206",
+                "phone": "+17188558424",
+                "category": "Breakfast & Brunch,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9562,
+                    40.71395
+                ]
+            },
+            "properties": {
+                "name": "New York Deli Grocery",
+                "address": "82 Havemeyer St, Brooklyn, NY 11211",
+                "phone": "+17183881849",
+                "category": "Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.939499,
+                    40.714515
+                ]
+            },
+            "properties": {
+                "name": "Nishin Trading",
+                "address": "890 Metropolitan Ave, Brooklyn, NY 11211",
+                "phone": "+17184868395",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95469035310718,
+                    40.70876557707011
+                ]
+            },
+            "properties": {
+                "name": "Nourish Deli & Grocery",
+                "address": "332 Keap St, New York, NY 11211",
+                "phone": "+17183871412",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94322,
+                    40.72584
+                ]
+            },
+            "properties": {
+                "name": "O.H.S. Mini Market",
+                "address": "227-A Nassau Ave, Brooklyn, NY 11222",
+                "phone": "+17183835942",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94957,
+                    40.71608
+                ]
+            },
+            "properties": {
+                "name": "Ohm Deli",
+                "address": "642 Lorimer St, Brooklyn, NY 11211",
+                "phone": "+17183899413",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95052,
+                    40.71113
+                ]
+            },
+            "properties": {
+                "name": "Orange Tree Naturals",
+                "address": "517 Grand St, Brooklyn, NY 11211",
+                "phone": "+17183020011",
+                "category": "Grocery,Juice Bars & Smoothies,Fruits & Veggies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9431526182207,
+                    40.7059701998113
+                ]
+            },
+            "properties": {
+                "name": "Orange Tree Organic Market",
+                "address": "121 Graham Ave, Brooklyn, NY 11206",
+                "phone": "+17183020033",
+                "category": "Grocery,Juice Bars & Smoothies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95467,
+                    40.71806
+                ]
+            },
+            "properties": {
+                "name": "Organic Planet & Pharmacy",
+                "address": "205 N 9th St, Brooklyn, NY 11211",
+                "phone": "+13477992213",
+                "category": "Convenience Stores,Juice Bars & Smoothies,Pharmacy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.948448,
+                    40.724297
+                ]
+            },
+            "properties": {
+                "name": "Organic Valley",
+                "address": "126 Nassau Ave, Brooklyn, NY 11222",
+                "phone": "",
+                "category": "Health Markets,Grocery,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.946713,
+                    40.711517
+                ]
+            },
+            "properties": {
+                "name": "Ozzie's Fresh Market",
+                "address": "639 Grand St, Brooklyn, NY 11211",
+                "phone": "+17183886938",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9581,
+                    40.73139
+                ]
+            },
+            "properties": {
+                "name": "PA Grocery",
+                "address": "145 Franklin St, Brooklyn, NY 11222",
+                "phone": "+17183493557",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94427729785,
+                    40.7257351177142
+                ]
+            },
+            "properties": {
+                "name": "Park Delicatessen",
+                "address": "209 Nassau Ave, Brooklyn, NY 11222",
+                "phone": "+17183832080",
+                "category": "Delis,Meat Shops"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9417,
+                    40.70761
+                ]
+            },
+            "properties": {
+                "name": "Paul Deli-Grocery",
+                "address": "187 Montrose Ave, Brooklyn, NY 11206",
+                "phone": "+17183840641",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9431,
+                    40.72213
+                ]
+            },
+            "properties": {
+                "name": "Peas n' Pickles",
+                "address": "79 N Henry St, Brooklyn, NY 11222",
+                "phone": "+17185968219",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.912627,
+                    40.723108
+                ]
+            },
+            "properties": {
+                "name": "Plant Milk Store",
+                "address": "5754 Maspeth Ave, Maspeth, NY 11378",
+                "phone": "+17183262036",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9004042,
+                    40.7292256
+                ]
+            },
+            "properties": {
+                "name": "Platho Convenience Store",
+                "address": "5384 65th Pl, Maspeth, NY 11378",
+                "phone": "+17184266929",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.948699,
+                    40.726684
+                ]
+            },
+            "properties": {
+                "name": "Polka Deli Grocery",
+                "address": "151 Norman Ave, Brooklyn, NY 11222",
+                "phone": "+17183492772",
+                "category": "Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92068,
+                    40.70783
+                ]
+            },
+            "properties": {
+                "name": "Precycle",
+                "address": "321 Starr St, Entrance from Cypress Ave, Brooklyn, NY 11237",
+                "phone": "+13473651640",
+                "category": "Grocery,Farmers Market,Organic Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8928818310291,
+                    40.72190410423696
+                ]
+            },
+            "properties": {
+                "name": "Q-Boro",
+                "address": "59-59 69th St, New York, NY 11378",
+                "phone": "+17183972676",
+                "category": "Delis,American (New),Burgers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9281464,
+                    40.7060089
+                ]
+            },
+            "properties": {
+                "name": "Quisqueya Grocery & Deli",
+                "address": "120 Grattan St, Brooklyn, NY 11237",
+                "phone": "+17184565962",
+                "category": "Grocery,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9394448,
+                    40.7063435
+                ]
+            },
+            "properties": {
+                "name": "R & G Food Market",
+                "address": "289 Bushwick Ave, Brooklyn, NY 11206",
+                "phone": "+17184560074",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.921094,
+                    40.697829
+                ]
+            },
+            "properties": {
+                "name": "R&E Deli Corp",
+                "address": "240 Wilson Ave, Brooklyn, NY 11237",
+                "phone": "",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94891,
+                    40.7243
+                ]
+            },
+            "properties": {
+                "name": "Rachel's Corner",
+                "address": "116 Nassau Ave, Greenpoint, NY 11222",
+                "phone": "+17183498607",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.919549328877,
+                    40.6970836111726
+                ]
+            },
+            "properties": {
+                "name": "Raydan Deli",
+                "address": "276 Wilson Ave, Bushwick, NY 11237",
+                "phone": "",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94615,
+                    40.71167
+                ]
+            },
+            "properties": {
+                "name": "Remnant To The World Farm",
+                "address": "655 Grand St, Brooklyn, NY 11211",
+                "phone": "",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9186,
+                    40.70156
+                ]
+            },
+            "properties": {
+                "name": "Rico Grocery And Deli",
+                "address": "201 Irving Ave, Brooklyn, NY 11237",
+                "phone": "",
+                "category": "Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95304,
+                    40.7275
+                ]
+            },
+            "properties": {
+                "name": "Rite Aid",
+                "address": "783 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "+17183836150",
+                "category": "Drugstores,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95549,
+                    40.736026
+                ]
+            },
+            "properties": {
+                "name": "Rivera Grocery Store",
+                "address": "1095 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "+17183895466",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9613037109375,
+                    40.7145004272461
+                ]
+            },
+            "properties": {
+                "name": "Rodriguez Grocery",
+                "address": "127 Grand St, Brooklyn, NY 11211",
+                "phone": "+17185990393",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9588781273233,
+                    40.7127795698513
+                ]
+            },
+            "properties": {
+                "name": "Roebling Deli Grocery",
+                "address": "196 S 1st, Brooklyn, NY 11211",
+                "phone": "+17186930760",
+                "category": "Grocery,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9396299,
+                    40.72343
+                ]
+            },
+            "properties": {
+                "name": "Rosaria Incorporated Mamma",
+                "address": "23 Driggs Ave, Brooklyn, NY 11222",
+                "phone": "+17183490057",
+                "category": "Delis,Bakeries,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9441497,
+                    40.7142529
+                ]
+            },
+            "properties": {
+                "name": "Rosemary Farm",
+                "address": "338 Graham Ave, Brooklyn, NY 11211",
+                "phone": "+17185997385",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95734,
+                    40.71172
+                ]
+            },
+            "properties": {
+                "name": "Royal Grocery",
+                "address": "149 Havemeyer St, Brooklyn, NY 11211",
+                "phone": "+17183843973",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9480860450083,
+                    40.7172010601443
+                ]
+            },
+            "properties": {
+                "name": "S &K Deli & Grill",
+                "address": "364 Leonard St, Brooklyn, NY 11211",
+                "phone": "+13478449255",
+                "category": "Sandwiches,Delis,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94264,
+                    40.7010099
+                ]
+            },
+            "properties": {
+                "name": "Sagal Meat Market 2",
+                "address": "728 Broadway, Brooklyn, NY 11206",
+                "phone": "+13478897773",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94289,
+                    40.70643
+                ]
+            },
+            "properties": {
+                "name": "Sami Q Mini Mart",
+                "address": "146 Graham Ave, Brooklyn, NY 11206",
+                "phone": "+17183845172",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92752,
+                    40.702018
+                ]
+            },
+            "properties": {
+                "name": "San Miguel Deli",
+                "address": "83 Wilson Ave, Brooklyn, NY 11237",
+                "phone": "+17184188355",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.919776,
+                    40.702373
+                ]
+            },
+            "properties": {
+                "name": "Santa Ana Deli & Grocery",
+                "address": "171 Irving Ave, Brooklyn, NY 11237",
+                "phone": "+17186284691",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95436,
+                    40.70104
+                ]
+            },
+            "properties": {
+                "name": "Satmar Meats",
+                "address": "239 Lee Ave, Brooklyn, NY 11206",
+                "phone": "+17183886048",
+                "category": "Delis,Meat Shops,Butcher"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9311,
+                    40.704
+                ]
+            },
+            "properties": {
+                "name": "Seitan\u00e2\u20ac\u2122s Helper",
+                "address": "2 Morgan Ave, Brooklyn, NY 11237",
+                "phone": "",
+                "category": "Cafes,Delis,Vegan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93915,
+                    40.72368
+                ]
+            },
+            "properties": {
+                "name": "Shree-Ji Deli",
+                "address": "560 Morgan Ave Bsmt, Brooklyn, NY 11222",
+                "phone": "+17183830811",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9516654,
+                    40.730293
+                ]
+            },
+            "properties": {
+                "name": "Speedway",
+                "address": "210 Greenpoint Ave, Brooklyn, NY 11222",
+                "phone": "+17183831829",
+                "category": "Gas Stations,Convenience Stores,Coffee & Tea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9011025428772,
+                    40.7149072862598
+                ]
+            },
+            "properties": {
+                "name": "St Mark's Deli & Grill",
+                "address": "6079 Fresh Pond Rd, Maspeth, NY 11378",
+                "phone": "+17183663012",
+                "category": "Grocery,Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9462188,
+                    40.7251221
+                ]
+            },
+            "properties": {
+                "name": "Star Deli & Bakery",
+                "address": "176 Nassau Ave, Brooklyn, NY 11222",
+                "phone": "+17183836948",
+                "category": "Delis,Bakeries"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.937032,
+                    40.698232
+                ]
+            },
+            "properties": {
+                "name": "Stay Fresh Grill & Deli",
+                "address": "889 Broadway, Brooklyn, NY 11206",
+                "phone": "+17185133247",
+                "category": "Salad,Delis,Juice Bars & Smoothies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.91584,
+                    40.70566
+                ]
+            },
+            "properties": {
+                "name": "Steve M. Grocery",
+                "address": "423 Stanhope St, Brooklyn, NY 11237",
+                "phone": "",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9495848119259,
+                    40.7240158615698
+                ]
+            },
+            "properties": {
+                "name": "Steve's Food Market",
+                "address": "104 Nassau Ave, Ste A, Brooklyn, NY 11222",
+                "phone": "+13479160198",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8870939,
+                    40.7306163
+                ]
+            },
+            "properties": {
+                "name": "Stop & Shop",
+                "address": "74-17 Grand Ave, Maspeth, NY 11378",
+                "phone": "+17188030863",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.913795,
+                    40.701305
+                ]
+            },
+            "properties": {
+                "name": "Stop 1 Grocery Store",
+                "address": "263 Wyckoff Ave, Brooklyn, NY 11237",
+                "phone": "+17184176442",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94523,
+                    40.70849
+                ]
+            },
+            "properties": {
+                "name": "Super Deli Sajoma",
+                "address": "161 Manhattan Ave, Brooklyn, NY 11206",
+                "phone": "+17189632919",
+                "category": "Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9509564,
+                    40.72384900029372
+                ]
+            },
+            "properties": {
+                "name": "Super-Deli Market",
+                "address": "627 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "+17183490436",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93454,
+                    40.69396
+                ]
+            },
+            "properties": {
+                "name": "Sweet Express Deli Incorporated",
+                "address": "412 Pulaski St, Ste 1, Brooklyn, NY 11206",
+                "phone": "+17189191942",
+                "category": "Delis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.90421,
+                    40.7245599
+                ]
+            },
+            "properties": {
+                "name": "Syrena Market Corporation",
+                "address": "6101 56th Rd, Maspeth, NY 11378",
+                "phone": "+17183268328",
+                "category": "Delis,Imported Food"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.954826,
+                    40.73531
+                ]
+            },
+            "properties": {
+                "name": "T&S Mini Market",
+                "address": "1068 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "+17183830740",
+                "category": "Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93501,
+                    40.6967
+                ]
+            },
+            "properties": {
+                "name": "TK's Deli",
+                "address": "954 Broadway, Brooklyn, NY 11206",
+                "phone": "+17184840520",
+                "category": "Delis,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9244003,
+                    40.7019691
+                ]
+            },
+            "properties": {
+                "name": "Taqueria Tehuitzingo",
+                "address": "276 Knickerbocker Ave, Brooklyn, NY 11237",
+                "phone": "+17183663939",
+                "category": "Delis,Mexican"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.918883,
+                    40.704386
+                ]
+            },
+            "properties": {
+                "name": "Tepeojuma Deli Grocery",
+                "address": "123 Wyckoff Ave, Brooklyn, NY 11237",
+                "phone": "+17183869412",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.91594,
+                    40.69962
+                ]
+            },
+            "properties": {
+                "name": "Tepeyac Deli Grocery",
+                "address": "264 Irving Ave, Brooklyn, NY 11237",
+                "phone": "+17184180655",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9245452880859,
+                    40.7020492553711
+                ]
+            },
+            "properties": {
+                "name": "The Angel's Fruit Market",
+                "address": "272 Knickerbocker Ave, Brooklyn, NY 11237",
+                "phone": "+17183667664",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.90432,
+                    40.7221199
+                ]
+            },
+            "properties": {
+                "name": "The Big Apple Deli",
+                "address": "6101 Grand Ave, Maspeth, NY 11378",
+                "phone": "+17188943799",
+                "category": "Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9227771607086,
+                    40.7011075286529
+                ]
+            },
+            "properties": {
+                "name": "The Knick Fresh Marketplace",
+                "address": "324 Knickerbocker Ave, Bushwick, NY 11237",
+                "phone": "",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9402,
+                    40.70889
+                ]
+            },
+            "properties": {
+                "name": "The Lunch Box Deli & Grill",
+                "address": "204 Bushwick Ave, Brooklyn, NY 11206",
+                "phone": "+13477630675",
+                "category": "Delis,American (Traditional)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9112325757742,
+                    40.6972794356458
+                ]
+            },
+            "properties": {
+                "name": "The New Star",
+                "address": "1377 Madison St, Bushwick, NY 11237",
+                "phone": "",
+                "category": "Grocery,Convenience Stores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.946141,
+                    40.711646
+                ]
+            },
+            "properties": {
+                "name": "To the World Farm",
+                "address": "655 Grand St, Brooklyn, NY 11211",
+                "phone": "+17182188120",
+                "category": "Grocery,Fruits & Veggies,Juice Bars & Smoothies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.917327,
+                    40.702856
+                ]
+            },
+            "properties": {
+                "name": "Top City Gourmet",
+                "address": "144 Wyckoff Ave, Brooklyn, NY 11237",
+                "phone": "+13475339640",
+                "category": "Delis,Convenience Stores,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.91939,
+                    40.70455
+                ]
+            },
+            "properties": {
+                "name": "Tulcingo Deli Grocery",
+                "address": "115 Wyckoff Ave, Brooklyn, NY 11237",
+                "phone": "+17183810295",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9102689921856,
+                    40.696523202047
+                ]
+            },
+            "properties": {
+                "name": "V & I",
+                "address": "1434 Putnam Ave, Bushwick, NY 11237",
+                "phone": "",
+                "category": "Grocery,Meat Shops,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.91221,
+                    40.7003
+                ]
+            },
+            "properties": {
+                "name": "Viannely",
+                "address": "305 Wyckoff Ave, Brooklyn, NY 11237",
+                "phone": "+17183814303",
+                "category": "Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9212,
+                    40.70246
+                ]
+            },
+            "properties": {
+                "name": "Victoria Deli",
+                "address": "1537 Dekalb Ave, Brooklyn, NY 11237",
+                "phone": "+17183860626",
+                "category": "Delis,Fast Food"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.921638,
+                    40.700859
+                ]
+            },
+            "properties": {
+                "name": "Walgreens",
+                "address": "355 Knickerbocker Ave, Brooklyn, NY 11237",
+                "phone": "+17188212678",
+                "category": "Cosmetics & Beauty Supply,Convenience Stores,Drugstores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.919712,
+                    40.716392
+                ]
+            },
+            "properties": {
+                "name": "Western Beef",
+                "address": "4710 Grand Ave, Maspeth, NY 11378",
+                "phone": "+17184173871",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94426,
+                    40.71471
+                ]
+            },
+            "properties": {
+                "name": "Wholesome Basket",
+                "address": "344 Graham Ave, Brooklyn, NY 11211",
+                "phone": "+17185763229",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94291,
+                    40.7075
+                ]
+            },
+            "properties": {
+                "name": "Wiliamsburg Deli Grocery",
+                "address": "168 Graham Ave, Brooklyn, NY 11206",
+                "phone": "+17185991727",
+                "category": "Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9488622452591,
+                    40.6938504200455
+                ]
+            },
+            "properties": {
+                "name": "Willoughby General",
+                "address": "518A Willoughby Ave, Brooklyn, NY 11206",
+                "phone": "+17186760364",
+                "category": "Coffee & Tea,Specialty Food,Grocery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9434799,
+                    40.70181
+                ]
+            },
+            "properties": {
+                "name": "Woodhull Deli",
+                "address": "691 Broadway, Brooklyn, NY 11206",
+                "phone": "+17183872928",
+                "category": "Delis,Sandwiches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.953819,
+                    40.715217
+                ]
+            },
+            "properties": {
+                "name": "Zam Zam Candy & Grocery",
+                "address": "45 Havemeyer St, Brooklyn, NY 11211",
+                "phone": "+17185991551",
+                "category": "Convenience Stores"
+            }
+        }
+    ]
+}

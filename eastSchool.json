@@ -1,0 +1,1205 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.949651,
+                    40.724385
+                ]
+            },
+            "properties": {
+                "name": "ABC Child Center, Inc.",
+                "address": "109 Nassau Ave, Brooklyn, NY 11222",
+                "phone": "+17183899004",
+                "category": "Child Care & Day Care,Preschools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95388,
+                    40.72314
+                ]
+            },
+            "properties": {
+                "name": "ARDOR School for Passion-Based Learning",
+                "address": "29 Nassau Ave, Brooklyn, NY 11222",
+                "phone": "+17185763726",
+                "category": "Private Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9324,
+                    40.70712
+                ]
+            },
+            "properties": {
+                "name": "Academy of Responsible Tattooing",
+                "address": "95 Morgan Ave, Brooklyn, NY 11237",
+                "phone": "+18448828866",
+                "category": "Art Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92344,
+                    40.70929
+                ]
+            },
+            "properties": {
+                "name": "All NYC Safety & Training",
+                "address": "589 Johnson Ave, Brooklyn, NY 11237",
+                "phone": "+17183663590",
+                "category": "Vocational & Technical School"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9412448,
+                    40.699801
+                ]
+            },
+            "properties": {
+                "name": "Ancient Song Doula Services",
+                "address": "7 Marcus Garvey Blvd, Ste 436, Brooklyn, NY 11206",
+                "phone": "+13474809504",
+                "category": "Childbirth Education,Lactation Services,Doulas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9534320850059,
+                    40.7222104827407
+                ]
+            },
+            "properties": {
+                "name": "Automotive High School",
+                "address": "50 Bedford Ave, Brooklyn, NY 11222",
+                "phone": "+17182182100",
+                "category": "Elementary Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.906871,
+                    40.696964
+                ]
+            },
+            "properties": {
+                "name": "Breathe CPR",
+                "address": "892 Wyckoff Ave, Brooklyn, NY 11237",
+                "phone": "+17184973277",
+                "category": "CPR Classes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.963737,
+                    40.718032
+                ]
+            },
+            "properties": {
+                "name": "Bright Horizons at Kent Avenue",
+                "address": "175 Kent Ave, Brooklyn, NY 11211",
+                "phone": "+17187327237",
+                "category": "Preschools,Child Care & Day Care"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.914,
+                    40.69937
+                ]
+            },
+            "properties": {
+                "name": "Brooklyn Cake Decorators",
+                "address": "1533 Myrtle Ave, Brooklyn, NY 11237",
+                "phone": "+13475294946",
+                "category": "Cooking Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94343375129617,
+                    40.70774749274785
+                ]
+            },
+            "properties": {
+                "name": "Brooklyn Comedy Collective - BCC",
+                "address": "167 Graham Ave, Brooklyn, NY 11206",
+                "phone": "+19175933843",
+                "category": "Comedy Clubs,Drama Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95687,
+                    40.71031
+                ]
+            },
+            "properties": {
+                "name": "Brooklyn Fermented",
+                "address": "Brooklyn, NY 11211",
+                "phone": "+19175720453",
+                "category": "Beer, Wine & Spirits,Specialty Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95946,
+                    40.71196
+                ]
+            },
+            "properties": {
+                "name": "Brooklyn Shoe Space",
+                "address": "224 Roebling St, Brooklyn, NY 11211",
+                "phone": "+17182187111",
+                "category": "Specialty Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9598691601036,
+                    40.7303389852563
+                ]
+            },
+            "properties": {
+                "name": "Building Blocks of Greenpoint",
+                "address": "44 Kent St, New York, NY 11222",
+                "phone": "+17183830208",
+                "category": "Child Care & Day Care,Preschools,Montessori Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9390174723526,
+                    40.7157503308081
+                ]
+            },
+            "properties": {
+                "name": "Carrig Montessori School",
+                "address": "100 Maspeth Ave, Brooklyn, NY 11211",
+                "phone": "+17183881023",
+                "category": "Preschools,Montessori Schools,Child Care & Day Care"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.942016,
+                    40.712032
+                ]
+            },
+            "properties": {
+                "name": "Cedeno Driving School",
+                "address": "775 Grand St, Brooklyn, NY 11211",
+                "phone": "+17183840450",
+                "category": "Driving Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.959281,
+                    40.713451
+                ]
+            },
+            "properties": {
+                "name": "Choplet",
+                "address": "238 Grand St, Brooklyn, NY 11211",
+                "phone": "+19175478316",
+                "category": "Art Schools,Art Galleries"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9399617165327,
+                    40.7080203294754
+                ]
+            },
+            "properties": {
+                "name": "Creative Academy Daycare Center",
+                "address": "228 Bushwick Ave, Brooklyn, NY 11206",
+                "phone": "+13476892222",
+                "category": "Preschools,Child Care & Day Care"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9479065,
+                    40.7223396
+                ]
+            },
+            "properties": {
+                "name": "Eckford Street Studio",
+                "address": "70 Eckford St, Brooklyn, NY 11222",
+                "phone": "+13474646929",
+                "category": "Art Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9531349,
+                    40.7231084
+                ]
+            },
+            "properties": {
+                "name": "FFLO French Immersion Program For Children",
+                "address": "33 Nassau Ave, Brooklyn, NY 11222",
+                "phone": "+13472636404",
+                "category": "Language Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9588428,
+                    40.713688
+                ]
+            },
+            "properties": {
+                "name": "Fitzgerald Jewelry",
+                "address": "243 Grand St, Brooklyn, NY 11211",
+                "phone": "+17183876200",
+                "category": "Jewelry,Specialty Schools,Jewelry Repair"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9557773,
+                    40.7123737
+                ]
+            },
+            "properties": {
+                "name": "Geek Forest",
+                "address": "358 Grand St, Williamsburg, NY 11211",
+                "phone": "+19179666000",
+                "category": "Electronics,Specialty Schools,Bookstores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9602061148094,
+                    40.713151157638
+                ]
+            },
+            "properties": {
+                "name": "Guidepost Montessori at Williamsburg",
+                "address": "717 Driggs Ave, Brooklyn, NY 11211",
+                "phone": "+13474640490",
+                "category": "Montessori Schools,Preschools,Child Care & Day Care"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94855,
+                    40.71691
+                ]
+            },
+            "properties": {
+                "name": "Hudson Table - Brooklyn",
+                "address": "88 Withers St, Brooklyn, NY 11211",
+                "phone": "+12014200707",
+                "category": "Caterers,Venues & Event Spaces,Cooking Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9601822,
+                    40.7117805
+                ]
+            },
+            "properties": {
+                "name": "J.H.S. 050 John D. Wells School",
+                "address": "183 S 3rd St, New York, NY 11211",
+                "phone": "+17183874184",
+                "category": "Middle Schools & High Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9573518227844,
+                    40.7137003786151
+                ]
+            },
+            "properties": {
+                "name": "JCC Brooklyn North Williamsburg",
+                "address": "14 Hope St, Commercial Unit 1, Brooklyn, NY 11211",
+                "phone": "+17184076388",
+                "category": "Preschools,Summer Camps"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.91345,
+                    40.69961
+                ]
+            },
+            "properties": {
+                "name": "JayJay Driving School",
+                "address": "347 Linden St, Brooklyn, NY 11237",
+                "phone": "+17189196987",
+                "category": "Driving Schools,Notaries,Translation Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.958465,
+                    40.708613
+                ]
+            },
+            "properties": {
+                "name": "Jessi Driving School",
+                "address": "680 Broadway, Brooklyn, NY 11206",
+                "phone": "+17183841169",
+                "category": "Driving Schools,Auto Insurance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95787350833416,
+                    40.7091549038887
+                ]
+            },
+            "properties": {
+                "name": "Kiddie Academy of Williamsburg",
+                "address": "288 S 5th St, Brooklyn, NY 11211",
+                "phone": "+17185995437",
+                "category": "Child Care & Day Care,Preschools,Summer Camps"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9531349,
+                    40.7231084
+                ]
+            },
+            "properties": {
+                "name": "Learn French BK",
+                "address": "33 Nassau Ave, Brooklyn, NY 11222",
+                "phone": "+13472636404",
+                "category": "Language Schools,Private Tutors"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.951782,
+                    40.717052
+                ]
+            },
+            "properties": {
+                "name": "Learning Steps Day Care Center and Preschool",
+                "address": "544 Union Ave, Williamsburg, NY 11211",
+                "phone": "+17183889134",
+                "category": "Preschools,Child Care & Day Care"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9524562,
+                    40.7114079
+                ]
+            },
+            "properties": {
+                "name": "Liloveve",
+                "address": "457 Grand St, Brooklyn, NY 11211",
+                "phone": "+17183882190",
+                "category": "Jewelry,Art Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9490004256368,
+                    40.7108683161763
+                ]
+            },
+            "properties": {
+                "name": "Mar Driving School",
+                "address": "465 Lorimer St, Brooklyn, NY 11206",
+                "phone": "+17183876114",
+                "category": "Driving Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.935394,
+                    40.709923
+                ]
+            },
+            "properties": {
+                "name": "Metal Shop Fantasy Camp",
+                "address": "175 Bogart St, Brooklyn, NY 11206",
+                "phone": "+17183847818",
+                "category": "Vocational & Technical School"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.943976,
+                    40.707014
+                ]
+            },
+            "properties": {
+                "name": "Most Holy Trinity Church",
+                "address": "138 Montrose Ave, Brooklyn, NY 11206",
+                "phone": "+17183841101",
+                "category": "Elementary Schools,Middle Schools & High Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94181,
+                    40.71486
+                ]
+            },
+            "properties": {
+                "name": "Motorcycle Safety School",
+                "address": "809 Metropolitan Ave, Brooklyn, NY 11211",
+                "phone": "+17185991079",
+                "category": "Driving Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.919763,
+                    40.7070727
+                ]
+            },
+            "properties": {
+                "name": "N Y City of",
+                "address": "1390 Willoughby Ave, Brooklyn, NY 11237",
+                "phone": "+17188214860",
+                "category": "Elementary Schools,Middle Schools & High Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9529699,
+                    40.72915
+                ]
+            },
+            "properties": {
+                "name": "NYL Greenpoint Preschool",
+                "address": "725 Leonard St, Brooklyn, NY 11222",
+                "phone": "+13474724792",
+                "category": "Preschools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95125579833984,
+                    40.72810745239258
+                ]
+            },
+            "properties": {
+                "name": "Now I Want To Drive",
+                "address": "Brooklyn, NY 11222",
+                "phone": "+16464501827",
+                "category": "Driving Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.924264088273,
+                    40.7016433775425
+                ]
+            },
+            "properties": {
+                "name": "Orlando & Carlos Driving School",
+                "address": "247 Suydam St, Brooklyn, NY 11237",
+                "phone": "+17184977398",
+                "category": "Driving Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94376,
+                    40.71224
+                ]
+            },
+            "properties": {
+                "name": "Osakana",
+                "address": "290 Graham Ave, Brooklyn, NY 11211",
+                "phone": "+16466534633",
+                "category": "Seafood Markets,Cooking Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96073,
+                    40.70878
+                ]
+            },
+            "properties": {
+                "name": "Painting Lounge",
+                "address": "309 Roebling St, Brooklyn, NY 11211",
+                "phone": "+12125181803",
+                "category": "Art Schools,Paint & Sip,Art Classes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94792696295033,
+                    40.69962463972802
+                ]
+            },
+            "properties": {
+                "name": "Per Scholas - New York",
+                "address": "630 Flushing Ave, Brooklyn, NY 11206",
+                "phone": "+17189918400",
+                "category": "Vocational & Technical School,Community Service/Non-Profit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9639484,
+                    40.710655
+                ]
+            },
+            "properties": {
+                "name": "Petite Performers - Williamsburg",
+                "address": "400 Bedford Ave, Williamsburg School Of Music, Brooklyn, NY 11211",
+                "phone": "+17186352316",
+                "category": "Dance Schools,Performing Arts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9515,
+                    40.72762
+                ]
+            },
+            "properties": {
+                "name": "Polish American Family Group Day Care",
+                "address": "137 Meserole Ave, Brooklyn, NY 11222",
+                "phone": "+17183896049",
+                "category": "Child Care & Day Care,Preschools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9524078369141,
+                    40.7299690246582
+                ]
+            },
+            "properties": {
+                "name": "Polonia Driving School",
+                "address": "Brooklyn, NY 11222",
+                "phone": "+17183831666",
+                "category": "Driving Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9636917,
+                    40.7099495
+                ]
+            },
+            "properties": {
+                "name": "PrimeKey Driving School",
+                "address": "138 Broadway, Brooklyn, NY 11211",
+                "phone": "+19174066767",
+                "category": "Driving Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.938,
+                    40.71338
+                ]
+            },
+            "properties": {
+                "name": "Queen of the Rosary Catholic Academy",
+                "address": "11 Catherine St, Brooklyn, NY 11211",
+                "phone": "+17183887992",
+                "category": "Religious Schools,Elementary Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9465894550085,
+                    40.7303872704506
+                ]
+            },
+            "properties": {
+                "name": "Safety Dynamics",
+                "address": "335A Calyer St, Brooklyn, NY 11222",
+                "phone": "+17183894530",
+                "category": "Specialty Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.913,
+                    40.70047
+                ]
+            },
+            "properties": {
+                "name": "San Juan Auto Driving School",
+                "address": "252 Wyckoff Ave, Brooklyn, NY 11237",
+                "phone": "+17184973910",
+                "category": "Driving Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95687,
+                    40.71031
+                ]
+            },
+            "properties": {
+                "name": "Shara Frederick",
+                "address": "Brooklyn, NY 11211",
+                "phone": "+17186371170",
+                "category": "Childbirth Education,Doulas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.944519,
+                    40.7277718
+                ]
+            },
+            "properties": {
+                "name": "Sharkey's Auto Driving School",
+                "address": "231 Norman Ave, Ste 104, Greenpoint, NY 11222",
+                "phone": "+17183830336",
+                "category": "Driving Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.889819,
+                    40.730251
+                ]
+            },
+            "properties": {
+                "name": "Song & A Dance",
+                "address": "73-07 Grand Ave, Maspeth, NY 11378",
+                "phone": "+17184788076",
+                "category": "Performing Arts,Dance Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.959019,
+                    40.716284
+                ]
+            },
+            "properties": {
+                "name": "Spanish Millennium",
+                "address": "223 Bedford Ave, Ste 1179, Brooklyn, NY 11211",
+                "phone": "+13474709413",
+                "category": "Language Schools,Private Tutors"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94278,
+                    40.71122
+                ]
+            },
+            "properties": {
+                "name": "St John the Evangelist School",
+                "address": "195 Maujer St, Brooklyn, NY 11206",
+                "phone": "+17189633074",
+                "category": "Elementary Schools,Middle Schools & High Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93772,
+                    40.694676
+                ]
+            },
+            "properties": {
+                "name": "St John's the Baptist School",
+                "address": "82 Lewis Ave, Brooklyn, NY 11206",
+                "phone": "+17184531000",
+                "category": "Elementary Schools,Middle Schools & High Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.946315,
+                    40.723291
+                ]
+            },
+            "properties": {
+                "name": "St Stanislaus Kostka Catholic Academy",
+                "address": "12 Newell St, Brooklyn, NY 11222",
+                "phone": "+19292051240",
+                "category": "Elementary Schools,Middle Schools & High Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9035337,
+                    40.7223095
+                ]
+            },
+            "properties": {
+                "name": "St Stanislaus School",
+                "address": "6117 Grand Ave, Flushing, NY 11378",
+                "phone": "+17183261585",
+                "category": "Elementary Schools,Middle Schools & High Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.947388,
+                    40.709343
+                ]
+            },
+            "properties": {
+                "name": "Stagg Street Center For Children",
+                "address": "77-83 Stagg St, Brooklyn, NY 11206",
+                "phone": "+17183881395",
+                "category": "Child Care & Day Care,Preschools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.964653,
+                    40.71696
+                ]
+            },
+            "properties": {
+                "name": "Streb",
+                "address": "51 N 1st St, Brooklyn, NY 11211",
+                "phone": "+17183846491",
+                "category": "Performing Arts,Dance Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9571,
+                    40.73343
+                ]
+            },
+            "properties": {
+                "name": "SwimJim - Brooklyn",
+                "address": "110 Green St, Brooklyn, NY 11222",
+                "phone": "+12127497335",
+                "category": "Swimming Lessons/Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9392425492406,
+                    40.7157936769101
+                ]
+            },
+            "properties": {
+                "name": "Take Me To The Water - Williamsburg",
+                "address": "100 Maspeth Ave, Brooklyn, NY 11211",
+                "phone": "+18887946692",
+                "category": "Swimming Lessons/Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93971,
+                    40.70111
+                ]
+            },
+            "properties": {
+                "name": "Tender Tots Day Care, Preschool & After School Programs",
+                "address": "810 Flushing Ave, Brooklyn, NY 11206",
+                "phone": "+17182983944",
+                "category": "Child Care & Day Care,Preschools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94836,
+                    40.70563
+                ]
+            },
+            "properties": {
+                "name": "The Baby Play Place",
+                "address": "25 Boerum St, Apt 7s, Brooklyn, NY 11206",
+                "phone": "+13479874905",
+                "category": "Child Care & Day Care,Preschools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94525,
+                    40.71109
+                ]
+            },
+            "properties": {
+                "name": "The Mudpit",
+                "address": "228 Manhattan Ave, New York, NY 11206",
+                "phone": "+17182189424",
+                "category": "Art Schools,Art Supplies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.961613,
+                    40.712866
+                ]
+            },
+            "properties": {
+                "name": "The Painted Cloud",
+                "address": "156 S 2nd St, Brooklyn, NY 11211",
+                "phone": "+16466757255",
+                "category": "Venues & Event Spaces,Art Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9480982,
+                    40.6998241
+                ]
+            },
+            "properties": {
+                "name": "Trapeze School New York: Brooklyn",
+                "address": "630 Flushing Ave, Brooklyn, NY 11206",
+                "phone": "+12122428769",
+                "category": "Fitness & Instruction,Specialty Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9529533,
+                    40.711539
+                ]
+            },
+            "properties": {
+                "name": "Two By Two Childcare Academy",
+                "address": "418 Keap St, Brooklyn, NY 11211",
+                "phone": "+17183885600",
+                "category": "Preschools,Child Care & Day Care,Day Camps"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.928657,
+                    40.7038789
+                ]
+            },
+            "properties": {
+                "name": "Williamsburg Brooklyn Daycare",
+                "address": "148 George St, Brooklyn, NY 11237",
+                "phone": "+17183008023",
+                "category": "Child Care & Day Care,Preschools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9688855,
+                    40.7088223
+                ]
+            },
+            "properties": {
+                "name": "Williamsburg Montessori",
+                "address": "450 Kent Ave, Schaefer Landing, Brooklyn, NY 11211",
+                "phone": "+17183843400",
+                "category": "Preschools,Child Care & Day Care,Montessori Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95687,
+                    40.71031
+                ]
+            },
+            "properties": {
+                "name": "Williamsburg Movement & Arts Center",
+                "address": "Brooklyn, NY 11211",
+                "phone": "+17188666811",
+                "category": "Performing Arts,Dance Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9528408522771,
+                    40.7149858080373
+                ]
+            },
+            "properties": {
+                "name": "Williamsburg Northside Preschool",
+                "address": "152 N 5th St, Brooklyn, NY 11211",
+                "phone": "+17185997300",
+                "category": "Elementary Schools,Preschools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9528097,
+                    40.7148941
+                ]
+            },
+            "properties": {
+                "name": "Williamsburg Northside School",
+                "address": "299 N 7th St, New York, NY 11211",
+                "phone": "+17185999600",
+                "category": "Elementary Schools,Middle Schools & High Schools,Private Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.958817,
+                    40.728048
+                ]
+            },
+            "properties": {
+                "name": "Women Who Drone",
+                "address": "42 West St, New York, NY 11222",
+                "phone": "",
+                "category": "Private Tutors,Photography Classes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9629902,
+                    40.7012604
+                ]
+            },
+            "properties": {
+                "name": "Yetev Lev",
+                "address": "13 Hooper St, Brooklyn, NY 11211",
+                "phone": "+17188553403",
+                "category": "Elementary Schools,Middle Schools & High Schools"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94104,
+                    40.70583
+                ]
+            },
+            "properties": {
+                "name": "Yvelisse's Wonderschool",
+                "address": "130 Humboldt St, 3h, Brooklyn, NY 11206",
+                "phone": "+16462014885",
+                "category": "Child Care & Day Care,Preschools"
+            }
+        }
+    ]
+}

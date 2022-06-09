@@ -1,0 +1,3605 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93327,
+                    40.70731
+                ]
+            },
+            "properties": {
+                "name": "100 Bogart",
+                "address": "100 Bogart St, Brooklyn, NY 11206",
+                "phone": "+17183623539",
+                "category": "Shared Office Spaces,Art Space Rentals,Commercial Real Estate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9544731,
+                    40.7202946
+                ]
+            },
+            "properties": {
+                "name": "101 Bedford",
+                "address": "101 Bedford Ave, Brooklyn, NY 11211",
+                "phone": "+17185994101",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.956463,
+                    40.733442
+                ]
+            },
+            "properties": {
+                "name": "110 Green Street",
+                "address": "110 Green St, Brooklyn, NY 11222",
+                "phone": "+17187070037",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9620808,
+                    40.7115622
+                ]
+            },
+            "properties": {
+                "name": "146S4",
+                "address": "146 S 4th St, New York, NY 11211",
+                "phone": "+17185178666",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9675140380859,
+                    40.7109278440475
+                ]
+            },
+            "properties": {
+                "name": "15 Dunham Place",
+                "address": "15 Dunham Pl, New York, NY 11211",
+                "phone": "+13474158700",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96439042892536,
+                    40.71886507541004
+                ]
+            },
+            "properties": {
+                "name": "184 Kent Avenue Apartments",
+                "address": "184 Kent Ave, Brooklyn, NY 11211",
+                "phone": "+17186697003",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95871,
+                    40.72728
+                ]
+            },
+            "properties": {
+                "name": "26 West",
+                "address": "26 West St, Brooklyn, NY 11222",
+                "phone": "+17185178666",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.964337,
+                    40.709458
+                ]
+            },
+            "properties": {
+                "name": "424 Bedford",
+                "address": "424 Bedford Ave, Brooklyn, NY 11211",
+                "phone": "+17183845304",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9526492357254,
+                    40.7111873477697
+                ]
+            },
+            "properties": {
+                "name": "456 Grand",
+                "address": "456 Grand St, Williamsburg, NY 11211",
+                "phone": "+17189637027",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96064,
+                    40.70669
+                ]
+            },
+            "properties": {
+                "name": "511A Greene Realty",
+                "address": "183 Wilson St, Ste 205, Brooklyn, NY 11211",
+                "phone": "+17182151398",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95164,
+                    40.7171
+                ]
+            },
+            "properties": {
+                "name": "544 Union Ave",
+                "address": "544 Union Ave, Brooklyn, NY 11211",
+                "phone": "+19292813344",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.955559,
+                    40.713371
+                ]
+            },
+            "properties": {
+                "name": "55 Hope",
+                "address": "55 Hope St, Brooklyn, NY 11211",
+                "phone": "+17182189555",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.952125,
+                    40.699779
+                ]
+            },
+            "properties": {
+                "name": "567-571 Associates",
+                "address": "567 Flushing Ave, Brooklyn, NY 11206",
+                "phone": "+17187824626",
+                "category": "Real Estate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95181,
+                    40.71778
+                ]
+            },
+            "properties": {
+                "name": "568 Union Ave",
+                "address": "568 Union Ave, Brooklyn, NY 11211",
+                "phone": "+19292813344",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9588075876236,
+                    40.7305254042149
+                ]
+            },
+            "properties": {
+                "name": "59 Kent - The Landmark Pencil Factory",
+                "address": "59 Kent St, Brooklyn, NY 11222",
+                "phone": "",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9479256,
+                    40.699613
+                ]
+            },
+            "properties": {
+                "name": "630 Flushing",
+                "address": "630 Flushing Ave, Brooklyn, NY 11206",
+                "phone": "+17183609500",
+                "category": "Commercial Real Estate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9468512,
+                    40.7077213
+                ]
+            },
+            "properties": {
+                "name": "80 Meserole Street",
+                "address": "80 Meserole St, Brooklyn, NY 11206",
+                "phone": "",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.962006,
+                    40.710964
+                ]
+            },
+            "properties": {
+                "name": "808 Driggs Avenue Apartment Building",
+                "address": "808 Driggs Ave, Williamsburg, NY 11211",
+                "phone": "",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.938111,
+                    40.714341
+                ]
+            },
+            "properties": {
+                "name": "924 Metro Building",
+                "address": "924 Metropolitan Ave, Brooklyn, NY 11211",
+                "phone": "",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.938245,
+                    40.714336
+                ]
+            },
+            "properties": {
+                "name": "924 Metropolitan",
+                "address": "924 Metropolitan Ave, East Williamsburg, NY 11211",
+                "phone": "+13479727777",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9499315,
+                    40.703008
+                ]
+            },
+            "properties": {
+                "name": "AAA Group",
+                "address": "139 Lorimer St, Brooklyn, NY 11206",
+                "phone": "+17183879800",
+                "category": "Environmental Testing,Land Surveying"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9497,
+                    40.70305
+                ]
+            },
+            "properties": {
+                "name": "AAA group",
+                "address": "139 Lorimer St, Brooklyn, NY 11206",
+                "phone": "+17183879800",
+                "category": "Land Surveying,Environmental Testing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.957922,
+                    40.707779
+                ]
+            },
+            "properties": {
+                "name": "Abe Lebland",
+                "address": "185 Marcy Ave, Ste 306, Brooklyn, NY 11211",
+                "phone": "+17185992470",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95701,
+                    40.71866
+                ]
+            },
+            "properties": {
+                "name": "Able Management Company",
+                "address": "158 Bedford Ave, Brooklyn, NY 11211",
+                "phone": "+17183847000",
+                "category": "Apartments,Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95488,
+                    40.71866
+                ]
+            },
+            "properties": {
+                "name": "Alex Gandelman - Citi Habitats",
+                "address": "482 Driggs Ave, Williamsburg, NY 11211",
+                "phone": "+17186373191",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9557213,
+                    40.7021376
+                ]
+            },
+            "properties": {
+                "name": "All Year Management",
+                "address": "199 Lee Ave, Ste 693, Brooklyn, NY 11211",
+                "phone": "+17186239430",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.940795,
+                    40.7226792
+                ]
+            },
+            "properties": {
+                "name": "Alpha One Labs",
+                "address": "657 Meeker Ave, Brooklyn, NY 11222",
+                "phone": "+18144225372",
+                "category": "Shared Office Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9537837,
+                    40.71736172995749
+                ]
+            },
+            "properties": {
+                "name": "Atelier Apartments",
+                "address": "239 N 9th St, Brooklyn, NY 11211",
+                "phone": "+16468333989",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.941059,
+                    40.69989
+                ]
+            },
+            "properties": {
+                "name": "BKLYN Commons",
+                "address": "7 Marcus Garvey Blvd, Brooklyn, NY 11206",
+                "phone": "+17189895700",
+                "category": "Shared Office Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9486619,
+                    40.7243065
+                ]
+            },
+            "properties": {
+                "name": "Balis Realty",
+                "address": "122 Nassau Ave, Brooklyn, NY 11222",
+                "phone": "+17183891422",
+                "category": "Real Estate Services,Commercial Real Estate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9524005,
+                    40.7113593
+                ]
+            },
+            "properties": {
+                "name": "Bat Haus",
+                "address": "459 Grand St, BROOKLYN, NY 11211",
+                "phone": "+19178658660",
+                "category": "Venues & Event Spaces,Shared Office Spaces,Art Classes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9464335,
+                    40.7178088
+                ]
+            },
+            "properties": {
+                "name": "Bedford 6 Real Estate",
+                "address": "398 Manhattan Ave, Brooklyn, NY 11211",
+                "phone": "+17183880025",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.961778,
+                    40.713443
+                ]
+            },
+            "properties": {
+                "name": "Bedford Realty USA",
+                "address": "307 Bedford Ave, Brooklyn, NY 11211",
+                "phone": "+17185991321",
+                "category": "Real Estate Services,Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95156,
+                    40.724575
+                ]
+            },
+            "properties": {
+                "name": "Belvedere Partners Corporation",
+                "address": "663 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "+17183835800",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9593187153748,
+                    40.7287955998877
+                ]
+            },
+            "properties": {
+                "name": "Bk Roommates",
+                "address": "67 W St, Fl 4, Brooklyn, NY 11222",
+                "phone": "",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95492,
+                    40.7187399
+                ]
+            },
+            "properties": {
+                "name": "Bold New York",
+                "address": "196 North 10th St, Brooklyn, NY 11211",
+                "phone": "+17184891010",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93851,
+                    40.69921
+                ]
+            },
+            "properties": {
+                "name": "Bond Collective",
+                "address": "12 Park St, Brooklyn, NY 11206",
+                "phone": "+16466880740",
+                "category": "Shared Office Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.949018,
+                    40.730541
+                ]
+            },
+            "properties": {
+                "name": "Bond Collective Greenpoint",
+                "address": "276 Greenpoint Ave, Brooklyn, NY 11222",
+                "phone": "+18559269675",
+                "category": "Shared Office Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.918458,
+                    40.705372
+                ]
+            },
+            "properties": {
+                "name": "Boost Management",
+                "address": "116 St Nicholas Ave Lower Level, Brooklyn, NY 11237",
+                "phone": "+17185324044",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9553,
+                    40.73751
+                ]
+            },
+            "properties": {
+                "name": "Box Street Properties",
+                "address": "1144 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "+19177506811",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.950328,
+                    40.718151
+                ]
+            },
+            "properties": {
+                "name": "Bridge Realty",
+                "address": "713 Lorimer St, Ground Fl, Brooklyn, NY 11211",
+                "phone": "+13472944601",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96462,
+                    40.71059
+                ]
+            },
+            "properties": {
+                "name": "Broadway Intl Realty",
+                "address": "107 Broadway, Brooklyn, NY 11211",
+                "phone": "+17185990822",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94939595181886,
+                    40.73055506271883
+                ]
+            },
+            "properties": {
+                "name": "Brooklyn Art Studios",
+                "address": "276 Greenpoint Ave, New York, NY 11222",
+                "phone": "+17189132832",
+                "category": "Art Galleries,Cultural Center,Art Space Rentals"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9297539,
+                    40.7072896
+                ]
+            },
+            "properties": {
+                "name": "Brooklyn Fire Proof Stages",
+                "address": "102 Ingraham St, Studio 1, Studio 2 & Studio 3, Brooklyn, NY 11237",
+                "phone": "+17184567571",
+                "category": "Art Space Rentals"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94491,
+                    40.70807
+                ]
+            },
+            "properties": {
+                "name": "Brooklyn Group",
+                "address": "152 Manhattan Ave, Brooklyn, NY 11206",
+                "phone": "+17184088777",
+                "category": "Real Estate Agents,Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95123,
+                    40.71365
+                ]
+            },
+            "properties": {
+                "name": "Brooklyn Prime",
+                "address": "440 Union Ave, Brooklyn, NY 11211",
+                "phone": "+19174437133",
+                "category": "Real Estate Agents,Property Management,Notaries"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92324,
+                    40.699577
+                ]
+            },
+            "properties": {
+                "name": "Bushwick Realty Group",
+                "address": "187 Wilson Ave, Brooklyn, NY 11237",
+                "phone": "+17184556070",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94365,
+                    40.71305
+                ]
+            },
+            "properties": {
+                "name": "CLASS & CO",
+                "address": "260 Ainslie, Fl 3, Brooklyn, NY 11211",
+                "phone": "+19293247980",
+                "category": "Shared Office Spaces,Venues & Event Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95377,
+                    40.7067
+                ]
+            },
+            "properties": {
+                "name": "CS Management",
+                "address": "410 Broadway, Brooklyn, NY 11211",
+                "phone": "+17187822880",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94707,
+                    40.72598
+                ]
+            },
+            "properties": {
+                "name": "Canarsie Property Management",
+                "address": "Brooklyn, NY 11222",
+                "phone": "+12129205010",
+                "category": "Property Management,Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9511,
+                    40.7142399
+                ]
+            },
+            "properties": {
+                "name": "Capri Jet Realty",
+                "address": "533 Metropolitan Ave, Brooklyn, NY 11211",
+                "phone": "+13474503577",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9492603,
+                    40.7050528
+                ]
+            },
+            "properties": {
+                "name": "Carnegie Management",
+                "address": "545 Broadway, Fl 4, Brooklyn, NY 11206",
+                "phone": "+17184869700",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9291152954102,
+                    40.6995162963867
+                ]
+            },
+            "properties": {
+                "name": "Castle Braid",
+                "address": "114 Troutman St, Brooklyn, NY 11206",
+                "phone": "+17183602433",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94471,
+                    40.71547
+                ]
+            },
+            "properties": {
+                "name": "Castoria Realty",
+                "address": "363 Graham Ave, Brooklyn, NY 11211",
+                "phone": "+17183889830",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93671,
+                    40.71166
+                ]
+            },
+            "properties": {
+                "name": "Chemistry Creative",
+                "address": "305 Ten Eyck St, Brooklyn, NY 11206",
+                "phone": "+17183864127",
+                "category": "Video/Film Production,Photographers,Art Space Rentals"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.954345,
+                    40.732673
+                ]
+            },
+            "properties": {
+                "name": "Citi Habitats",
+                "address": "982 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "+17184446444",
+                "category": "Real Estate Services,Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9484286,
+                    40.7252721
+                ]
+            },
+            "properties": {
+                "name": "City Corps Management",
+                "address": "80 McGuiness Blvd So, Ste A-89, Greenpoint, NY 11222",
+                "phone": "+17189288674",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9402626,
+                    40.7088835
+                ]
+            },
+            "properties": {
+                "name": "City Living Realty",
+                "address": "204 Bushwick Ave, Ste 2, Brooklyn, NY 11206",
+                "phone": "+19297774813",
+                "category": "Real Estate Services,Real Estate Agents,Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9521198,
+                    40.7116213
+                ]
+            },
+            "properties": {
+                "name": "City View Living",
+                "address": "156 Hope St, Brooklyn, NY 11211",
+                "phone": "+17183559002",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9215795,
+                    40.7060423
+                ]
+            },
+            "properties": {
+                "name": "Cocoon Cowork",
+                "address": "49 Wyckoff Ave, Brooklyn, NY 11237",
+                "phone": "+19294825566",
+                "category": "Shared Office Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9471201,
+                    40.7271575
+                ]
+            },
+            "properties": {
+                "name": "Coda Real Estate NYC",
+                "address": "181 Norman Ave, Brooklyn, NY 11222",
+                "phone": "+17186736454",
+                "category": "Real Estate Services,Commercial Real Estate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92087,
+                    40.70767
+                ]
+            },
+            "properties": {
+                "name": "Collab",
+                "address": "309 Starr St, Brooklyn, NY 11237",
+                "phone": "+12127273190",
+                "category": "Shared Office Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93717167,
+                    40.70587833
+                ]
+            },
+            "properties": {
+                "name": "Concrete Jungle Realty",
+                "address": "255 McKibbin St, Ste 19, Brooklyn, NY 11206",
+                "phone": "+13472420937",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9410128,
+                    40.7264297
+                ]
+            },
+            "properties": {
+                "name": "Cork Factory",
+                "address": "99 Sutton St, Greenpoint, NY 11222",
+                "phone": "+17183832900",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9445266723633,
+                    40.7134590148926
+                ]
+            },
+            "properties": {
+                "name": "Crifasi Real Estate",
+                "address": "313 Graham Ave, Brooklyn, NY 11211",
+                "phone": "+17187824411",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9564427,
+                    40.7245533
+                ]
+            },
+            "properties": {
+                "name": "CrossCountry Mortgage",
+                "address": "37 N 15th St, Ste 108, Brooklyn, NY 11222",
+                "phone": "+19179529091",
+                "category": "Mortgage Brokers,Mortgage Lenders"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95278,
+                    40.71155
+                ]
+            },
+            "properties": {
+                "name": "DENBK Studios",
+                "address": "445 Grand St, Brooklyn, NY 11211",
+                "phone": "+16464987028",
+                "category": "Video/Film Production,Art Space Rentals,Session Photography"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95992,
+                    40.71565
+                ]
+            },
+            "properties": {
+                "name": "Da'Ja Gonzalez - The Corcoran Group",
+                "address": "245 Bedford Ave, Brooklyn, NY 11211",
+                "phone": "+19172131122",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9599249,
+                    40.7157509
+                ]
+            },
+            "properties": {
+                "name": "Damon R Bodine - Corcoran",
+                "address": "245 Bedford Ave, Brooklyn, NY 11211",
+                "phone": "+13475812058",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.959247,
+                    40.7086241
+                ]
+            },
+            "properties": {
+                "name": "Delmar Management Services",
+                "address": "266 Broadway, Ste 401, Brooklyn, NY 11211",
+                "phone": "+17183884365",
+                "category": "Real Estate Services,Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9337622,
+                    40.700488
+                ]
+            },
+            "properties": {
+                "name": "Denizen Bshwk",
+                "address": "54 Noll St, Brooklyn, NY 11206",
+                "phone": "+19292276855",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.955,
+                    40.71854
+                ]
+            },
+            "properties": {
+                "name": "Diana Hermanowski",
+                "address": "490 Driggs Ave, Prudential Douglas Elliman Real Estate, Brooklyn, NY 11211",
+                "phone": "+17184864491",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.948721,
+                    40.724654
+                ]
+            },
+            "properties": {
+                "name": "Dolores Buonocore Real Estate",
+                "address": "127 Nassau Ave, Brooklyn, NY 11222",
+                "phone": "+17183492525",
+                "category": "Apartment Agents,Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9600051,
+                    40.7156859
+                ]
+            },
+            "properties": {
+                "name": "Donald Lai - The Corcoran Group",
+                "address": "245 Bedford Ave, Brooklyn, NY 11211",
+                "phone": "+19179479917",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.943507,
+                    40.72749
+                ]
+            },
+            "properties": {
+                "name": "DreamSpace Realty",
+                "address": "240 N Henry St, Brooklyn, NY 11222",
+                "phone": "+17185541555",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9137954711914,
+                    40.6999397277832
+                ]
+            },
+            "properties": {
+                "name": "E&G Realty Group",
+                "address": "358 Grove St, Ste 7D, Brooklyn, NY 11237",
+                "phone": "+16464350544",
+                "category": "Real Estate Services,Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.898944,
+                    40.723827
+                ]
+            },
+            "properties": {
+                "name": "EXIT All Seasons Realty",
+                "address": "65 46 Grand Ave, Maspeth, NY 11378",
+                "phone": "+17184164411",
+                "category": "Real Estate Agents,Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92981,
+                    40.70806
+                ]
+            },
+            "properties": {
+                "name": "Egg Studios NYC",
+                "address": "456 Johnson Ave, Ste 301, Brooklyn, NY 11237",
+                "phone": "+13479273447",
+                "category": "Art Space Rentals"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95554,
+                    40.73698
+                ]
+            },
+            "properties": {
+                "name": "Eleven33",
+                "address": "1133 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "+13473891614",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.955662,
+                    40.702166
+                ]
+            },
+            "properties": {
+                "name": "Elite Realty and Management",
+                "address": "199 Lee Avenue, Ste 233, Brooklyn, NY 11206",
+                "phone": "+17189359625",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9627006,
+                    40.7073195
+                ]
+            },
+            "properties": {
+                "name": "Empire One Realty",
+                "address": "185 Clymer St, Ste 202, Brooklyn, NY 11211",
+                "phone": "+17189639100",
+                "category": "Real Estate Services,Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95179025828837,
+                    40.703230312971684
+                ]
+            },
+            "properties": {
+                "name": "Empire Valley",
+                "address": "176 Lynch St, Suite 1, Brooklyn, NY 11206",
+                "phone": "+13476805393",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.955662,
+                    40.702166
+                ]
+            },
+            "properties": {
+                "name": "Equity Management",
+                "address": "199 Lee Ave, Ste 292, Brooklyn, NY 11211",
+                "phone": "+17185991132",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.924888,
+                    40.700511
+                ]
+            },
+            "properties": {
+                "name": "Fennel Realty",
+                "address": "151 Wilson Ave, Bushwick, NY 11237",
+                "phone": "+19176278650",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9498825073242,
+                    40.7142791748047
+                ]
+            },
+            "properties": {
+                "name": "Five7Three",
+                "address": "573 Metropolitan Ave, Williamsburg, NY 11211",
+                "phone": "+17184352603",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9517971,
+                    40.7275556
+                ]
+            },
+            "properties": {
+                "name": "FlatFinders Realty",
+                "address": "131 Meserole Ave, Brooklyn, NY 11222",
+                "phone": "+17183830077",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.938367,
+                    40.699249
+                ]
+            },
+            "properties": {
+                "name": "Foot Soldiers",
+                "address": "12 Park St, Brooklyn, NY 11206",
+                "phone": "+17186841014",
+                "category": "Snow Removal,Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.966237641871,
+                    40.7075158332244
+                ]
+            },
+            "properties": {
+                "name": "Frontgate Management",
+                "address": "65 South 11th St, Ste 1C, Brooklyn, NY 11211",
+                "phone": "+17183885553",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9617226,
+                    40.7050036
+                ]
+            },
+            "properties": {
+                "name": "Full Time Management",
+                "address": "543 Bedford Ave, Ste 264, Brooklyn, NY 11211",
+                "phone": "+17185992470",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9062271,
+                    40.6956787
+                ]
+            },
+            "properties": {
+                "name": "GoAllCash",
+                "address": "376 Weirfield St, Brooklyn, NY 11237",
+                "phone": "+18554625522",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95353524621562,
+                    40.71443969750415
+                ]
+            },
+            "properties": {
+                "name": "GoRascal",
+                "address": "285 N 6th St, Fl 2, Brooklyn, NY 11211",
+                "phone": "+16469934258",
+                "category": "Mortgage Brokers,Mortgage Lenders"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.958969,
+                    40.729961
+                ]
+            },
+            "properties": {
+                "name": "Grayton Mortgage",
+                "address": "37 Greenpoint Ave, Ste 414, Brooklyn, NY 11222",
+                "phone": "+18186206788",
+                "category": "Mortgage Brokers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95918757054831,
+                    40.72866354074749
+                ]
+            },
+            "properties": {
+                "name": "Green Desk",
+                "address": "67 West St, Brooklyn, NY 11222",
+                "phone": "+17182103650",
+                "category": "Shared Office Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95461,
+                    40.73126
+                ]
+            },
+            "properties": {
+                "name": "Greenpoint Properties",
+                "address": "933 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "+17186091485",
+                "category": "Real Estate Services,Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94709,
+                    40.70038
+                ]
+            },
+            "properties": {
+                "name": "Greenrock Management",
+                "address": "209 Harrison Ave, Brooklyn, NY 11206",
+                "phone": "+17187824357",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.918923,
+                    40.701351
+                ]
+            },
+            "properties": {
+                "name": "Gypsy Housing",
+                "address": "194 Irving Ave, Ste 2, Brooklyn, NY 11237",
+                "phone": "+18883417738",
+                "category": "Housing Cooperatives"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.958717,
+                    40.709327
+                ]
+            },
+            "properties": {
+                "name": "Hager Management",
+                "address": "217 Havemeyer St, Brooklyn, NY 11211",
+                "phone": "+17187820579",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95298767089844,
+                    40.71157455444336
+                ]
+            },
+            "properties": {
+                "name": "Halcyon Management Group",
+                "address": "Brooklyn, NY 11211",
+                "phone": "+17186331033",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94659,
+                    40.70324
+                ]
+            },
+            "properties": {
+                "name": "Highview Management",
+                "address": "610 Broadway, Brooklyn, NY 11206",
+                "phone": "+17184863131",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8997728377581,
+                    40.7236669957638
+                ]
+            },
+            "properties": {
+                "name": "Home Hunters Real Estate",
+                "address": "65-17 Grand Ave, Maspeth, NY 11378",
+                "phone": "+17183262400",
+                "category": "Real Estate Services,Commercial Real Estate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94776131701383,
+                    40.69963178908498
+                ]
+            },
+            "properties": {
+                "name": "Hot Bread Kitchen",
+                "address": "630 Flushing Ave, Brooklyn, NY 11206",
+                "phone": "+19292262079",
+                "category": "Community Service/Non-Profit,Kitchen Incubators,Cooking Classes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9395674318075,
+                    40.7234271262258
+                ]
+            },
+            "properties": {
+                "name": "Imperium Group of NY",
+                "address": "25 Driggs Ave, Greenpoint, NY 11222",
+                "phone": "+17185762212",
+                "category": "Insurance,Mortgage Brokers,Tax Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9587860107422,
+                    40.7092247009277
+                ]
+            },
+            "properties": {
+                "name": "JBM Estates",
+                "address": "219 Havemeyer St, Brooklyn, NY 11211",
+                "phone": "+17183884901",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94998,
+                    40.73196
+                ]
+            },
+            "properties": {
+                "name": "Java Studios",
+                "address": "252 Java St, Brooklyn, NY 11222",
+                "phone": "+13475992832",
+                "category": "Shared Office Spaces,Art Space Rentals"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95980169461339,
+                    40.71578341568682
+                ]
+            },
+            "properties": {
+                "name": "Jessica White - The Corcoran Group",
+                "address": "245 Bedford Ave, Brooklyn, NY 11211",
+                "phone": "+19175103664",
+                "category": "Real Estate Agents,Home Staging"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9597963,
+                    40.7157713
+                ]
+            },
+            "properties": {
+                "name": "Jonathan Tager-The Corcoran Group",
+                "address": "245 Bedford Ave, Brooklyn, NY 11211",
+                "phone": "+19177890140",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9152264974163,
+                    40.7019466780811
+                ]
+            },
+            "properties": {
+                "name": "Kanduit Realty",
+                "address": "225 Wyckoff Ave, Bushwick, NY 11237",
+                "phone": "+17184568514",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.954345703125,
+                    40.7326736450195
+                ]
+            },
+            "properties": {
+                "name": "Kelly Schmid - Citi Habitats",
+                "address": "982 Manhattan Ave, Brooklyn, NY 11222",
+                "phone": "+13475285194",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95911,
+                    40.69929
+                ]
+            },
+            "properties": {
+                "name": "King David Intl Realty",
+                "address": "2 Franklin Ave, Ste 2, Brooklyn, NY 11211",
+                "phone": "+17182221500",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9599249,
+                    40.7157509
+                ]
+            },
+            "properties": {
+                "name": "Kristina Gavrilova",
+                "address": "245 Bedford Ave, New York, NY 11211",
+                "phone": "+16462870850",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.944585,
+                    40.717199
+                ]
+            },
+            "properties": {
+                "name": "LaMatto Properties",
+                "address": "Brooklyn, NY 11211",
+                "phone": "+17183836400",
+                "category": "Real Estate Services,Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9668273925781,
+                    40.7112884521484
+                ]
+            },
+            "properties": {
+                "name": "Le Blanc Organization",
+                "address": "52 S 6th St, Brooklyn, NY 11211",
+                "phone": "+17187828454",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.938135,
+                    40.706847
+                ]
+            },
+            "properties": {
+                "name": "Legendary Republic",
+                "address": "258 Johnson Ave, Brooklyn, NY 11206",
+                "phone": "+16469024365",
+                "category": "Venues & Event Spaces,Video/Film Production,Art Space Rentals"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.943122,
+                    40.7114786
+                ]
+            },
+            "properties": {
+                "name": "Leiter Property Management",
+                "address": "750 Grand St, Ste 5s, Brooklyn, NY 11211",
+                "phone": "+17183873700",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9485,
+                    40.71816
+                ]
+            },
+            "properties": {
+                "name": "Leonard Pointe",
+                "address": "395 Leonard St, Brooklyn, NY 11211",
+                "phone": "+13368229514",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.961446,
+                    40.704801
+                ]
+            },
+            "properties": {
+                "name": "Lhi Properties",
+                "address": "547 Bedford Ave, Brooklyn, NY 11211",
+                "phone": "+17183029770",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94567683,
+                    40.7141465
+                ]
+            },
+            "properties": {
+                "name": "Lido Knitting Mills Apartments",
+                "address": "694 Metropolitan Ave, Brooklyn, NY 11211",
+                "phone": "",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9501727,
+                    40.706365
+                ]
+            },
+            "properties": {
+                "name": "Lindsay Park Housing Corporation",
+                "address": "202 Union Ave, Brooklyn, NY 11211",
+                "phone": "+17187829000",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9250596,
+                    40.7076
+                ]
+            },
+            "properties": {
+                "name": "LlineStudio",
+                "address": "203 Harrison Pl Suit 348, Brooklyn, NY 11237",
+                "phone": "+13475655485",
+                "category": "Session Photography,Art Space Rentals"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9359377,
+                    40.71368
+                ]
+            },
+            "properties": {
+                "name": "Lytehouse Studio",
+                "address": "356 Devoe St, Brooklyn, NY 11211",
+                "phone": "+17185026302",
+                "category": "Venues & Event Spaces,Video/Film Production,Art Space Rentals"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94969,
+                    40.7137
+                ]
+            },
+            "properties": {
+                "name": "MCR Realty",
+                "address": "561 Lorimer St, Brooklyn, NY 11211",
+                "phone": "+17183878200",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.940168,
+                    40.726507
+                ]
+            },
+            "properties": {
+                "name": "MFAB, Morgan Fine Arts Building",
+                "address": "649 Morgan Ave, New York, NY 11222",
+                "phone": "+19177470348",
+                "category": "Shared Office Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9533299,
+                    40.7067
+                ]
+            },
+            "properties": {
+                "name": "MW Group",
+                "address": "420 Broadway, Brooklyn, NY 11211",
+                "phone": "+13476865868",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95488,
+                    40.71866
+                ]
+            },
+            "properties": {
+                "name": "Maggie Regan - Citi Habitats",
+                "address": "482 Driggs Ave, Brooklyn, NY 11211",
+                "phone": "+19179521805",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9549847692251,
+                    40.7373657077551
+                ]
+            },
+            "properties": {
+                "name": "Magick City",
+                "address": "37 Box St, Brooklyn, NY 11222",
+                "phone": "+17183957261",
+                "category": "Kitchen Incubators,Venues & Event Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9599658894817,
+                    40.7156702253722
+                ]
+            },
+            "properties": {
+                "name": "Mary Wyatt",
+                "address": "245 Bedford Ave, Brooklyn, NY 11211",
+                "phone": "+19175281796",
+                "category": "Real Estate Agents,Interior Design"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.89578,
+                    40.72625
+                ]
+            },
+            "properties": {
+                "name": "Maspeth Federal Savings",
+                "address": "56-18 69th St, Maspeth, NY 11378",
+                "phone": "+17183351300",
+                "category": "Banks & Credit Unions,Mortgage Brokers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95858,
+                    40.71688
+                ]
+            },
+            "properties": {
+                "name": "Metropolitan Av Assoc",
+                "address": "207 Bedford Ave, Brooklyn, NY 11211",
+                "phone": "+17184860176",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9332699,
+                    40.7057
+                ]
+            },
+            "properties": {
+                "name": "Mik Space",
+                "address": "56 Bogart, Brooklyn, NY 11206",
+                "phone": "+17325329192",
+                "category": "Art Space Rentals,Photography Stores & Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9335819246998,
+                    40.706992856586936
+                ]
+            },
+            "properties": {
+                "name": "MySpace NYC",
+                "address": "96 Bogart St, Brooklyn, NY 11206",
+                "phone": "+16468543513",
+                "category": "Real Estate Services,Commercial Real Estate,Apartment Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.89514,
+                    40.72707
+                ]
+            },
+            "properties": {
+                "name": "NY Superior Realty",
+                "address": "5525 69th St, Maspeth, NY 11378",
+                "phone": "+17182057770",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.955,
+                    40.71879
+                ]
+            },
+            "properties": {
+                "name": "Nathan Perlstein - FM Home Loans",
+                "address": "190 North 10th St, Ste 310, Brooklyn, NY 11211",
+                "phone": "+17183777900",
+                "category": "Mortgage Brokers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9550860448119,
+                    40.7328680936165
+                ]
+            },
+            "properties": {
+                "name": "Native Real Estate",
+                "address": "162 Huron St, Brooklyn, NY 11222",
+                "phone": "+13479277707",
+                "category": "Real Estate Services,Real Estate Agents,Commercial Real Estate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.953933,
+                    40.705352
+                ]
+            },
+            "properties": {
+                "name": "Neighborhood Management",
+                "address": "255 Penn St, Brooklyn, NY 11211",
+                "phone": "+17188346311",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9571981,
+                    40.716498
+                ]
+            },
+            "properties": {
+                "name": "Nest Seekers Williamsburg",
+                "address": "578 Driggs Ave, Brooklyn, NY 11211",
+                "phone": "+17183020900",
+                "category": "Real Estate Agents,Marketing,Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95688,
+                    40.73148
+                ]
+            },
+            "properties": {
+                "name": "Noble Property Management",
+                "address": "101 Java St, Brooklyn, NY 11222",
+                "phone": "+13479160073",
+                "category": "Real Estate Services,Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9219340344455,
+                    40.7083666588164
+                ]
+            },
+            "properties": {
+                "name": "Nooklyn",
+                "address": "28 Scott Ave, Brooklyn, NY 11237",
+                "phone": "+13473183595",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.89514,
+                    40.72707
+                ]
+            },
+            "properties": {
+                "name": "Nora Avalos  - NY Superior Realty",
+                "address": "5525 69th St, Maspeth, NY 11378",
+                "phone": "+17182057770",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95246,
+                    40.72729
+                ]
+            },
+            "properties": {
+                "name": "North Brooklyn Realty Corp",
+                "address": "117 Meserole Ave, Brooklyn, NY 11222",
+                "phone": "+17183835553",
+                "category": "Real Estate Agents,Real Estate Services,Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.965881,
+                    40.709934
+                ]
+            },
+            "properties": {
+                "name": "North Development Group",
+                "address": "390 Berry St, Brooklyn, NY 11211",
+                "phone": "+17183022171",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95943,
+                    40.71413
+                ]
+            },
+            "properties": {
+                "name": "Northside Management",
+                "address": "679 Driggs Ave, Brooklyn, NY 11211",
+                "phone": "+17184088849",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9625549,
+                    40.7182094
+                ]
+            },
+            "properties": {
+                "name": "Northside Piers",
+                "address": "47 N 4th St, Brooklyn, NY 11211",
+                "phone": "+17183880606",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.891567,
+                    40.728456
+                ]
+            },
+            "properties": {
+                "name": "O'Kane Realty",
+                "address": "7201 Grand Ave, Maspeth, NY 11378",
+                "phone": "+17187791111",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9442253,
+                    40.7124567
+                ]
+            },
+            "properties": {
+                "name": "O-T Contracting Corporation",
+                "address": "283 Graham Ave, Brooklyn, NY 11211",
+                "phone": "+17187822288",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.946772,
+                    40.711093
+                ]
+            },
+            "properties": {
+                "name": "O-T Real Estate",
+                "address": "129 Graham Ave, New York, NY 11211",
+                "phone": "+17187822288",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.959795,
+                    40.715787
+                ]
+            },
+            "properties": {
+                "name": "Odalis Gonzalez - The Corcoran Group",
+                "address": "245 Bedford Ave, Brooklyn, NY 11211",
+                "phone": "+13472239028",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.930364,
+                    40.705357
+                ]
+            },
+            "properties": {
+                "name": "OfficeOps",
+                "address": "57 Thames St, Brooklyn, NY 11237",
+                "phone": "+17184182509",
+                "category": "Venues & Event Spaces,Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93904,
+                    40.7159199
+                ]
+            },
+            "properties": {
+                "name": "Olive Park Condominium",
+                "address": "100 Maspeth Ave, Brooklyn, NY 11211",
+                "phone": "+17183029400",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9448604,
+                    40.7175362
+                ]
+            },
+            "properties": {
+                "name": "Omega Realty",
+                "address": "422 Graham Ave, Brooklyn, NY 11222",
+                "phone": "+17183493007",
+                "category": "Real Estate Services,Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9524078369141,
+                    40.7299690246582
+                ]
+            },
+            "properties": {
+                "name": "One Blue Slip",
+                "address": "1 Blue Slip, Brooklyn, NY 11222",
+                "phone": "+17183490001",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9139709,
+                    40.6986198
+                ]
+            },
+            "properties": {
+                "name": "Open Deal Realty",
+                "address": "320 Linden St, Brooklyn, NY 11237",
+                "phone": "+17184174777",
+                "category": "Real Estate Services,Apartments,Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9361019,
+                    40.6986713
+                ]
+            },
+            "properties": {
+                "name": "Opera House Lofts",
+                "address": "27 Arion Pl, Brooklyn, NY 11206",
+                "phone": "+17184532328",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94882,
+                    40.71689
+                ]
+            },
+            "properties": {
+                "name": "Paragraph - Brooklyn",
+                "address": "84 Withers St, Fl 5, Brooklyn, NY 11211",
+                "phone": "+19293829293",
+                "category": "Shared Office Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.919246,
+                    40.696818
+                ]
+            },
+            "properties": {
+                "name": "Parlor Real Estate",
+                "address": "280 Wilson Ave, Ste 3R, Brooklyn, NY 11237",
+                "phone": "+13365089568",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95836,
+                    40.72994
+                ]
+            },
+            "properties": {
+                "name": "PencilWorks",
+                "address": "61 Greenpoint Ave, 6th. Floor, Brooklyn, NY 11222",
+                "phone": "+16463963020",
+                "category": "Shared Office Spaces,Commercial Real Estate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95787,
+                    40.718128
+                ]
+            },
+            "properties": {
+                "name": "Pepe Real Estate",
+                "address": "151 N 7th St, Brooklyn, NY 11211",
+                "phone": "+17185997373",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.895506,
+                    40.731889
+                ]
+            },
+            "properties": {
+                "name": "Pernod Real Estate",
+                "address": "5259 69th St, Maspeth, NY 11378",
+                "phone": "+17184242319",
+                "category": "Real Estate Services,Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94968,
+                    40.73198
+                ]
+            },
+            "properties": {
+                "name": "Point Green Studio",
+                "address": "260 Java St, Brooklyn, NY 11222",
+                "phone": "+13479874616",
+                "category": "Art Space Rentals"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.949741,
+                    40.723932
+                ]
+            },
+            "properties": {
+                "name": "Proper Real Estate",
+                "address": "100 Nassau Ave, Brooklyn, NY 11222",
+                "phone": "+17183895833",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9540216,
+                    40.7247916
+                ]
+            },
+            "properties": {
+                "name": "Property Works Real Estate",
+                "address": "39 Norman Ave, Greenpoint, NY 11222",
+                "phone": "+17184184180",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9574675,
+                    40.7117479
+                ]
+            },
+            "properties": {
+                "name": "Rapid Realty",
+                "address": "148 Havemeyer St, New York, NY 11211",
+                "phone": "+16464576059",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9487786,
+                    40.7139241
+                ]
+            },
+            "properties": {
+                "name": "Rapid Williamsburg",
+                "address": "606 Metropolitan Ave, Brooklyn, NY 11211",
+                "phone": "+16462966772",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.945957,
+                    40.725125
+                ]
+            },
+            "properties": {
+                "name": "Rekuc Realty Group",
+                "address": "180 Nassau Ave, Apt 2, Greenpoint, NY 11222",
+                "phone": "+19178809155",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92847,
+                    40.7049499
+                ]
+            },
+            "properties": {
+                "name": "Renegade New York",
+                "address": "1093 Flushing Ave, Ste 141, Brooklyn, NY 11237",
+                "phone": "+13476579025",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9284078,
+                    40.7049919
+                ]
+            },
+            "properties": {
+                "name": "Renegade Rentals",
+                "address": "1093 Flushing Ave, Ste 141, Brooklyn, NY 11237",
+                "phone": "+13474258410",
+                "category": "Apartments,Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93638,
+                    40.697911
+                ]
+            },
+            "properties": {
+                "name": "Rennit NYC",
+                "address": "907 Broadway, Brooklyn, NY 11206",
+                "phone": "+13478311645",
+                "category": "Apartment Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9107336,
+                    40.6953092
+                ]
+            },
+            "properties": {
+                "name": "Ridgewood Collective",
+                "address": "315 Cornelia, brooklyn, NY 11237",
+                "phone": "+19179007394",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.922872,
+                    40.706868
+                ]
+            },
+            "properties": {
+                "name": "Ridgewood Realty Group",
+                "address": "17 Wyckoff Avenue 2nd, Brooklyn, NY 11237",
+                "phone": "+17184185500",
+                "category": "Property Management,Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94725,
+                    40.71449
+                ]
+            },
+            "properties": {
+                "name": "Roomrs 651",
+                "address": "651 Metropolitan Ave, Brooklyn, NY 11211",
+                "phone": "+18003996884",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.945989,
+                    40.692507
+                ]
+            },
+            "properties": {
+                "name": "Rory Newman",
+                "address": "188 Tompkins Ave, Brooklyn, NY 11206",
+                "phone": "+19179955145",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95572,
+                    40.70211
+                ]
+            },
+            "properties": {
+                "name": "Royal Property Management",
+                "address": "199 Lee Ave, Ste A, Brooklyn, NY 11211",
+                "phone": "+17186242988",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9592232,
+                    40.72867
+                ]
+            },
+            "properties": {
+                "name": "Ruby Bird Studio",
+                "address": "67 W St, Ste 524, Brooklyn, NY 11222",
+                "phone": "+13472234533",
+                "category": "Photography Stores & Services,Music Production Services,Art Space Rentals"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9521027,
+                    40.7054138
+                ]
+            },
+            "properties": {
+                "name": "Sage Franklin",
+                "address": "331 Rutledge St, New York, NY 11211",
+                "phone": "+17189636988",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95834,
+                    40.71445
+                ]
+            },
+            "properties": {
+                "name": "Sandra Camhi - Douglas Elliman Real Estate",
+                "address": "280 Metropolitan Ave, Brooklyn, NY 11211",
+                "phone": "+15167210021",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95992,
+                    40.71565
+                ]
+            },
+            "properties": {
+                "name": "Sarale Fellig - The Corcoran Group",
+                "address": "245 Bedford Ave, Brooklyn, NY 11211",
+                "phone": "+13054507406",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.941307,
+                    40.71376
+                ]
+            },
+            "properties": {
+                "name": "Select Real Estate",
+                "address": "31 Bushwick Ave, Brooklyn, NY 11211",
+                "phone": "+17183875112",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.961235,
+                    40.704849
+                ]
+            },
+            "properties": {
+                "name": "Send Rent Now",
+                "address": "134 Ross St, Brooklyn, NY 11211",
+                "phone": "+12126757368",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.955622,
+                    40.702137
+                ]
+            },
+            "properties": {
+                "name": "Shefa Garden",
+                "address": "199 Lee Ave, Ste 471, Brooklyn, NY 11211",
+                "phone": "+12124539846",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9509319,
+                    40.7335045
+                ]
+            },
+            "properties": {
+                "name": "Sidewalk Realty",
+                "address": "251 Huron St, Unit 1, Brooklyn, NY 11222",
+                "phone": "+19173996384",
+                "category": "Real Estate Services,Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.915687,
+                    40.702373
+                ]
+            },
+            "properties": {
+                "name": "Sierra Real Estate",
+                "address": "213 Wyckoff Ave, Brooklyn, NY 11237",
+                "phone": "+17183868356",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92276,
+                    40.70637
+                ]
+            },
+            "properties": {
+                "name": "Solid Gold Yogi",
+                "address": "20 Wyckoff Ave, Brooklyn, NY 11237",
+                "phone": "+19177543446",
+                "category": "Yoga,Meditation Centers,Art Space Rentals"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95142,
+                    40.72389
+                ]
+            },
+            "properties": {
+                "name": "Sophie Bednarczyk Realty",
+                "address": "10 Bedford Ave, Brooklyn, NY 11222",
+                "phone": "+17183836802",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95147,
+                    40.70582
+                ]
+            },
+            "properties": {
+                "name": "Southside Associates",
+                "address": "331 Rutledge St, Ste 208, Brooklyn, NY 11211",
+                "phone": "+17189636988",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95214,
+                    40.711612
+                ]
+            },
+            "properties": {
+                "name": "Stay Awhile",
+                "address": "156 Hope St, Brooklyn, NY 11211",
+                "phone": "+17182247829",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.956084,
+                    40.702956
+                ]
+            },
+            "properties": {
+                "name": "Steiner Real Estate Management",
+                "address": "187 Rutledge, Brooklyn, NY 11211",
+                "phone": "+17189631838",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92718,
+                    40.70915
+                ]
+            },
+            "properties": {
+                "name": "Stoodio One",
+                "address": "146 Randolph St, Brooklyn, NY 11237",
+                "phone": "",
+                "category": "Art Space Rentals"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95818,
+                    40.71254
+                ]
+            },
+            "properties": {
+                "name": "Sumet I Associates",
+                "address": "228 S 1st St, Brooklyn, NY 11211",
+                "phone": "+17182187343",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95279236166606,
+                    40.71741912689284
+                ]
+            },
+            "properties": {
+                "name": "TF Cornerstone",
+                "address": "250 N 10th St, Brooklyn, NY 11211",
+                "phone": "+17184860260",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9447479248047,
+                    40.7038917541504
+                ]
+            },
+            "properties": {
+                "name": "TOMPKINS GATE",
+                "address": "Brooklyn, NY 11206",
+                "phone": "+13473850202",
+                "category": "Real Estate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96064,
+                    40.70669
+                ]
+            },
+            "properties": {
+                "name": "TQR and Management",
+                "address": "183 Wilson St, Ste 289, Brooklyn, NY 11211",
+                "phone": "",
+                "category": "Real Estate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.933557,
+                    40.707196
+                ]
+            },
+            "properties": {
+                "name": "Target Realty Group",
+                "address": "100 Bogart St, Fl 4, Brooklyn, NY 11206",
+                "phone": "+17183881180",
+                "category": "Property Management,Commercial Real Estate,Apartment Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9597963,
+                    40.7157713
+                ]
+            },
+            "properties": {
+                "name": "Tatiana Angjeli - Corcoran",
+                "address": "245 Bedford Ave, Brooklyn, NY 11211",
+                "phone": "+19294873501",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94707,
+                    40.72598
+                ]
+            },
+            "properties": {
+                "name": "Terra Magia",
+                "address": "New York, NY 11222",
+                "phone": "+13476992949",
+                "category": "Real Estate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9597963,
+                    40.7157713
+                ]
+            },
+            "properties": {
+                "name": "The Corcoran Group - Williamsburg",
+                "address": "245 Bedford Ave, Brooklyn, NY 11211",
+                "phone": "+17184222500",
+                "category": "Real Estate Agents,Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95467,
+                    40.71806
+                ]
+            },
+            "properties": {
+                "name": "The Driggs",
+                "address": "205 N 9th St, Brooklyn, NY 11211",
+                "phone": "+13475783623",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96224,
+                    40.71944
+                ]
+            },
+            "properties": {
+                "name": "The Edge",
+                "address": "135 Kent Ave, Brooklyn, NY 11211",
+                "phone": "",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9524098,
+                    40.7117871
+                ]
+            },
+            "properties": {
+                "name": "The Espoir Luxury Rentals",
+                "address": "146 Hope St, Brooklyn, NY 11211",
+                "phone": "+13475783623",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9283149,
+                    40.7050715
+                ]
+            },
+            "properties": {
+                "name": "The Loom Group",
+                "address": "1087 Flushing Ave, East Williamsburg, NY 11237",
+                "phone": "+17184171616",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96144,
+                    40.7136
+                ]
+            },
+            "properties": {
+                "name": "The RATNER Team",
+                "address": "299 Bedord Ave, Brooklyn, NY 11211",
+                "phone": "+17187478215",
+                "category": "Real Estate Agents,Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96188,
+                    40.71004
+                ]
+            },
+            "properties": {
+                "name": "The Yard: South Williamsburg",
+                "address": "195 Broadway, Brooklyn, NY 11211",
+                "phone": "+18009984392",
+                "category": "Shared Office Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.952991,
+                    40.7231917
+                ]
+            },
+            "properties": {
+                "name": "The Yard: Williamsburg",
+                "address": "33 Nassau Ave, Brooklyn, NY 11222",
+                "phone": "+17187827900",
+                "category": "Shared Office Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95572,
+                    40.70211
+                ]
+            },
+            "properties": {
+                "name": "Top Quality Management",
+                "address": "199 Lee Ave, Ste 286, Brooklyn, NY 11211",
+                "phone": "+17185226582",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95233,
+                    40.72712
+                ]
+            },
+            "properties": {
+                "name": "Townhouse Realty NYC",
+                "address": "110 Meserole Ave, Brooklyn, NY 11222",
+                "phone": "+19175866777",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.960369,
+                    40.7089658
+                ]
+            },
+            "properties": {
+                "name": "Transition Acquisitions",
+                "address": "232 Broadway, Ste 400, Brooklyn, NY 11211",
+                "phone": "+17186401666",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9522765,
+                    40.7234052
+                ]
+            },
+            "properties": {
+                "name": "True Management",
+                "address": "55 Nassau Ave, Ste 3A2, Brooklyn, NY 11222",
+                "phone": "+17185648239",
+                "category": "Property Management,Commercial Real Estate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95858,
+                    40.73646
+                ]
+            },
+            "properties": {
+                "name": "Two Blue Slip",
+                "address": "2 Blue Slip, Brooklyn, NY 11222",
+                "phone": "+18442188368",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95351,
+                    40.73011
+                ]
+            },
+            "properties": {
+                "name": "Ula's Real Estate",
+                "address": "763 Leonard St, Brooklyn, NY 11222",
+                "phone": "+17183894515",
+                "category": "Real Estate Agents,Commercial Real Estate,Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.926939086334,
+                    40.708663918903
+                ]
+            },
+            "properties": {
+                "name": "Urban Myth Studio",
+                "address": "505 Johnson Ave, Brooklyn, NY 11237",
+                "phone": "+12127296406",
+                "category": "Video/Film Production,Session Photography,Art Space Rentals"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93432,
+                    40.7159199
+                ]
+            },
+            "properties": {
+                "name": "Vandervoort Studio",
+                "address": "309 Vandervoort Ave, Brooklyn, NY 11211",
+                "phone": "+17187221005",
+                "category": "Art Space Rentals"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.955,
+                    40.71879
+                ]
+            },
+            "properties": {
+                "name": "Victoria Correnti - Bold New York",
+                "address": "190 N 10th St, Ste 308, Brooklyn, NY 11211",
+                "phone": "+15083649645",
+                "category": "Real Estate Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.956475,
+                    40.733328
+                ]
+            },
+            "properties": {
+                "name": "Viridian",
+                "address": "110 Green St, Brooklyn, NY 11222",
+                "phone": "+17184902975",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9617279,
+                    40.705002
+                ]
+            },
+            "properties": {
+                "name": "Washington Plaza",
+                "address": "543 Bedford Ave, Ste 295, New York, NY 11211",
+                "phone": "+17183840933",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9611552,
+                    40.7087966
+                ]
+            },
+            "properties": {
+                "name": "Waterfront Property Management",
+                "address": "320 Roebling St, Ste 106, Williamsburg, NY 11211",
+                "phone": "+17183023180",
+                "category": "Apartments,Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.959351,
+                    40.728812
+                ]
+            },
+            "properties": {
+                "name": "West St. Studios",
+                "address": "67 West St, 4th Fl, Ste 411, Brooklyn, NY 11222",
+                "phone": "+13476761437",
+                "category": "Photography Stores & Services,Photographers,Art Space Rentals"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.956047,
+                    40.715721
+                ]
+            },
+            "properties": {
+                "name": "Wfc Realty",
+                "address": "108 Roebling St, Brooklyn, NY 11211",
+                "phone": "+17183879011",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9562325835508,
+                    40.7170735383027
+                ]
+            },
+            "properties": {
+                "name": "Williamsburg Realty",
+                "address": "199 N 7th St, Brooklyn, NY 11211",
+                "phone": "+17185999399",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9417,
+                    40.72688
+                ]
+            },
+            "properties": {
+                "name": "Windmill Studios",
+                "address": "300 Kingsland Ave, Brooklyn, NY 11222",
+                "phone": "+17183847300",
+                "category": "Art Space Rentals,Video/Film Production"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.917403,
+                    40.702901
+                ]
+            },
+            "properties": {
+                "name": "Wyckoff Realty",
+                "address": "142 Wyckoff Ave, New York, NY 11237",
+                "phone": "+17184177300",
+                "category": "Real Estate Services,Commercial Real Estate,Apartment Agents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96114,
+                    40.70879
+                ]
+            },
+            "properties": {
+                "name": "YHT Management",
+                "address": "320 Roebling St, Ste 205, Brooklyn, NY 11211",
+                "phone": "+17189549785",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.955622,
+                    40.702137
+                ]
+            },
+            "properties": {
+                "name": "Yisroel",
+                "address": "199 Lee Ave, Ste 305, Brooklyn, NY 11211",
+                "phone": "+17183056724",
+                "category": "Apartments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9553242,
+                    40.7300794
+                ]
+            },
+            "properties": {
+                "name": "Your Space",
+                "address": "132 Greenpoint Ave, New York, NY 11222",
+                "phone": "+13477254789",
+                "category": "Real Estate Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.956341,
+                    40.730238
+                ]
+            },
+            "properties": {
+                "name": "Zuzu Property Management",
+                "address": "97 Greenpoint Ave, Brooklyn, NY 11222",
+                "phone": "+17183893600",
+                "category": "Property Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92533,
+                    40.70762
+                ]
+            },
+            "properties": {
+                "name": "b[x] - space to create",
+                "address": "44 Stewart Ave, Brooklyn, NY 11237",
+                "phone": "+13477628588",
+                "category": "Shared Office Spaces,Art Galleries,Makerspaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9249071478844,
+                    40.7075341790915
+                ]
+            },
+            "properties": {
+                "name": "b[x] spaces",
+                "address": "203 Harrison Pl, Brooklyn, NY 11237",
+                "phone": "+13477628588",
+                "category": "Shared Office Spaces,Art Galleries,Makerspaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9327253,
+                    40.7056801
+                ]
+            },
+            "properties": {
+                "name": "matka studio",
+                "address": "13 Grattan St, Unit 408, Brooklyn, NY 11206",
+                "phone": "+19177570490",
+                "category": "Photography Stores & Services,Art Space Rentals"
+            }
+        }
+    ]
+}
