@@ -2998,22 +2998,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.99052,
-                    40.69347
-                ]
-            },
-            "properties": {
-                "name": "Expedite Movers Brooklyn",
-                "address": "New York, NY 11211",
-                "phone": "+19176885700",
-                "category": "Movers,Shipping Centers"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -73.9263763427734,
                     40.7036552429199
                 ]
@@ -3231,22 +3215,6 @@
                 "address": "143 Tompkins Ave, New York, NY 11206",
                 "phone": "",
                 "category": "Laundromat"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.991533117211,
-                    40.7412944442119
-                ]
-            },
-            "properties": {
-                "name": "FlyCleaners",
-                "address": "Brooklyn, NY 11211",
-                "phone": "+16467270819",
-                "category": "Laundry Services"
             }
         },
         {
@@ -8175,22 +8143,6 @@
                 "address": "602 Manhattan Ave, Brooklyn, NY 11222",
                 "phone": "+13473842526",
                 "category": "Nail Salons,Hair Salons,Sugaring"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.9212858,
-                    40.6876563712147
-                ]
-            },
-            "properties": {
-                "name": "Squash Exterminating",
-                "address": "Brooklyn, NY 11237",
-                "phone": "+18664464437",
-                "category": "Pest Control"
             }
         },
         {
