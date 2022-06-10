@@ -2,8 +2,8 @@ mapboxgl.accessToken = 'pk.eyJ1IjoidGhlZHlpbmdkcmFnb24iLCJhIjoiY2szNWN0MGsyMDI2O
     const map = new mapboxgl.Map({
         container: 'map',
         style: 'mapbox://styles/mapbox/light-v10',
-        center: [-73.908, 40.709],
-        zoom: 11.05
+        center: [-73.928, 40.719],
+        zoom: 12.6
     });
 
     // harlem
