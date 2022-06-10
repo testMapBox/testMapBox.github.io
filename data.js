@@ -7,10 +7,10 @@ mapboxgl.accessToken = 'pk.eyJ1IjoidGhlZHlpbmdkcmFnb24iLCJhIjoiY2szNWN0MGsyMDI2O
     });
 
     // harlem
-    var school = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/school.json";
-    var smallB = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/smallB.json";
-    var realE = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/realE.json";
-    var deli = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/deli.json";
+    //var school = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/school.json";
+    //var smallB = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/smallB.json";
+    //var realE = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/realE.json";
+    //var deli = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/deli.json";
 
     // east williamsburg
     var eastSchool = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/eastSchool.json";
@@ -20,6 +20,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoidGhlZHlpbmdkcmFnb24iLCJhIjoiY2szNWN0MGsyMDI2O
 
 
     map.on('load', () => {
+        /*
         map.addSource('schools', {
             'type': 'geojson',
             'data': school
@@ -39,7 +40,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoidGhlZHlpbmdkcmFnb24iLCJhIjoiY2szNWN0MGsyMDI2O
             'type': 'geojson',
             'data': deli
         });
-
+        */
         map.addSource('EastSchools', {
             'type': 'geojson',
             'data': eastSchool
@@ -61,6 +62,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoidGhlZHlpbmdkcmFnb24iLCJhIjoiY2szNWN0MGsyMDI2O
         });
 
         // Add a layer showing the places: harlem
+        /*
         map.addLayer({
             'id': 'schools',
             'type': 'circle',
@@ -108,7 +110,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoidGhlZHlpbmdkcmFnb24iLCJhIjoiY2szNWN0MGsyMDI2O
                 'circle-stroke-color': '#ffffff'
             }
         });
-
+        */
 
          // Add a layer showing the places: east
         map.addLayer({
@@ -167,6 +169,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoidGhlZHlpbmdkcmFnb24iLCJhIjoiY2szNWN0MGsyMDI2O
         });
 
         // harlem
+        /*
         map.on('mouseenter', 'schools', (e) => {
             // Change the cursor style as a UI indicator.
             map.getCanvas().style.cursor = 'pointer';
@@ -298,7 +301,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoidGhlZHlpbmdkcmFnb24iLCJhIjoiY2szNWN0MGsyMDI2O
             map.getCanvas().style.cursor = '';
             popup.remove();
         });
-
+        */
 
         // east
         map.on('mouseenter', 'EastSchools', (e) => {
