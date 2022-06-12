@@ -1,7 +1,7 @@
 mapboxgl.accessToken = 'pk.eyJ1IjoidGhlZHlpbmdkcmFnb24iLCJhIjoiY2szNWN0MGsyMDI2OTNtdDR6Y25sMmZscCJ9.WN9pN7qbAj4MQdD7VzjODw';
     const map = new mapboxgl.Map({
         container: 'map',
-        style: 'mapbox://styles/mapbox/light-v10',
+        style: 'mapbox://styles/mapbox/satellite-streets-v11',
         center: [-73.928, 40.719],
         zoom: 12.6
     });
@@ -119,7 +119,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoidGhlZHlpbmdkcmFnb24iLCJhIjoiY2szNWN0MGsyMDI2O
             'source': 'EastSchools',
             'paint': {
                 'circle-color': '#ff0000',
-                'circle-radius': 3,
+                'circle-radius': 5,
                 'circle-stroke-width': 2,
                 'circle-stroke-color': '#ffffff'
             }
@@ -131,7 +131,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoidGhlZHlpbmdkcmFnb24iLCJhIjoiY2szNWN0MGsyMDI2O
             'source': 'EastSmallB',
             'paint': {
                 'circle-color': '#008000',
-                'circle-radius': 3,
+                'circle-radius': 5,
                 'circle-stroke-width': 2,
                 'circle-stroke-color': '#ffffff'
             }
@@ -143,7 +143,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoidGhlZHlpbmdkcmFnb24iLCJhIjoiY2szNWN0MGsyMDI2O
             'source': 'EastRealE',
             'paint': {
                 'circle-color': '#000080',
-                'circle-radius': 3,
+                'circle-radius': 5,
                 'circle-stroke-width': 2,
                 'circle-stroke-color': '#ffffff'
             }
@@ -155,7 +155,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoidGhlZHlpbmdkcmFnb24iLCJhIjoiY2szNWN0MGsyMDI2O
             'source': 'EastDeli',
             'paint': {
                 'circle-color': '#000000',
-                'circle-radius': 3,
+                'circle-radius': 5,
                 'circle-stroke-width': 2,
                 'circle-stroke-color': '#ffffff'
             }
